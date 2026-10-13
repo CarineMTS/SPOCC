@@ -24,11 +24,11 @@ design_grids <- function(region_name) {
   # Select regional survey data and spatial boundaries
   if (region_name == "west"){
     data_CGFS = data_CGFS_west
-    EC_shp <- terra::vect(here::here("01_DATA/shapefiles/west7e/west7e.shp"))
+    EC_shp <- terra::vect(here::here("sdmTMB_index/01_DATA/shapefiles/west7e/west7e.shp"))
     }
   else if (region_name == "east"){
     data_CGFS = data_CGFS_east
-    EC_shp <- terra::vect(here::here("01_DATA/shapefiles/east7d/east7d.shp"))
+    EC_shp <- terra::vect(here::here("sdmTMB_index/01_DATA/shapefiles/east7d/east7d.shp"))
     } 
 
   # ---------------------------------------------------------------------------- #

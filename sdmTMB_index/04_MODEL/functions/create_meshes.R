@@ -27,12 +27,12 @@ create_meshes_configurations <- function(region_name,
   # parameters for the specified region
   if (region_name == "west") {
     data_CGFS <- data_CGFS_west
-    EC_shp <- vect(here("01_DATA", "shapefiles", "west7e", "west7e.shp"))
+    EC_shp <- vect(here("sdmTMB_index/01_DATA/shapefiles/west7e/west7e.shp"))
     simplify_keep = 0.0025
     
   } else if (region_name == "east") {
     data_CGFS <- data_CGFS_east
-    EC_shp <- vect(here("01_DATA", "shapefiles", "east7d", "east7d.shp"))
+    EC_shp <- vect(here("sdmTMB_index/01_DATA/shapefiles/east7d/east7d.shp"))
     simplify_keep = 0.005
   }
   

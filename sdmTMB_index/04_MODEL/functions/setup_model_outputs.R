@@ -17,7 +17,7 @@
 sp_name_safe <- gsub("[^A-Za-z0-9_]", "_", sp_scientific)
 
 # Define the species-specific output directory
-species_output_dir <- here::here("05_OUTPUTS", sp_name_safe)
+species_output_dir <- here::here("sdmTMB_index", "05_OUTPUTS", sp_name_safe)
 
 # Create the species directory if it does not already exist
 if (!dir.exists(species_output_dir)) {
