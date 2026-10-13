@@ -1,0 +1,1149 @@
+serie;year;partialSerie;stationCode;operationID;haulID;category;sizeCategory;number;weightKg;comment
+CGFS;2024;1;C2378;6;2024_1_C2378_6;05 - Plastique / Lignes de peche (monofilament) / A5;A: <5*5 cm= 25 cm2;1;0.001;NA
+CGFS;2024;1;C2378;6;2024_1_C2378_6;02 - Plastique / Morceaux / A2;A: <5*5 cm= 25 cm2;1;0.001;NA
+CGFS;2024;1;C2378;6;2024_1_C2378_6;54 - Produits naturels / Bois (travaille) / E1;D: <50*50 cm= 2500 cm2;1;2.762;NA
+CGFS;2024;1;C2379;7;2024_1_C2379_7;13 - Plastique / Emballages alimentaires / L1c;A: <5*5 cm= 25 cm2;1;0.001;NA
+CGFS;2024;1;C2380;8;2024_1_C2380_8;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;1;0.001;NA
+CGFS;2024;1;C2381;9;2024_1_C2381_9;13 - Plastique / Emballages alimentaires / L1c;D: <50*50 cm= 2500 cm2;3;0.004;NA
+CGFS;2024;1;C2381;9;2024_1_C2381_9;15 - Plastique / Objets en plastique dur (caisses_recipients_tubes_cendriers_couvercles...) / L1e - Caisse_ recipients_ tubes_ cendrier_ couvercles_ etc.;A: <5*5 cm= 25 cm2;1;0.005;NA
+CGFS;2024;1;C2381;9;2024_1_C2381_9;05 - Plastique / Lignes de peche (monofilament) / A5;A: <5*5 cm= 25 cm2;1;0.001;NA
+CGFS;2024;1;C2381;9;2024_1_C2381_9;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;1;0.001;NA
+CGFS;2024;1;C2382;10;2024_1_C2382_10;13 - Plastique / Emballages alimentaires / L1c;A: <5*5 cm= 25 cm2;1;0.001;NA
+CGFS;2024;1;C2382;10;2024_1_C2382_10;43 - Caoutchouc / Autres / C6;C: <20*20 cm= 400 cm2;1;5.006;NA
+CGFS;2024;1;C2383;11;2024_1_C2383_11;05 - Plastique / Lignes de peche (monofilament) / A5;X: UNK - categorisation non realisee;1;0.001;NA
+CGFS;2024;1;C2383;11;2024_1_C2383_11;02 - Plastique / Morceaux / A2;X: UNK - categorisation non realisee;1;0.001;NA
+CGFS;2024;1;C2384;12;2024_1_C2384_12;02 - Plastique / Morceaux / A2;A: <5*5 cm= 25 cm2;1;0.001;NA
+CGFS;2024;1;C2384;12;2024_1_C2384_12;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;1;0.004;NA
+CGFS;2024;1;C2384;12;2024_1_C2384_12;43 - Caoutchouc / Autres / C6;X: UNK - categorisation non realisee;1;0.004;élastique
+CGFS;2024;1;C2385;13;2024_1_C2385_13;40 - Caoutchouc / Bobines (peche) / C3;C: <20*20 cm= 400 cm2;1;0.204;NA
+CGFS;2024;1;C2385;13;2024_1_C2385_13;35 - Metal / Recipients de taille moyenne (de peinture_ huile_ produits chimiques) / L3c - Pots de peinture_ pots d huile_ recipients de produits chimiques_ etc.;D: <50*50 cm= 2500 cm2;1;2.9;NA
+CGFS;2024;1;C2388;16;2024_1_C2388_16;13 - Plastique / Emballages alimentaires / L1c;A: <5*5 cm= 25 cm2;1;0.001;NA
+CGFS;2024;1;C2391;19;2024_1_C2391_19;12 - Plastique / Autres / A14_L1j;A: <5*5 cm= 25 cm2;1;0.044;Douille électrique
+CGFS;2024;1;C2392;20;2024_1_C2392_20;02 - Plastique / Morceaux / A2;B: <10*10 cm= 100 cm2;1;0.001;NA
+CGFS;2024;1;C2393;21;2024_1_C2393_21;02 - Plastique / Morceaux / A2;B: <10*10 cm= 100 cm2;1;0.001;NA
+CGFS;2024;1;C2395;23;2024_1_C2395_23;13 - Plastique / Emballages alimentaires / L1c;B: <10*10 cm= 100 cm2;1;0.002;NA
+CGFS;2024;1;C2395;23;2024_1_C2395_23;43 - Caoutchouc / Autres / C6;B: <10*10 cm= 100 cm2;1;0.012;chambre à air pour casier à bulot
+CGFS;2024;1;C2396;24;2024_1_C2396_24;44 - Caoutchouc / Autres (gants_ flotteurs_ bottes/chaussures_ cires_ sanitaire) / L2b - Gants_ Flotteurs_ Bottes/Chaussures_ cires_ sanitaire_ etc.;C: <20*20 cm= 400 cm2;1;0.59;NA
+CGFS;2024;1;C2396;24;2024_1_C2396_24;02 - Plastique / Morceaux / A2;X: UNK - categorisation non realisee;2;0.015;NA
+CGFS;2024;1;C2397;25;2024_1_C2397_25;13 - Plastique / Emballages alimentaires / L1c;B: <10*10 cm= 100 cm2;1;0.001;NA
+CGFS;2024;1;C2397;25;2024_1_C2397_25;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;1;0.002;NA
+CGFS;2024;1;C2397;25;2024_1_C2397_25;06 - Plastique / Lignes de peche (emmele) / A6 _ L1g;A: <5*5 cm= 25 cm2;1;0.002;NA
+CGFS;2024;1;C2397;25;2024_1_C2397_25;42 - Caoutchouc / Gants / C5;D: <50*50 cm= 2500 cm2;1;0.245;NA
+CGFS;2024;1;C2397;25;2024_1_C2397_25;16 - Plastique / Autres objets de peche (pots_ flotteurs_ etc.) / L1h - Plots_ flotteurs_ etc.;D: <50*50 cm= 2500 cm2;1;20;NA
+CGFS;2024;1;C2398;26;2024_1_C2398_26;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;1;0.004;NA
+CGFS;2024;1;C2399;27;2024_1_C2399_27;42 - Caoutchouc / Gants / C5;B: <10*10 cm= 100 cm2;1;0.02;NA
+CGFS;2024;1;C2399;27;2024_1_C2399_27;41 - Caoutchouc / Pneu / C4 _ L2a;E: <100*100 cm= 10000 cm2= 1 m2;1;22.4;@@kléber 195/70/R15 plein de merdasse usure modérée@@
+CGFS;2024;1;C2400;28;2024_1_C2400_28;12 - Plastique / Autres / A14_L1j;A: <5*5 cm= 25 cm2;1;0.001;scotch
+CGFS;2024;1;C2402;30;2024_1_C2402_30;01 - Plastique / Bouteille / A1 _ L1b;X: UNK - categorisation non realisee;22;0.274;NA
+CGFS;2024;1;C2402;30;2024_1_C2402_30;02 - Plastique / Morceaux / A2;X: UNK - categorisation non realisee;84;0.122;NA
+CGFS;2024;1;C2402;30;2024_1_C2402_30;13 - Plastique / Emballages alimentaires / L1c;X: UNK - categorisation non realisee;12;0.026;NA
+CGFS;2024;1;C2402;30;2024_1_C2402_30;24 - Dechets sanitaires / Serviettes hygieniques_ tampons / B6;X: UNK - categorisation non realisee;1;0.008;NA
+CGFS;2024;1;C2402;30;2024_1_C2402_30;43 - Caoutchouc / Autres / C6;X: UNK - categorisation non realisee;4;0.028;NA
+CGFS;2024;1;C2402;30;2024_1_C2402_30;15 - Plastique / Objets en plastique dur (caisses_recipients_tubes_cendriers_couvercles...) / L1e - Caisse_ recipients_ tubes_ cendrier_ couvercles_ etc.;X: UNK - categorisation non realisee;1;0.002;NA
+CGFS;2024;1;C2402;30;2024_1_C2402_30;06 - Plastique / Lignes de peche (emmele) / A6 _ L1g;X: UNK - categorisation non realisee;2;0.004;NA
+CGFS;2024;1;C2402;30;2024_1_C2402_30;05 - Plastique / Lignes de peche (monofilament) / A5;X: UNK - categorisation non realisee;4;0.002;NA
+CGFS;2024;1;C2402;30;2024_1_C2402_30;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;6;0.006;NA
+CGFS;2024;1;C2402;30;2024_1_C2402_30;10 - Plastique / Bande de cerclage / A10;X: UNK - categorisation non realisee;1;0.004;NA
+CGFS;2024;1;C2402;30;2024_1_C2402_30;67 - Autres / Specifie / L8;X: UNK - categorisation non realisee;1;0.086;eponge verte
+CGFS;2024;1;C2402;30;2024_1_C2402_30;64 - Habits (textiles)_fibres naturelles / Vetements (habits_ chaussures_...) / L5a - Habits_ chaussures_ etc.;X: UNK - categorisation non realisee;1;0.002;NA
+CGFS;2024;1;C2403;31;2024_1_C2403_31;01 - Plastique / Bouteille / A1 _ L1b;X: UNK - categorisation non realisee;4;0.016;NA
+CGFS;2024;1;C2403;31;2024_1_C2403_31;13 - Plastique / Emballages alimentaires / L1c;X: UNK - categorisation non realisee;1;0.006;NA
+CGFS;2024;1;C2403;31;2024_1_C2403_31;02 - Plastique / Morceaux / A2;X: UNK - categorisation non realisee;2;0.002;NA
+CGFS;2024;1;C2403;31;2024_1_C2403_31;24 - Dechets sanitaires / Serviettes hygieniques_ tampons / B6;X: UNK - categorisation non realisee;1;0.002;NA
+CGFS;2024;1;C2403;31;2024_1_C2403_31;43 - Caoutchouc / Autres / C6;X: UNK - categorisation non realisee;1;0.01;chambre à air
+CGFS;2024;1;C2403;31;2024_1_C2403_31;17 - Plastique / Cordes synthetiques_ bandes de cerclage / L1i;X: UNK - categorisation non realisee;2;0.004;NA
+CGFS;2024;1;C2404;32;2024_1_C2404_32;13 - Plastique / Emballages alimentaires / L1c;A: <5*5 cm= 25 cm2;2;5e-04;NA
+CGFS;2024;1;C2404;32;2024_1_C2404_32;60 - Divers / Vetements_ Chiffons / F1;C: <20*20 cm= 400 cm2;1;0.007;NA
+CGFS;2024;1;C2404;32;2024_1_C2404_32;02 - Plastique / Morceaux / A2;A: <5*5 cm= 25 cm2;7;0.004;NA
+CGFS;2024;1;C2404;32;2024_1_C2404_32;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;3;0.0025;NA
+CGFS;2024;1;C2405;33;2024_1_C2405_33;65 - Habits (textiles)_fibres naturelles / Grosses pieces (tapis_ matelas_...) / L5b - Tapis_ matelas_ etc.;D: <50*50 cm= 2500 cm2;1;4.2;NA
+CGFS;2024;1;C2405;33;2024_1_C2405_33;03 - Plastique / Sacs / A3 _ L1a;X: UNK - categorisation non realisee;8;0.008;NA
+CGFS;2024;1;C2405;33;2024_1_C2405_33;01 - Plastique / Bouteille / A1 _ L1b;X: UNK - categorisation non realisee;1;0.016;NA
+CGFS;2024;1;C2405;33;2024_1_C2405_33;41 - Caoutchouc / Pneu / C4 _ L2a;X: UNK - categorisation non realisee;1;0.052;NA
+CGFS;2024;1;C2405;33;2024_1_C2405_33;02 - Plastique / Morceaux / A2;X: UNK - categorisation non realisee;2;0.005;NA
+CGFS;2024;1;C2405;33;2024_1_C2405_33;24 - Dechets sanitaires / Serviettes hygieniques_ tampons / B6;X: UNK - categorisation non realisee;1;0.01;NA
+CGFS;2024;1;C2405;33;2024_1_C2405_33;64 - Habits (textiles)_fibres naturelles / Vetements (habits_ chaussures_...) / L5a - Habits_ chaussures_ etc.;X: UNK - categorisation non realisee;1;0.036;NA
+CGFS;2024;1;C2405;33;2024_1_C2405_33;05 - Plastique / Lignes de peche (monofilament) / A5;X: UNK - categorisation non realisee;1;0.001;NA
+CGFS;2024;1;C2406;34;2024_1_C2406_34;03 - Plastique / Sacs / A3 _ L1a;B: <10*10 cm= 100 cm2;3;0.008;NA
+CGFS;2024;1;C2407;35;2024_1_C2407_35;03 - Plastique / Sacs / A3 _ L1a;X: UNK - categorisation non realisee;1;0.004;NA
+CGFS;2024;1;C2407;35;2024_1_C2407_35;43 - Caoutchouc / Autres / C6;X: UNK - categorisation non realisee;1;0.084;NA
+CGFS;2024;1;C2408;36;2024_1_C2408_36;13 - Plastique / Emballages alimentaires / L1c;A: <5*5 cm= 25 cm2;1;0.002;NA
+CGFS;2024;1;C2408;36;2024_1_C2408_36;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;2;0.002;NA
+CGFS;2024;1;C2410;38;2024_1_C2410_38;08 - Plastique / Filets de peche / A8 _ L1f;A: <5*5 cm= 25 cm2;1;0.001;NA
+CGFS;2024;1;C2411;39;2024_1_C2411_39;03 - Plastique / Sacs / A3 _ L1a;B: <10*10 cm= 100 cm2;1;0.023;NA
+CGFS;2024;1;C2411;39;2024_1_C2411_39;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;1;0.001;NA
+CGFS;2024;1;C2412;40;2024_1_C2412_40;02 - Plastique / Morceaux / A2;B: <10*10 cm= 100 cm2;1;0.002;NA
+CGFS;2024;1;C2413;41;2024_1_C2413_41;02 - Plastique / Morceaux / A2;B: <10*10 cm= 100 cm2;1;0.001;NA
+CGFS;2024;1;C2414;42;2024_1_C2414_42;12 - Plastique / Autres / A14_L1j;C: <20*20 cm= 400 cm2;6;4e-04;NA
+CGFS;2024;1;C2414;42;2024_1_C2414_42;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;2;0.014;NA
+CGFS;2024;1;C2414;42;2024_1_C2414_42;05 - Plastique / Lignes de peche (monofilament) / A5;A: <5*5 cm= 25 cm2;5;0.002;NA
+CGFS;2024;1;C2415;43;2024_1_C2415_43;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;5;0.004;NA
+CGFS;2024;1;C2416;44;2024_1_C2416_44;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;2;0.001;NA
+CGFS;2024;1;C2417;45;2024_1_C2417_45;06 - Plastique / Lignes de peche (emmele) / A6 _ L1g;X: UNK - categorisation non realisee;1;0.001;NA
+CGFS;2024;1;C2417;45;2024_1_C2417_45;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;3;0.006;NA
+CGFS;2024;1;C2417;45;2024_1_C2417_45;09 - Plastique / Attaches de cable / A9;X: UNK - categorisation non realisee;1;0.004;NA
+CGFS;2024;1;C2417;45;2024_1_C2417_45;13 - Plastique / Emballages alimentaires / L1c;X: UNK - categorisation non realisee;1;5e-04;NA
+CGFS;2024;1;C2418;46;2024_1_C2418_46;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;2;0.119;NA
+CGFS;2024;1;C2419;47;2024_1_C2419_47;13 - Plastique / Emballages alimentaires / L1c;X: UNK - categorisation non realisee;1;0.001;NA
+CGFS;2024;1;C2420;48;2024_1_C2420_48;15 - Plastique / Objets en plastique dur (caisses_recipients_tubes_cendriers_couvercles...) / L1e - Caisse_ recipients_ tubes_ cendrier_ couvercles_ etc.;A: <5*5 cm= 25 cm2;1;0.003;plaquette médicaments  (cachets)
+CGFS;2024;1;C2420;48;2024_1_C2420_48;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;2;0.002;NA
+CGFS;2024;1;C2421;49;2024_1_C2421_49;06 - Plastique / Lignes de peche (emmele) / A6 _ L1g;X: UNK - categorisation non realisee;1;0.011;NA
+CGFS;2024;1;C2423;51;2024_1_C2423_51;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;2;0.188;NA
+CGFS;2024;1;C2423;51;2024_1_C2423_51;03 - Plastique / Sacs / A3 _ L1a;A: <5*5 cm= 25 cm2;1;5e-04;NA
+CGFS;2024;1;C2423;51;2024_1_C2423_51;50 - Verre_ceramique / Morceaux de verre / L4b;X: UNK - categorisation non realisee;4;0.011;morceaux d'un gouot d'une bouteille en verre
+CGFS;2024;1;C2423;51;2024_1_C2423_51;15 - Plastique / Objets en plastique dur (caisses_recipients_tubes_cendriers_couvercles...) / L1e - Caisse_ recipients_ tubes_ cendrier_ couvercles_ etc.;E: <100*100 cm= 10000 cm2= 1 m2;1;0.376;cagette
+CGFS;2024;1;C2424;52;2024_1_C2424_52;13 - Plastique / Emballages alimentaires / L1c;C: <20*20 cm= 400 cm2;1;0.013;paquet de chips
+CGFS;2024;1;C2424;52;2024_1_C2424_52;02 - Plastique / Morceaux / A2;B: <10*10 cm= 100 cm2;1;0.131;morceau en  résine
+CGFS;2024;1;C2424;52;2024_1_C2424_52;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;1;0.005;NA
+CGFS;2024;1;C2425;53;2024_1_C2425_53;61 - Divers / Chaussures / F2;C: <20*20 cm= 400 cm2;1;1.321;taille 41, coqué, de marque yds
+CGFS;2024;1;C2425;53;2024_1_C2425_53;09 - Plastique / Attaches de cable / A9;A: <5*5 cm= 25 cm2;1;0.003;NA
+CGFS;2024;1;C2425;53;2024_1_C2425_53;06 - Plastique / Lignes de peche (emmele) / A6 _ L1g;X: UNK - categorisation non realisee;1;0.004;NA
+CGFS;2024;1;C2426;54;2024_1_C2426_54;03 - Plastique / Sacs / A3 _ L1a;D: <50*50 cm= 2500 cm2;1;0.026;bolduc
+CGFS;2024;1;C2426;54;2024_1_C2426_54;34 - Metal / Autres / B8;X: UNK - categorisation non realisee;1;0.011;NA
+CGFS;2024;1;C2426;54;2024_1_C2426_54;43 - Caoutchouc / Autres / C6;X: UNK - categorisation non realisee;1;0.027;rondelle de bourrelet
+CGFS;2024;1;C2427;55;2024_1_C2427_55;50 - Verre_ceramique / Morceaux de verre / L4b;B: <10*10 cm= 100 cm2;1;0.009;NA
+CGFS;2024;1;C2427;55;2024_1_C2427_55;12 - Plastique / Autres / A14_L1j;B: <10*10 cm= 100 cm2;1;0.058;tuyau d'arrosage
+CGFS;2024;1;C2427;55;2024_1_C2427_55;05 - Plastique / Lignes de peche (monofilament) / A5;X: UNK - categorisation non realisee;1;5e-04;NA
+CGFS;2024;1;C2427;55;2024_1_C2427_55;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;4;0.0035;NA
+CGFS;2024;1;C2428;56;2024_1_C2428_56;05 - Plastique / Lignes de peche (monofilament) / A5;X: UNK - categorisation non realisee;1;5e-04;NA
+CGFS;2024;1;C2428;56;2024_1_C2428_56;13 - Plastique / Emballages alimentaires / L1c;B: <10*10 cm= 100 cm2;1;0.001;NA
+CGFS;2024;1;C2429;57;2024_1_C2429_57;10 - Plastique / Bande de cerclage / A10;X: UNK - categorisation non realisee;1;0.037;NA
+CGFS;2024;1;C2429;57;2024_1_C2429_57;31 - Metal / Appareils / B5;X: UNK - categorisation non realisee;1;0.47;objet de laboratoire ?
+CGFS;2024;1;C2429;57;2024_1_C2429_57;60 - Divers / Vetements_ Chiffons / F1;D: <50*50 cm= 2500 cm2;2;0.122;NA
+CGFS;2024;1;C2429;57;2024_1_C2429_57;67 - Autres / Specifie / L8;B: <10*10 cm= 100 cm2;1;0.039;croute de peinture
+CGFS;2024;1;C2429;57;2024_1_C2429_57;15 - Plastique / Objets en plastique dur (caisses_recipients_tubes_cendriers_couvercles...) / L1e - Caisse_ recipients_ tubes_ cendrier_ couvercles_ etc.;B: <10*10 cm= 100 cm2;1;0.027;NA
+CGFS;2024;1;C2429;57;2024_1_C2429_57;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;1;0.003;NA
+CGFS;2024;1;C2429;57;2024_1_C2429_57;05 - Plastique / Lignes de peche (monofilament) / A5;X: UNK - categorisation non realisee;2;0.001;NA
+CGFS;2024;1;C2429;57;2024_1_C2429_57;06 - Plastique / Lignes de peche (emmele) / A6 _ L1g;X: UNK - categorisation non realisee;1;0.009;NA
+CGFS;2024;1;C2430;58;2024_1_C2430_58;64 - Habits (textiles)_fibres naturelles / Vetements (habits_ chaussures_...) / L5a - Habits_ chaussures_ etc.;A: <5*5 cm= 25 cm2;1;0.005;NA
+CGFS;2024;1;C2430;58;2024_1_C2430_58;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;1;0.001;NA
+CGFS;2024;1;C2430;58;2024_1_C2430_58;13 - Plastique / Emballages alimentaires / L1c;X: UNK - categorisation non realisee;1;0.001;NA
+CGFS;2024;1;C2431;59;2024_1_C2431_59;13 - Plastique / Emballages alimentaires / L1c;B: <10*10 cm= 100 cm2;1;0.003;NA
+CGFS;2024;1;C2431;59;2024_1_C2431_59;61 - Divers / Chaussures / F2;A: <5*5 cm= 25 cm2;1;0.003;lacet
+CGFS;2024;1;C2432;60;2024_1_C2432_60;13 - Plastique / Emballages alimentaires / L1c;B: <10*10 cm= 100 cm2;1;0.003;NA
+CGFS;2024;1;C2432;60;2024_1_C2432_60;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;1;0.008;NA
+CGFS;2024;1;C2434;62;2024_1_C2434_62;61 - Divers / Chaussures / F2;C: <20*20 cm= 400 cm2;1;0.088;semelle
+CGFS;2024;1;C2434;62;2024_1_C2434_62;15 - Plastique / Objets en plastique dur (caisses_recipients_tubes_cendriers_couvercles...) / L1e - Caisse_ recipients_ tubes_ cendrier_ couvercles_ etc.;B: <10*10 cm= 100 cm2;2;0.002;morceau transparant cassé et petit morceu noir friable
+CGFS;2024;1;C2434;62;2024_1_C2434_62;05 - Plastique / Lignes de peche (monofilament) / A5;X: UNK - categorisation non realisee;3;0.001;NA
+CGFS;2024;1;C2434;62;2024_1_C2434_62;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;4;0.022;NA
+CGFS;2024;1;C2434;62;2024_1_C2434_62;06 - Plastique / Lignes de peche (emmele) / A6 _ L1g;X: UNK - categorisation non realisee;1;0.018;NA
+CGFS;2024;1;C2434;62;2024_1_C2434_62;08 - Plastique / Filets de peche / A8 _ L1f;B: <10*10 cm= 100 cm2;1;0.001;NA
+CGFS;2024;1;C2434;62;2024_1_C2434_62;43 - Caoutchouc / Autres / C6;C: <20*20 cm= 400 cm2;1;0.064;NA
+CGFS;2024;1;C2438;65;2024_1_C2438_65;05 - Plastique / Lignes de peche (monofilament) / A5;A: <5*5 cm= 25 cm2;5;0.0715;NA
+CGFS;2024;1;C2438;65;2024_1_C2438_65;12 - Plastique / Autres / A14_L1j;A: <5*5 cm= 25 cm2;1;0.0195;NA
+CGFS;2024;1;C2438;65;2024_1_C2438_65;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;1;0.004;NA
+CGFS;2024;1;C2438;65;2024_1_C2438_65;13 - Plastique / Emballages alimentaires / L1c;A: <5*5 cm= 25 cm2;1;5e-04;NA
+CGFS;2024;1;C2438;65;2024_1_C2438_65;28 - Metal / Cannettes / B2 _ L3a;A: <5*5 cm= 25 cm2;1;0.0045;NA
+CGFS;2024;1;C2440;66;2024_1_C2440_66;02 - Plastique / Morceaux / A2;B: <10*10 cm= 100 cm2;4;0.003;NA
+CGFS;2024;1;C2440;66;2024_1_C2440_66;05 - Plastique / Lignes de peche (monofilament) / A5;X: UNK - categorisation non realisee;2;0.001;NA
+CGFS;2024;1;C2440;66;2024_1_C2440_66;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;1;0.002;NA
+CGFS;2024;1;C2439;67;2024_1_C2439_67;08 - Plastique / Filets de peche / A8 _ L1f;A: <5*5 cm= 25 cm2;1;0.005;NA
+CGFS;2024;1;C2439;67;2024_1_C2439_67;33 - Metal / Cables / B7 _ L3e;A: <5*5 cm= 25 cm2;1;0.002;NA
+CGFS;2024;1;C2439;67;2024_1_C2439_67;17 - Plastique / Cordes synthetiques_ bandes de cerclage / L1i;A: <5*5 cm= 25 cm2;1;0.001;NA
+CGFS;2024;1;C2439;67;2024_1_C2439_67;03 - Plastique / Sacs / A3 _ L1a;A: <5*5 cm= 25 cm2;1;0.001;NA
+CGFS;2024;1;C2441;68;2024_1_C2441_68;05 - Plastique / Lignes de peche (monofilament) / A5;A: <5*5 cm= 25 cm2;1;0.001;NA
+CGFS;2024;1;C2442;69;2024_1_C2442_69;02 - Plastique / Morceaux / A2;D: <50*50 cm= 2500 cm2;1;0.006;NA
+CGFS;2024;1;C2442;69;2024_1_C2442_69;42 - Caoutchouc / Gants / C5;C: <20*20 cm= 400 cm2;1;0.096;NA
+CGFS;2024;1;C2443;70;2024_1_C2443_70;05 - Plastique / Lignes de peche (monofilament) / A5;A: <5*5 cm= 25 cm2;1;0.001;NA
+CGFS;2024;1;C2444;71;2024_1_C2444_71;01 - Plastique / Bouteille / A1 _ L1b;D: <50*50 cm= 2500 cm2;1;0.035;NA
+CGFS;2024;1;C2444;71;2024_1_C2444_71;02 - Plastique / Morceaux / A2;B: <10*10 cm= 100 cm2;1;0.001;NA
+CGFS;2024;1;C2444;71;2024_1_C2444_71;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;1;0.004;NA
+CGFS;2024;1;C2444;71;2024_1_C2444_71;08 - Plastique / Filets de peche / A8 _ L1f;X: UNK - categorisation non realisee;1;0.002;NA
+CGFS;2024;1;C2445;72;2024_1_C2445_72;02 - Plastique / Morceaux / A2;C: <20*20 cm= 400 cm2;1;0.002;NA
+CGFS;2024;1;C2446;73;2024_1_C2446_73;05 - Plastique / Lignes de peche (monofilament) / A5;A: <5*5 cm= 25 cm2;2;0.001;NA
+CGFS;2023;1;B2405;1;2023_1_B2405_1;03 - Plastique / Sacs / A3 _ L1a;B: <10*10 cm= 100 cm2;1;5;NA
+CGFS;2023;1;B2405;1;2023_1_B2405_1;08 - Plastique / Filets de peche / A8 _ L1f;A: <5*5 cm= 25 cm2;1;15;NA
+CGFS;2023;1;B2405;1;2023_1_B2405_1;71 - Filets et autres engins de peche;F: >100*100 cm = 10000 cm2= 1 m2;1;30;NA
+CGFS;2023;1;B2406;2;2023_1_B2406_2;34 - Metal / Autres / B8;X: UNK - categorisation non realisee;1;9.93;NA
+CGFS;2023;1;B2411;7;2023_1_B2411_7;00 - Plastique / A _ L1;A: <5*5 cm= 25 cm2;1;0.051;NA
+CGFS;2023;1;B2411;7;2023_1_B2411_7;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;1;0.002;NA
+CGFS;2023;1;B2412;8;2023_1_B2412_8;71 - Filets et autres engins de peche;E: <100*100 cm= 10000 cm2= 1 m2;1;16.1;NA
+CGFS;2023;1;B2414;10;2023_1_B2414_10;02 - Plastique / Morceaux / A2;C: <20*20 cm= 400 cm2;1;0.003;NA
+CGFS;2023;1;B2414;10;2023_1_B2414_10;15 - Plastique / Objets en plastique dur (caisses_recipients_tubes_cendriers_couvercles...) / L1e - Caisse_ recipients_ tubes_ cendrier_ couvercles_ etc.;C: <20*20 cm= 400 cm2;1;0.286;NA
+CGFS;2023;1;B2415;11;2023_1_B2415_11;02 - Plastique / Morceaux / A2;D: <50*50 cm= 2500 cm2;4;0.008;NA
+CGFS;2023;1;B2416;12;2023_1_B2416_12;13 - Plastique / Emballages alimentaires / L1c;A: <5*5 cm= 25 cm2;1;1;NA
+CGFS;2023;1;B2416;12;2023_1_B2416_12;05 - Plastique / Lignes de peche (monofilament) / A5;A: <5*5 cm= 25 cm2;2;0.001;NA
+CGFS;2023;1;B2417;13;2023_1_B2417_13;05 - Plastique / Lignes de peche (monofilament) / A5;A: <5*5 cm= 25 cm2;3;0.001;NA
+CGFS;2023;1;B2417;13;2023_1_B2417_13;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;1;3;NA
+CGFS;2023;1;B2418;14;2023_1_B2418_14;60 - Divers / Vetements_ Chiffons / F1;D: <50*50 cm= 2500 cm2;1;0.316;NA
+CGFS;2023;1;B2418;14;2023_1_B2418_14;33 - Metal / Cables / B7 _ L3e;X: UNK - categorisation non realisee;1;0.116;NA
+CGFS;2023;1;B2419;15;2023_1_B2419_15;71 - Filets et autres engins de peche;X: UNK - categorisation non realisee;1;15;Casier à bulot
+CGFS;2023;1;B2420;16;2023_1_B2420_16;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;1;0.002;NA
+CGFS;2023;1;B2420;16;2023_1_B2420_16;12 - Plastique / Autres / A14_L1j;B: <10*10 cm= 100 cm2;1;0.137;NA
+CGFS;2023;1;B2421;17;2023_1_B2421_17;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;2;5;NA
+CGFS;2023;1;B2422;18;2023_1_B2422_18;08 - Plastique / Filets de peche / A8 _ L1f;C: <20*20 cm= 400 cm2;1;53;NA
+CGFS;2023;1;B2424;20;2023_1_B2424_20;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;2;0.008;NA
+CGFS;2023;1;B2426;22;2023_1_B2426_22;13 - Plastique / Emballages alimentaires / L1c;A: <5*5 cm= 25 cm2;1;0.001;NA
+CGFS;2023;1;B2427;23;2023_1_B2427_23;02 - Plastique / Morceaux / A2;A: <5*5 cm= 25 cm2;1;2;NA
+CGFS;2023;1;B2427;23;2023_1_B2427_23;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;1;5;NA
+CGFS;2023;1;B2428;24;2023_1_B2428_24;05 - Plastique / Lignes de peche (monofilament) / A5;A: <5*5 cm= 25 cm2;1;5;NA
+CGFS;2023;1;B2429;25;2023_1_B2429_25;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;2;0.01;NA
+CGFS;2023;1;B2429;25;2023_1_B2429_25;02 - Plastique / Morceaux / A2;B: <10*10 cm= 100 cm2;1;0.013;NA
+CGFS;2023;1;B2430;26;2023_1_B2430_26;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;1;0.044;NA
+CGFS;2023;1;B2430;26;2023_1_B2430_26;43 - Caoutchouc / Autres / C6;B: <10*10 cm= 100 cm2;1;0.085;NA
+CGFS;2023;1;B2431;27;2023_1_B2431_27;71 - Filets et autres engins de peche;X: UNK - categorisation non realisee;1;13.93;casier bulot@@
+CGFS;2023;1;B2432;28;2023_1_B2432_28;02 - Plastique / Morceaux / A2;A: <5*5 cm= 25 cm2;1;3;NA
+CGFS;2023;1;B2432;28;2023_1_B2432_28;26 - Metal / B _ L3;A: <5*5 cm= 25 cm2;1;1;NA
+CGFS;2023;1;B2434;30;2023_1_B2434_30;37 - Caoutchouc / D _ L2;B: <10*10 cm= 100 cm2;1;0.034;NA
+CGFS;2023;1;B2434;30;2023_1_B2434_30;08 - Plastique / Filets de peche / A8 _ L1f;X: UNK - categorisation non realisee;3;0.02;NA
+CGFS;2023;1;B2434;30;2023_1_B2434_30;05 - Plastique / Lignes de peche (monofilament) / A5;X: UNK - categorisation non realisee;1;0.001;NA
+CGFS;2023;1;B2435;31;2023_1_B2435_31;71 - Filets et autres engins de peche;X: UNK - categorisation non realisee;1;12.15;NA
+CGFS;2023;1;B2436;32;2023_1_B2436_32;05 - Plastique / Lignes de peche (monofilament) / A5;A: <5*5 cm= 25 cm2;1;1;NA
+CGFS;2023;1;B2436;32;2023_1_B2436_32;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;1;2;NA
+CGFS;2023;1;B2438;34;2023_1_B2438_34;42 - Caoutchouc / Gants / C5;C: <20*20 cm= 400 cm2;1;0.261;NA
+CGFS;2023;1;B2438;34;2023_1_B2438_34;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;1;0.002;NA
+CGFS;2023;1;B2438;34;2023_1_B2438_34;60 - Divers / Vetements_ Chiffons / F1;A: <5*5 cm= 25 cm2;1;0.006;NA
+CGFS;2023;1;B2441;37;2023_1_B2441_37;12 - Plastique / Autres / A14_L1j;B: <10*10 cm= 100 cm2;4;0.101;NA
+CGFS;2023;1;B2441;37;2023_1_B2441_37;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;1;0.004;NA
+CGFS;2023;1;B2442;38;2023_1_B2442_38;02 - Plastique / Morceaux / A2;B: <10*10 cm= 100 cm2;1;4;NA
+CGFS;2023;1;B2442;38;2023_1_B2442_38;13 - Plastique / Emballages alimentaires / L1c;B: <10*10 cm= 100 cm2;1;36;NA
+CGFS;2023;1;B2442;38;2023_1_B2442_38;01 - Plastique / Bouteille / A1 _ L1b;B: <10*10 cm= 100 cm2;1;37;NA
+CGFS;2023;1;B2442;38;2023_1_B2442_38;10 - Plastique / Bande de cerclage / A10;A: <5*5 cm= 25 cm2;1;3;NA
+CGFS;2023;1;B2443;39;2023_1_B2443_39;05 - Plastique / Lignes de peche (monofilament) / A5;X: UNK - categorisation non realisee;1;0.001;NA
+CGFS;2023;1;B2443;39;2023_1_B2443_39;09 - Plastique / Attaches de cable / A9;X: UNK - categorisation non realisee;1;0.002;NA
+CGFS;2023;1;B2443;39;2023_1_B2443_39;28 - Metal / Cannettes / B2 _ L3a;A: <5*5 cm= 25 cm2;1;0.002;NA
+CGFS;2023;1;B2443;39;2023_1_B2443_39;37 - Caoutchouc / D _ L2;B: <10*10 cm= 100 cm2;1;0.016;NA
+CGFS;2023;1;B2443;39;2023_1_B2443_39;60 - Divers / Vetements_ Chiffons / F1;D: <50*50 cm= 2500 cm2;1;0.027;NA
+CGFS;2023;1;B2443;39;2023_1_B2443_39;02 - Plastique / Morceaux / A2;C: <20*20 cm= 400 cm2;2;0.006;NA
+CGFS;2023;1;B2443;39;2023_1_B2443_39;13 - Plastique / Emballages alimentaires / L1c;C: <20*20 cm= 400 cm2;3;0.023;NA
+CGFS;2023;1;B2444;40;2023_1_B2444_40;60 - Divers / Vetements_ Chiffons / F1;B: <10*10 cm= 100 cm2;1;0.015;NA
+CGFS;2023;1;B2444;40;2023_1_B2444_40;67 - Autres / Specifie / L8;C: <20*20 cm= 400 cm2;1;0.032;courroie fibre
+CGFS;2023;1;B2444;40;2023_1_B2444_40;02 - Plastique / Morceaux / A2;B: <10*10 cm= 100 cm2;3;0.007;NA
+CGFS;2023;1;B2444;40;2023_1_B2444_40;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;3;0.013;NA
+CGFS;2023;1;B2444;40;2023_1_B2444_40;05 - Plastique / Lignes de peche (monofilament) / A5;X: UNK - categorisation non realisee;1;0.001;NA
+CGFS;2023;1;B2445;41;2023_1_B2445_41;42 - Caoutchouc / Gants / C5;C: <20*20 cm= 400 cm2;1;0.157;NA
+CGFS;2023;1;B2445;41;2023_1_B2445_41;07 - Plastique / Cordage synthetique / A7;D: <50*50 cm= 2500 cm2;4;0.71;NA
+CGFS;2023;1;B2445;41;2023_1_B2445_41;26 - Metal / B _ L3;B: <10*10 cm= 100 cm2;1;0.055;NA
+CGFS;2023;1;B2445;41;2023_1_B2445_41;00 - Plastique / A _ L1;A: <5*5 cm= 25 cm2;1;0.001;NA
+CGFS;2023;1;B2447;43;2023_1_B2447_43;60 - Divers / Vetements_ Chiffons / F1;A: <5*5 cm= 25 cm2;1;0.012;NA
+CGFS;2023;1;B2448;44;2023_1_B2448_44;71 - Filets et autres engins de peche;A: <5*5 cm= 25 cm2;1;0.002;NA
+CGFS;2023;1;B2448;44;2023_1_B2448_44;33 - Metal / Cables / B7 _ L3e;A: <5*5 cm= 25 cm2;2;0.51;NA
+CGFS;2023;1;B2449;45;2023_1_B2449_45;70 - Metal / Debris de guerre / L3g;C: <20*20 cm= 400 cm2;1;3.42;NA
+CGFS;2023;1;B2450;46;2023_1_B2450_46;02 - Plastique / Morceaux / A2;C: <20*20 cm= 400 cm2;1;0.026;NA
+CGFS;2023;1;B2451;47;2023_1_B2451_47;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;3;0.01;NA
+CGFS;2023;1;B2451;47;2023_1_B2451_47;27 - Metal / Boites de conserve / B1 _ L3b;B: <10*10 cm= 100 cm2;1;0.006;NA
+CGFS;2023;1;B2451;47;2023_1_B2451_47;13 - Plastique / Emballages alimentaires / L1c;C: <20*20 cm= 400 cm2;1;0.07;NA
+CGFS;2023;1;B2453;49;2023_1_B2453_49;05 - Plastique / Lignes de peche (monofilament) / A5;X: UNK - categorisation non realisee;2;0.002;NA
+CGFS;2023;1;B2453;49;2023_1_B2453_49;02 - Plastique / Morceaux / A2;X: UNK - categorisation non realisee;1;0.002;NA
+CGFS;2023;1;B2454;50;2023_1_B2454_50;03 - Plastique / Sacs / A3 _ L1a;D: <50*50 cm= 2500 cm2;1;0.155;NA
+CGFS;2023;1;B2454;50;2023_1_B2454_50;02 - Plastique / Morceaux / A2;A: <5*5 cm= 25 cm2;4;0.019;NA
+CGFS;2023;1;B2454;50;2023_1_B2454_50;07 - Plastique / Cordage synthetique / A7;B: <10*10 cm= 100 cm2;1;0.007;NA
+CGFS;2023;1;B2455;51;2023_1_B2455_51;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;2;10;NA
+CGFS;2023;1;B2455;51;2023_1_B2455_51;02 - Plastique / Morceaux / A2;A: <5*5 cm= 25 cm2;2;2;NA
+CGFS;2023;1;B2456;52;2023_1_B2456_52;02 - Plastique / Morceaux / A2;A: <5*5 cm= 25 cm2;5;0.006;NA
+CGFS;2023;1;B2456;52;2023_1_B2456_52;05 - Plastique / Lignes de peche (monofilament) / A5;A: <5*5 cm= 25 cm2;10;0.0229;NA
+CGFS;2023;1;B2456;52;2023_1_B2456_52;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;3;12;NA
+CGFS;2023;1;B2456;52;2023_1_B2456_52;08 - Plastique / Filets de peche / A8 _ L1f;C: <20*20 cm= 400 cm2;1;377;NA
+CGFS;2023;1;B2456;52;2023_1_B2456_52;25 - Dechets sanitaires / Autres / B7;A: <5*5 cm= 25 cm2;1;0.027;NA
+CGFS;2023;1;B2456;52;2023_1_B2456_52;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;1;0.026;NA
+CGFS;2023;1;B2457;53;2023_1_B2457_53;02 - Plastique / Morceaux / A2;D: <50*50 cm= 2500 cm2;4;0.015;NA
+CGFS;2023;1;B2457;53;2023_1_B2457_53;42 - Caoutchouc / Gants / C5;C: <20*20 cm= 400 cm2;1;0.04;NA
+CGFS;2023;1;B2457;53;2023_1_B2457_53;37 - Caoutchouc / D _ L2;B: <10*10 cm= 100 cm2;1;0.255;NA
+CGFS;2023;1;B2457;53;2023_1_B2457_53;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;1;0.032;NA
+CGFS;2023;1;B2458;54;2023_1_B2458_54;02 - Plastique / Morceaux / A2;X: UNK - categorisation non realisee;1;0.001;NA
+CGFS;2023;1;B2458;54;2023_1_B2458_54;13 - Plastique / Emballages alimentaires / L1c;X: UNK - categorisation non realisee;1;0.001;NA
+CGFS;2023;1;B2458;54;2023_1_B2458_54;34 - Metal / Autres / B8;X: UNK - categorisation non realisee;1;0.04;NA
+CGFS;2023;1;B2458;54;2023_1_B2458_54;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;1;0.001;NA
+CGFS;2023;1;B2459;55;2023_1_B2459_55;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;3;0.01;NA
+CGFS;2023;1;B2459;55;2023_1_B2459_55;02 - Plastique / Morceaux / A2;X: UNK - categorisation non realisee;4;0.006;NA
+CGFS;2023;1;B2460;56;2023_1_B2460_56;05 - Plastique / Lignes de peche (monofilament) / A5;B: <10*10 cm= 100 cm2;3;0.003;NA
+CGFS;2023;1;B2460;56;2023_1_B2460_56;01 - Plastique / Bouteille / A1 _ L1b;C: <20*20 cm= 400 cm2;1;0.013;NA
+CGFS;2023;1;B2460;56;2023_1_B2460_56;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;7;0.015;NA
+CGFS;2023;1;B2462;58;2023_1_B2462_58;42 - Caoutchouc / Gants / C5;C: <20*20 cm= 400 cm2;1;0.085;NA
+CGFS;2023;1;B2462;58;2023_1_B2462_58;05 - Plastique / Lignes de peche (monofilament) / A5;X: UNK - categorisation non realisee;1;0.001;NA
+CGFS;2023;1;B2462;58;2023_1_B2462_58;13 - Plastique / Emballages alimentaires / L1c;X: UNK - categorisation non realisee;1;0.004;NA
+CGFS;2023;1;B2462;58;2023_1_B2462_58;37 - Caoutchouc / D _ L2;B: <10*10 cm= 100 cm2;1;0.323;NA
+CGFS;2023;1;B2463;59;2023_1_B2463_59;02 - Plastique / Morceaux / A2;F: >100*100 cm = 10000 cm2= 1 m2;2;0.406;NA
+CGFS;2023;1;B2463;59;2023_1_B2463_59;28 - Metal / Cannettes / B2 _ L3a;B: <10*10 cm= 100 cm2;1;0.017;NA
+CGFS;2023;1;B2463;59;2023_1_B2463_59;54 - Produits naturels / Bois (travaille) / E1;B: <10*10 cm= 100 cm2;1;0.144;NA
+CGFS;2023;1;B2464;60;2023_1_B2464_60;06 - Plastique / Lignes de peche (emmele) / A6 _ L1g;D: <50*50 cm= 2500 cm2;1;0.097;NA
+CGFS;2023;1;B2464;60;2023_1_B2464_60;05 - Plastique / Lignes de peche (monofilament) / A5;X: UNK - categorisation non realisee;1;0.001;NA
+CGFS;2023;1;B2464;60;2023_1_B2464_60;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;1;0.001;NA
+CGFS;2023;1;B2466;62;2023_1_B2466_62;42 - Caoutchouc / Gants / C5;X: UNK - categorisation non realisee;1;0.079;NA
+CGFS;2023;1;B2466;62;2023_1_B2466_62;06 - Plastique / Lignes de peche (emmele) / A6 _ L1g;X: UNK - categorisation non realisee;1;0.042;NA
+CGFS;2023;1;B2467;63;2023_1_B2467_63;05 - Plastique / Lignes de peche (monofilament) / A5;X: UNK - categorisation non realisee;2;0.002;NA
+CGFS;2023;1;B2467;63;2023_1_B2467_63;60 - Divers / Vetements_ Chiffons / F1;B: <10*10 cm= 100 cm2;2;0.159;NA
+CGFS;2023;1;B2467;63;2023_1_B2467_63;44 - Caoutchouc / Autres (gants_ flotteurs_ bottes/chaussures_ cires_ sanitaire) / L2b - Gants_ Flotteurs_ Bottes/Chaussures_ cires_ sanitaire_ etc.;X: UNK - categorisation non realisee;1;0.09;NA
+CGFS;2023;1;B2467;63;2023_1_B2467_63;02 - Plastique / Morceaux / A2;X: UNK - categorisation non realisee;2;0.065;NA
+CGFS;2023;1;B2467;63;2023_1_B2467_63;37 - Caoutchouc / D _ L2;X: UNK - categorisation non realisee;1;0.195;NA
+CGFS;2023;1;B2467;63;2023_1_B2467_63;00 - Plastique / A _ L1;C: <20*20 cm= 400 cm2;1;0.468;filtre
+CGFS;2023;1;B2468;64;2023_1_B2468_64;08 - Plastique / Filets de peche / A8 _ L1f;X: UNK - categorisation non realisee;1;0.001;NA
+CGFS;2023;1;B2468;64;2023_1_B2468_64;05 - Plastique / Lignes de peche (monofilament) / A5;A: <5*5 cm= 25 cm2;4;1;NA
+CGFS;2023;1;B2468;64;2023_1_B2468_64;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;1;4;NA
+CGFS;2023;1;B2468;64;2023_1_B2468_64;03 - Plastique / Sacs / A3 _ L1a;A: <5*5 cm= 25 cm2;3;4;NA
+CGFS;2023;1;B2469;65;2023_1_B2469_65;26 - Metal / B _ L3;A: <5*5 cm= 25 cm2;1;0.014;NA
+CGFS;2023;1;B2469;65;2023_1_B2469_65;09 - Plastique / Attaches de cable / A9;A: <5*5 cm= 25 cm2;1;0.03;NA
+CGFS;2023;1;B2469;65;2023_1_B2469_65;55 - Produits naturels / Corde / E2 _ L5c;A: <5*5 cm= 25 cm2;1;0.001;NA
+CGFS;2023;1;B2469;65;2023_1_B2469_65;17 - Plastique / Cordes synthetiques_ bandes de cerclage / L1i;A: <5*5 cm= 25 cm2;4;1;NA
+CGFS;2023;1;B2469;65;2023_1_B2469_65;60 - Divers / Vetements_ Chiffons / F1;A: <5*5 cm= 25 cm2;1;0.005;NA
+CGFS;2023;1;B2469;65;2023_1_B2469_65;13 - Plastique / Emballages alimentaires / L1c;A: <5*5 cm= 25 cm2;1;0.002;NA
+CGFS;2023;1;B2470;66;2023_1_B2470_66;02 - Plastique / Morceaux / A2;C: <20*20 cm= 400 cm2;4;0.23;NA
+CGFS;2023;1;B2470;66;2023_1_B2470_66;05 - Plastique / Lignes de peche (monofilament) / A5;X: UNK - categorisation non realisee;5;0.003;NA
+CGFS;2023;1;B2470;66;2023_1_B2470_66;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;2;0.004;NA
+CGFS;2023;1;B2471;67;2023_1_B2471_67;06 - Plastique / Lignes de peche (emmele) / A6 _ L1g;X: UNK - categorisation non realisee;3;0.011;NA
+CGFS;2023;1;B2471;67;2023_1_B2471_67;02 - Plastique / Morceaux / A2;X: UNK - categorisation non realisee;2;0.007;NA
+CGFS;2023;1;B2472;68;2023_1_B2472_68;71 - Filets et autres engins de peche;C: <20*20 cm= 400 cm2;1;13;NA
+CGFS;2023;1;B2473;69;2023_1_B2473_69;07 - Plastique / Cordage synthetique / A7;B: <10*10 cm= 100 cm2;8;0.033;NA
+CGFS;2023;1;B2473;69;2023_1_B2473_69;06 - Plastique / Lignes de peche (emmele) / A6 _ L1g;B: <10*10 cm= 100 cm2;1;0.045;NA
+CGFS;2023;1;B2473;69;2023_1_B2473_69;02 - Plastique / Morceaux / A2;X: UNK - categorisation non realisee;1;0.001;NA
+CGFS;2023;1;B2474;70;2023_1_B2474_70;05 - Plastique / Lignes de peche (monofilament) / A5;X: UNK - categorisation non realisee;1;0.001;NA
+CGFS;2023;1;B2474;70;2023_1_B2474_70;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;2;0.002;NA
+CGFS;2023;1;B2474;70;2023_1_B2474_70;02 - Plastique / Morceaux / A2;A: <5*5 cm= 25 cm2;1;0.002;NA
+CGFS;2023;1;B2474;70;2023_1_B2474_70;10 - Plastique / Bande de cerclage / A10;X: UNK - categorisation non realisee;1;0.002;NA
+CGFS;2023;1;B2475;71;2023_1_B2475_71;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;1;0.01;NA
+CGFS;2023;1;B2476;72;2023_1_B2476_72;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;4;0.062;NA
+CGFS;2023;1;B2476;72;2023_1_B2476_72;05 - Plastique / Lignes de peche (monofilament) / A5;X: UNK - categorisation non realisee;3;0.002;NA
+CGFS;2023;1;B2477;73;2023_1_B2477_73;41 - Caoutchouc / Pneu / C4 _ L2a;X: UNK - categorisation non realisee;1;7.71;NA
+CGFS;2023;1;B2477;73;2023_1_B2477_73;61 - Divers / Chaussures / F2;X: UNK - categorisation non realisee;1;1.261;NA
+CGFS;2023;1;B2477;73;2023_1_B2477_73;02 - Plastique / Morceaux / A2;X: UNK - categorisation non realisee;6;0.023;NA
+CGFS;2023;1;B2477;73;2023_1_B2477_73;05 - Plastique / Lignes de peche (monofilament) / A5;X: UNK - categorisation non realisee;2;0.001;NA
+CGFS;2023;1;B2477;73;2023_1_B2477_73;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;1;0.005;NA
+CGFS;2023;1;B2477;73;2023_1_B2477_73;26 - Metal / B _ L3;X: UNK - categorisation non realisee;1;0.004;NA
+CGFS;2023;1;B2478;74;2023_1_B2478_74;02 - Plastique / Morceaux / A2;A: <5*5 cm= 25 cm2;6;0.036;NA
+CGFS;2023;1;B2478;74;2023_1_B2478_74;05 - Plastique / Lignes de peche (monofilament) / A5;A: <5*5 cm= 25 cm2;5;0.004;NA
+CGFS;2023;1;B2478;74;2023_1_B2478_74;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;3;0.007;NA
+CGFS;2022;1;A1400;1;2022_1_A1400_1;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;2;0.008;NA
+CGFS;2022;1;A1400;1;2022_1_A1400_1;02 - Plastique / Morceaux / A2;B: <10*10 cm= 100 cm2;1;0.001;NA
+CGFS;2022;1;A1401;2;2022_1_A1401_2;01 - Plastique / Bouteille / A1 _ L1b;X: UNK - categorisation non realisee;1;0.022;NA
+CGFS;2022;1;A1401;2;2022_1_A1401_2;05 - Plastique / Lignes de peche (monofilament) / A5;A: <5*5 cm= 25 cm2;1;0.001;NA
+CGFS;2022;1;A1401;2;2022_1_A1401_2;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;1;0.001;NA
+CGFS;2022;1;A1402;3;2022_1_A1402_3;08 - Plastique / Filets de peche / A8 _ L1f;B: <10*10 cm= 100 cm2;1;0.026;NA
+CGFS;2022;1;A1402;3;2022_1_A1402_3;05 - Plastique / Lignes de peche (monofilament) / A5;X: UNK - categorisation non realisee;2;0.002;NA
+CGFS;2022;1;A1406;7;2022_1_A1406_7;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;3;0.008;NA
+CGFS;2022;1;A1406;7;2022_1_A1406_7;33 - Metal / Cables / B7 _ L3e;E: <100*100 cm= 10000 cm2= 1 m2;1;87;NA
+CGFS;2022;1;A1407;8;2022_1_A1407_8;05 - Plastique / Lignes de peche (monofilament) / A5;X: UNK - categorisation non realisee;1;0.001;NA
+CGFS;2022;1;A1407;8;2022_1_A1407_8;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;2;0.097;NA
+CGFS;2022;1;A1407;8;2022_1_A1407_8;12 - Plastique / Autres / A14_L1j;X: UNK - categorisation non realisee;2;0.119;NA
+CGFS;2022;1;A1407;8;2022_1_A1407_8;34 - Metal / Autres / B8;A: <5*5 cm= 25 cm2;1;1600;NA
+CGFS;2022;1;A1408;9;2022_1_A1408_9;34 - Metal / Autres / B8;B: <10*10 cm= 100 cm2;1;0.019;NA
+CGFS;2022;1;A1408;9;2022_1_A1408_9;05 - Plastique / Lignes de peche (monofilament) / A5;X: UNK - categorisation non realisee;1;0.001;NA
+CGFS;2022;1;A1408;9;2022_1_A1408_9;01 - Plastique / Bouteille / A1 _ L1b;X: UNK - categorisation non realisee;1;0.019;NA
+CGFS;2022;1;A1409;10;2022_1_A1409_10;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;3;0.235;NA
+CGFS;2022;1;A1409;10;2022_1_A1409_10;05 - Plastique / Lignes de peche (monofilament) / A5;X: UNK - categorisation non realisee;2;0.001;NA
+CGFS;2022;1;A1409;10;2022_1_A1409_10;40 - Caoutchouc / Bobines (peche) / C3;X: UNK - categorisation non realisee;1;0.228;NA
+CGFS;2022;1;A1409;10;2022_1_A1409_10;60 - Divers / Vetements_ Chiffons / F1;D: <50*50 cm= 2500 cm2;1;0.265;NA
+CGFS;2022;1;A1410;11;2022_1_A1410_11;64 - Habits (textiles)_fibres naturelles / Vetements (habits_ chaussures_...) / L5a - Habits_ chaussures_ etc.;D: <50*50 cm= 2500 cm2;1;0.643;NA
+CGFS;2022;1;A1410;11;2022_1_A1410_11;02 - Plastique / Morceaux / A2;A: <5*5 cm= 25 cm2;1;0.002;NA
+CGFS;2022;1;A1410;11;2022_1_A1410_11;36 - Metal / Objets metalliques de grande taille (barils_  appareils electriques) / L3d - Barils_ pieces de machinerie_ appareils electriques_ etc.;B: <10*10 cm= 100 cm2;1;0.652;NA
+CGFS;2022;1;A1410;11;2022_1_A1410_11;34 - Metal / Autres / B8;C: <20*20 cm= 400 cm2;1;2.92;NA
+CGFS;2022;1;A1410;11;2022_1_A1410_11;40 - Caoutchouc / Bobines (peche) / C3;B: <10*10 cm= 100 cm2;1;0.28;NA
+CGFS;2022;1;A1411;12;2022_1_A1411_12;28 - Metal / Cannettes / B2 _ L3a;B: <10*10 cm= 100 cm2;2;0.015;NA
+CGFS;2022;1;A1411;12;2022_1_A1411_12;64 - Habits (textiles)_fibres naturelles / Vetements (habits_ chaussures_...) / L5a - Habits_ chaussures_ etc.;C: <20*20 cm= 400 cm2;2;0.094;NA
+CGFS;2022;1;A1411;12;2022_1_A1411_12;05 - Plastique / Lignes de peche (monofilament) / A5;X: UNK - categorisation non realisee;1;0.001;NA
+CGFS;2022;1;A1412;13;2022_1_A1412_13;33 - Metal / Cables / B7 _ L3e;X: UNK - categorisation non realisee;1;0.004;NA
+CGFS;2022;1;A1412;13;2022_1_A1412_13;60 - Divers / Vetements_ Chiffons / F1;B: <10*10 cm= 100 cm2;1;0.046;NA
+CGFS;2022;1;A1413;14;2022_1_A1413_14;02 - Plastique / Morceaux / A2;A: <5*5 cm= 25 cm2;1;2;NA
+CGFS;2022;1;A1414;15;2022_1_A1414_15;71 - Filets et autres engins de peche;D: <50*50 cm= 2500 cm2;1;16;NA
+CGFS;2022;1;A1414;15;2022_1_A1414_15;34 - Metal / Autres / B8;D: <50*50 cm= 2500 cm2;1;0.269;NA
+CGFS;2022;1;A1414;15;2022_1_A1414_15;05 - Plastique / Lignes de peche (monofilament) / A5;X: UNK - categorisation non realisee;1;1;NA
+CGFS;2022;1;A1414;15;2022_1_A1414_15;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;3;0.019;NA
+CGFS;2022;1;A1414;15;2022_1_A1414_15;60 - Divers / Vetements_ Chiffons / F1;B: <10*10 cm= 100 cm2;1;0.004;NA
+CGFS;2022;1;A1415;16;2022_1_A1415_16;05 - Plastique / Lignes de peche (monofilament) / A5;X: UNK - categorisation non realisee;1;0.001;NA
+CGFS;2022;1;A1415;16;2022_1_A1415_16;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;1;0.001;NA
+CGFS;2022;1;A1415;16;2022_1_A1415_16;09 - Plastique / Attaches de cable / A9;X: UNK - categorisation non realisee;1;0.005;NA
+CGFS;2022;1;A1415;16;2022_1_A1415_16;12 - Plastique / Autres / A14_L1j;A: <5*5 cm= 25 cm2;1;0.005;NA
+CGFS;2022;1;A1416;17;2022_1_A1416_17;05 - Plastique / Lignes de peche (monofilament) / A5;X: UNK - categorisation non realisee;3;0.001;NA
+CGFS;2022;1;A1416;17;2022_1_A1416_17;03 - Plastique / Sacs / A3 _ L1a;C: <20*20 cm= 400 cm2;1;0.052;NA
+CGFS;2022;1;A1419;20;2022_1_A1419_20;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;1;0.003;NA
+CGFS;2022;1;A1420;21;2022_1_A1420_21;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;1;0.004;NA
+CGFS;2022;1;A1420;21;2022_1_A1420_21;54 - Produits naturels / Bois (travaille) / E1;D: <50*50 cm= 2500 cm2;1;0.167;NA
+CGFS;2022;1;A1422;23;2022_1_A1422_23;54 - Produits naturels / Bois (travaille) / E1;B: <10*10 cm= 100 cm2;1;0.13;NA
+CGFS;2022;1;A1423;24;2022_1_A1423_24;13 - Plastique / Emballages alimentaires / L1c;D: <50*50 cm= 2500 cm2;2;0.017;NA
+CGFS;2022;1;A1424;25;2022_1_A1424_25;08 - Plastique / Filets de peche / A8 _ L1f;D: <50*50 cm= 2500 cm2;1;0.304;NA
+CGFS;2022;1;A1424;25;2022_1_A1424_25;28 - Metal / Cannettes / B2 _ L3a;A: <5*5 cm= 25 cm2;1;0.004;NA
+CGFS;2022;1;A1424;25;2022_1_A1424_25;53 - Produits naturels / F;X: UNK - categorisation non realisee;1;0.03;NA
+CGFS;2022;1;A1425;26;2022_1_A1425_26;02 - Plastique / Morceaux / A2;B: <10*10 cm= 100 cm2;1;0.002;NA
+CGFS;2022;1;A1426;27;2022_1_A1426_27;02 - Plastique / Morceaux / A2;E: <100*100 cm= 10000 cm2= 1 m2;44;0.429;NA
+CGFS;2022;1;A1426;27;2022_1_A1426_27;01 - Plastique / Bouteille / A1 _ L1b;C: <20*20 cm= 400 cm2;1;0.058;NA
+CGFS;2022;1;A1426;27;2022_1_A1426_27;27 - Metal / Boites de conserve / B1 _ L3b;A: <5*5 cm= 25 cm2;1;0.017;NA
+CGFS;2022;1;A1426;27;2022_1_A1426_27;09 - Plastique / Attaches de cable / A9;A: <5*5 cm= 25 cm2;2;0.014;NA
+CGFS;2022;1;A1426;27;2022_1_A1426_27;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;1;1;NA
+CGFS;2022;1;A1426;27;2022_1_A1426_27;12 - Plastique / Autres / A14_L1j;C: <20*20 cm= 400 cm2;1;0.119;NA
+CGFS;2022;1;A1426;27;2022_1_A1426_27;43 - Caoutchouc / Autres / C6;D: <50*50 cm= 2500 cm2;7;0.221;NA
+CGFS;2022;1;A1426;27;2022_1_A1426_27;41 - Caoutchouc / Pneu / C4 _ L2a;D: <50*50 cm= 2500 cm2;1;0.645;NA
+CGFS;2022;1;A1426;27;2022_1_A1426_27;42 - Caoutchouc / Gants / C5;C: <20*20 cm= 400 cm2;1;0.084;NA
+CGFS;2022;1;A1427;28;2022_1_A1427_28;02 - Plastique / Morceaux / A2;D: <50*50 cm= 2500 cm2;10;0.052;NA
+CGFS;2022;1;A1427;28;2022_1_A1427_28;64 - Habits (textiles)_fibres naturelles / Vetements (habits_ chaussures_...) / L5a - Habits_ chaussures_ etc.;B: <10*10 cm= 100 cm2;1;0.004;NA
+CGFS;2022;1;A1428;29;2022_1_A1428_29;02 - Plastique / Morceaux / A2;B: <10*10 cm= 100 cm2;4;0.006;NA
+CGFS;2022;1;A1428;29;2022_1_A1428_29;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;1;1;NA
+CGFS;2022;1;A1428;29;2022_1_A1428_29;60 - Divers / Vetements_ Chiffons / F1;B: <10*10 cm= 100 cm2;1;0.003;NA
+CGFS;2022;1;A1428;29;2022_1_A1428_29;42 - Caoutchouc / Gants / C5;D: <50*50 cm= 2500 cm2;2;0.28;NA
+CGFS;2022;1;A1429;30;2022_1_A1429_30;02 - Plastique / Morceaux / A2;B: <10*10 cm= 100 cm2;2;0.012;NA
+CGFS;2022;1;A1429;30;2022_1_A1429_30;13 - Plastique / Emballages alimentaires / L1c;B: <10*10 cm= 100 cm2;1;0.032;NA
+CGFS;2022;1;A1429;30;2022_1_A1429_30;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;1;0.001;NA
+CGFS;2022;1;A1430;31;2022_1_A1430_31;05 - Plastique / Lignes de peche (monofilament) / A5;X: UNK - categorisation non realisee;1;0.001;NA
+CGFS;2022;1;A1434;35;2022_1_A1434_35;05 - Plastique / Lignes de peche (monofilament) / A5;X: UNK - categorisation non realisee;1;0.001;NA
+CGFS;2022;1;A1435;36;2022_1_A1435_36;01 - Plastique / Bouteille / A1 _ L1b;C: <20*20 cm= 400 cm2;1;0.022;NA
+CGFS;2022;1;A1435;36;2022_1_A1435_36;05 - Plastique / Lignes de peche (monofilament) / A5;X: UNK - categorisation non realisee;1;0.001;NA
+CGFS;2022;1;A1435;36;2022_1_A1435_36;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;1;0.001;NA
+CGFS;2022;1;A1435;36;2022_1_A1435_36;33 - Metal / Cables / B7 _ L3e;X: UNK - categorisation non realisee;1;0.002;NA
+CGFS;2022;1;A1436;37;2022_1_A1436_37;08 - Plastique / Filets de peche / A8 _ L1f;X: UNK - categorisation non realisee;1;0.001;NA
+CGFS;2022;1;A1437;38;2022_1_A1437_38;02 - Plastique / Morceaux / A2;B: <10*10 cm= 100 cm2;2;0.002;NA
+CGFS;2022;1;A1441;42;2022_1_A1441_42;05 - Plastique / Lignes de peche (monofilament) / A5;X: UNK - categorisation non realisee;1;0.001;NA
+CGFS;2022;1;A1441;42;2022_1_A1441_42;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;1;0.001;NA
+CGFS;2022;1;A1443;44;2022_1_A1443_44;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;3;0.017;NA
+CGFS;2022;1;A1443;44;2022_1_A1443_44;02 - Plastique / Morceaux / A2;A: <5*5 cm= 25 cm2;1;0.001;NA
+CGFS;2022;1;A1444;45;2022_1_A1444_45;02 - Plastique / Morceaux / A2;A: <5*5 cm= 25 cm2;1;0.001;NA
+CGFS;2022;1;A1448;49;2022_1_A1448_49;02 - Plastique / Morceaux / A2;B: <10*10 cm= 100 cm2;3;0.002;NA
+CGFS;2022;1;A1448;49;2022_1_A1448_49;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;2;0.005;NA
+CGFS;2022;1;A1448;49;2022_1_A1448_49;05 - Plastique / Lignes de peche (monofilament) / A5;X: UNK - categorisation non realisee;2;0.001;NA
+CGFS;2022;1;A1449;50;2022_1_A1449_50;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;1;0.001;NA
+CGFS;2022;1;A1450;51;2022_1_A1450_51;02 - Plastique / Morceaux / A2;C: <20*20 cm= 400 cm2;1;0.004;NA
+CGFS;2022;1;A1450;51;2022_1_A1450_51;05 - Plastique / Lignes de peche (monofilament) / A5;X: UNK - categorisation non realisee;1;0.001;NA
+CGFS;2022;1;A1450;51;2022_1_A1450_51;13 - Plastique / Emballages alimentaires / L1c;C: <20*20 cm= 400 cm2;1;0.012;NA
+CGFS;2022;1;A1451;52;2022_1_A1451_52;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;1;0.003;NA
+CGFS;2022;1;A1451;52;2022_1_A1451_52;05 - Plastique / Lignes de peche (monofilament) / A5;X: UNK - categorisation non realisee;2;0.001;NA
+CGFS;2022;1;A1452;53;2022_1_A1452_53;02 - Plastique / Morceaux / A2;B: <10*10 cm= 100 cm2;1;0.002;NA
+CGFS;2022;1;A1452;53;2022_1_A1452_53;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;1;0.004;NA
+CGFS;2022;1;A1452;53;2022_1_A1452_53;05 - Plastique / Lignes de peche (monofilament) / A5;X: UNK - categorisation non realisee;1;0.001;NA
+CGFS;2022;1;A1452;53;2022_1_A1452_53;13 - Plastique / Emballages alimentaires / L1c;C: <20*20 cm= 400 cm2;2;0.048;NA
+CGFS;2022;1;A1452;53;2022_1_A1452_53;28 - Metal / Cannettes / B2 _ L3a;B: <10*10 cm= 100 cm2;2;0.007;NA
+CGFS;2022;1;A1453;54;2022_1_A1453_54;02 - Plastique / Morceaux / A2;A: <5*5 cm= 25 cm2;2;0.003;NA
+CGFS;2022;1;A1453;54;2022_1_A1453_54;08 - Plastique / Filets de peche / A8 _ L1f;X: UNK - categorisation non realisee;1;0.001;NA
+CGFS;2022;1;A1453;54;2022_1_A1453_54;34 - Metal / Autres / B8;D: <50*50 cm= 2500 cm2;1;1.7;NA
+CGFS;2022;1;A1453;54;2022_1_A1453_54;41 - Caoutchouc / Pneu / C4 _ L2a;D: <50*50 cm= 2500 cm2;1;4.38;NA
+CGFS;2022;1;A1454;55;2022_1_A1454_55;02 - Plastique / Morceaux / A2;B: <10*10 cm= 100 cm2;2;0.002;NA
+CGFS;2022;1;A1454;55;2022_1_A1454_55;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;2;0.001;NA
+CGFS;2022;1;A1455;56;2022_1_A1455_56;05 - Plastique / Lignes de peche (monofilament) / A5;X: UNK - categorisation non realisee;1;0.001;NA
+CGFS;2022;1;A1455;56;2022_1_A1455_56;02 - Plastique / Morceaux / A2;D: <50*50 cm= 2500 cm2;2;0.014;NA
+CGFS;2022;1;A1455;56;2022_1_A1455_56;12 - Plastique / Autres / A14_L1j;B: <10*10 cm= 100 cm2;1;0.066;NA
+CGFS;2022;1;A1456;57;2022_1_A1456_57;05 - Plastique / Lignes de peche (monofilament) / A5;X: UNK - categorisation non realisee;1;0.001;NA
+CGFS;2022;1;A1456;57;2022_1_A1456_57;02 - Plastique / Morceaux / A2;B: <10*10 cm= 100 cm2;1;0.003;NA
+CGFS;2022;1;A1456;57;2022_1_A1456_57;28 - Metal / Cannettes / B2 _ L3a;C: <20*20 cm= 400 cm2;1;0.022;NA
+CGFS;2022;1;A1456;57;2022_1_A1456_57;13 - Plastique / Emballages alimentaires / L1c;C: <20*20 cm= 400 cm2;1;12;NA
+CGFS;2022;1;A1457;58;2022_1_A1457_58;02 - Plastique / Morceaux / A2;B: <10*10 cm= 100 cm2;3;0.001;NA
+CGFS;2022;1;A1457;58;2022_1_A1457_58;05 - Plastique / Lignes de peche (monofilament) / A5;X: UNK - categorisation non realisee;7;0.001;NA
+CGFS;2022;1;A1457;58;2022_1_A1457_58;07 - Plastique / Cordage synthetique / A7;B: <10*10 cm= 100 cm2;2;0.051;NA
+CGFS;2022;1;A1457;58;2022_1_A1457_58;28 - Metal / Cannettes / B2 _ L3a;A: <5*5 cm= 25 cm2;1;0.006;NA
+CGFS;2022;1;A1457;58;2022_1_A1457_58;40 - Caoutchouc / Bobines (peche) / C3;B: <10*10 cm= 100 cm2;1;0.121;NA
+CGFS;2022;1;A1457;58;2022_1_A1457_58;54 - Produits naturels / Bois (travaille) / E1;B: <10*10 cm= 100 cm2;1;0.057;NA
+CGFS;2022;1;A1458;59;2022_1_A1458_59;02 - Plastique / Morceaux / A2;C: <20*20 cm= 400 cm2;3;0.003;NA
+CGFS;2022;1;A1458;59;2022_1_A1458_59;13 - Plastique / Emballages alimentaires / L1c;C: <20*20 cm= 400 cm2;1;0.016;NA
+CGFS;2022;1;A1458;59;2022_1_A1458_59;43 - Caoutchouc / Autres / C6;A: <5*5 cm= 25 cm2;1;1;NA
+CGFS;2022;1;A1458;59;2022_1_A1458_59;05 - Plastique / Lignes de peche (monofilament) / A5;X: UNK - categorisation non realisee;2;0.001;NA
+CGFS;2022;1;A1459;60;2022_1_A1459_60;34 - Metal / Autres / B8;D: <50*50 cm= 2500 cm2;1;1.68;NA
+CGFS;2022;1;A1459;60;2022_1_A1459_60;60 - Divers / Vetements_ Chiffons / F1;D: <50*50 cm= 2500 cm2;3;0.151;NA
+CGFS;2022;1;A1459;60;2022_1_A1459_60;01 - Plastique / Bouteille / A1 _ L1b;C: <20*20 cm= 400 cm2;1;0.034;NA
+CGFS;2022;1;A1459;60;2022_1_A1459_60;05 - Plastique / Lignes de peche (monofilament) / A5;X: UNK - categorisation non realisee;4;0.001;NA
+CGFS;2022;1;A1460;61;2022_1_A1460_61;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;1;0.001;NA
+CGFS;2022;1;A1460;61;2022_1_A1460_61;13 - Plastique / Emballages alimentaires / L1c;C: <20*20 cm= 400 cm2;1;0.01;NA
+CGFS;2022;1;A1461;62;2022_1_A1461_62;12 - Plastique / Autres / A14_L1j;A: <5*5 cm= 25 cm2;1;0.003;NA
+CGFS;2022;1;A1462;63;2022_1_A1462_63;02 - Plastique / Morceaux / A2;D: <50*50 cm= 2500 cm2;7;0.012;NA
+CGFS;2022;1;A1462;63;2022_1_A1462_63;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;3;0.008;NA
+CGFS;2022;1;A1462;63;2022_1_A1462_63;12 - Plastique / Autres / A14_L1j;B: <10*10 cm= 100 cm2;1;0.091;NA
+CGFS;2022;1;A1464;64;2022_1_A1464_64;02 - Plastique / Morceaux / A2;B: <10*10 cm= 100 cm2;1;0.001;NA
+CGFS;2022;1;A1464;64;2022_1_A1464_64;05 - Plastique / Lignes de peche (monofilament) / A5;X: UNK - categorisation non realisee;1;0.001;NA
+CGFS;2022;1;A1465;65;2022_1_A1465_65;02 - Plastique / Morceaux / A2;D: <50*50 cm= 2500 cm2;1;0.018;NA
+CGFS;2022;1;A1465;65;2022_1_A1465_65;05 - Plastique / Lignes de peche (monofilament) / A5;X: UNK - categorisation non realisee;3;0.001;NA
+CGFS;2022;1;A1465;65;2022_1_A1465_65;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;1;0.004;NA
+CGFS;2022;1;A1466;66;2022_1_A1466_66;02 - Plastique / Morceaux / A2;D: <50*50 cm= 2500 cm2;4;0.038;NA
+CGFS;2022;1;A1466;66;2022_1_A1466_66;05 - Plastique / Lignes de peche (monofilament) / A5;X: UNK - categorisation non realisee;2;0.001;NA
+CGFS;2022;1;A1466;66;2022_1_A1466_66;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;2;0.006;NA
+CGFS;2022;1;A1466;66;2022_1_A1466_66;42 - Caoutchouc / Gants / C5;B: <10*10 cm= 100 cm2;1;0.012;NA
+CGFS;2022;1;A1466;66;2022_1_A1466_66;54 - Produits naturels / Bois (travaille) / E1;B: <10*10 cm= 100 cm2;1;0.032;NA
+CGFS;2022;1;A1466;66;2022_1_A1466_66;71 - Filets et autres engins de peche;D: <50*50 cm= 2500 cm2;1;13.5;CASIER BULOT
+CGFS;2022;1;A1467;67;2022_1_A1467_67;02 - Plastique / Morceaux / A2;B: <10*10 cm= 100 cm2;1;0.001;NA
+CGFS;2022;1;A1467;67;2022_1_A1467_67;05 - Plastique / Lignes de peche (monofilament) / A5;X: UNK - categorisation non realisee;2;0.001;NA
+CGFS;2022;1;A1467;67;2022_1_A1467_67;06 - Plastique / Lignes de peche (emmele) / A6 _ L1g;B: <10*10 cm= 100 cm2;1;0.037;NA
+CGFS;2022;1;A1467;67;2022_1_A1467_67;09 - Plastique / Attaches de cable / A9;A: <5*5 cm= 25 cm2;1;0.004;NA
+CGFS;2022;1;A1467;67;2022_1_A1467_67;01 - Plastique / Bouteille / A1 _ L1b;B: <10*10 cm= 100 cm2;1;0.028;NA
+CGFS;2022;1;A1468;68;2022_1_A1468_68;71 - Filets et autres engins de peche;D: <50*50 cm= 2500 cm2;1;18;casier à bulot
+CGFS;2022;1;A1468;68;2022_1_A1468_68;05 - Plastique / Lignes de peche (monofilament) / A5;X: UNK - categorisation non realisee;2;0.001;NA
+CGFS;2022;1;A1468;68;2022_1_A1468_68;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;1;0.001;NA
+CGFS;2022;1;A1468;68;2022_1_A1468_68;02 - Plastique / Morceaux / A2;A: <5*5 cm= 25 cm2;1;0.002;NA
+CGFS;2022;1;A1469;69;2022_1_A1469_69;05 - Plastique / Lignes de peche (monofilament) / A5;X: UNK - categorisation non realisee;4;0.001;NA
+CGFS;2022;1;A1469;69;2022_1_A1469_69;06 - Plastique / Lignes de peche (emmele) / A6 _ L1g;X: UNK - categorisation non realisee;1;0.001;NA
+CGFS;2021;1;Z0412;2;2021_1_Z0412_2;71 - Filets et autres engins de peche;X: UNK - categorisation non realisee;1;10;NA
+CGFS;2021;1;Z0413;3;2021_1_Z0413_3;40 - Caoutchouc / Bobines (peche) / C3;X: UNK - categorisation non realisee;1;0.103;NA
+CGFS;2021;1;Z0414;4;2021_1_Z0414_4;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;1;0.008;NA
+CGFS;2021;1;Z0415;5;2021_1_Z0415_5;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;2;0.002;NA
+CGFS;2021;1;Z0416;6;2021_1_Z0416_6;05 - Plastique / Lignes de peche (monofilament) / A5;A: <5*5 cm= 25 cm2;1;0.001;NA
+CGFS;2021;1;Z0417;7;2021_1_Z0417_7;05 - Plastique / Lignes de peche (monofilament) / A5;X: UNK - categorisation non realisee;1;0.002;NA
+CGFS;2021;1;Z0420;9;2021_1_Z0420_9;42 - Caoutchouc / Gants / C5;X: UNK - categorisation non realisee;1;0.038;NA
+CGFS;2021;1;Z0420;9;2021_1_Z0420_9;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;1;0.002;NA
+CGFS;2021;1;Z0422;11;2021_1_Z0422_11;13 - Plastique / Emballages alimentaires / L1c;X: UNK - categorisation non realisee;1;0.5;NA
+CGFS;2021;1;Z0422;11;2021_1_Z0422_11;02 - Plastique / Morceaux / A2;X: UNK - categorisation non realisee;45;0.573;NA
+CGFS;2021;1;Z0422;11;2021_1_Z0422_11;43 - Caoutchouc / Autres / C6;X: UNK - categorisation non realisee;2;0.106;NA
+CGFS;2021;1;Z0422;11;2021_1_Z0422_11;63 - Habits (textiles)_fibres naturelles / L5;X: UNK - categorisation non realisee;4;0.05;NA
+CGFS;2021;1;Z0422;11;2021_1_Z0422_11;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;5;0.019;NA
+CGFS;2021;1;Z0422;11;2021_1_Z0422_11;05 - Plastique / Lignes de peche (monofilament) / A5;X: UNK - categorisation non realisee;2;0.001;NA
+CGFS;2021;1;Z0423;12;2021_1_Z0423_12;02 - Plastique / Morceaux / A2;X: UNK - categorisation non realisee;3;0.136;NA
+CGFS;2021;1;Z0423;12;2021_1_Z0423_12;42 - Caoutchouc / Gants / C5;X: UNK - categorisation non realisee;1;0.157;NA
+CGFS;2021;1;Z0423;12;2021_1_Z0423_12;37 - Caoutchouc / D _ L2;X: UNK - categorisation non realisee;1;0.005;NA
+CGFS;2021;1;Z0424;13;2021_1_Z0424_13;01 - Plastique / Bouteille / A1 _ L1b;X: UNK - categorisation non realisee;1;0.003;NA
+CGFS;2021;1;Z0424;13;2021_1_Z0424_13;42 - Caoutchouc / Gants / C5;X: UNK - categorisation non realisee;1;0.145;NA
+CGFS;2021;1;Z0426;15;2021_1_Z0426_15;01 - Plastique / Bouteille / A1 _ L1b;X: UNK - categorisation non realisee;1;0.002;NA
+CGFS;2021;1;Z0427;16;2021_1_Z0427_16;02 - Plastique / Morceaux / A2;X: UNK - categorisation non realisee;14;0.255;NA
+CGFS;2021;1;Z0427;16;2021_1_Z0427_16;01 - Plastique / Bouteille / A1 _ L1b;X: UNK - categorisation non realisee;2;0.04;NA
+CGFS;2021;1;Z0427;16;2021_1_Z0427_16;64 - Habits (textiles)_fibres naturelles / Vetements (habits_ chaussures_...) / L5a - Habits_ chaussures_ etc.;X: UNK - categorisation non realisee;1;0.025;NA
+CGFS;2021;1;Z0427;16;2021_1_Z0427_16;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;1;0.01;NA
+CGFS;2021;1;Z0427;16;2021_1_Z0427_16;42 - Caoutchouc / Gants / C5;X: UNK - categorisation non realisee;1;0.137;NA
+CGFS;2021;1;Z0428;17;2021_1_Z0428_17;02 - Plastique / Morceaux / A2;X: UNK - categorisation non realisee;2;0.001;NA
+CGFS;2021;1;Z0428;17;2021_1_Z0428_17;05 - Plastique / Lignes de peche (monofilament) / A5;X: UNK - categorisation non realisee;1;0.001;NA
+CGFS;2021;1;Z0429;18;2021_1_Z0429_18;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;2;0.002;NA
+CGFS;2021;1;Z0430;19;2021_1_Z0430_19;05 - Plastique / Lignes de peche (monofilament) / A5;X: UNK - categorisation non realisee;1;0.001;NA
+CGFS;2021;1;Z0434;23;2021_1_Z0434_23;02 - Plastique / Morceaux / A2;X: UNK - categorisation non realisee;1;0.001;NA
+CGFS;2021;1;Z0434;23;2021_1_Z0434_23;43 - Caoutchouc / Autres / C6;X: UNK - categorisation non realisee;1;0.003;NA
+CGFS;2021;1;Z0434;23;2021_1_Z0434_23;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;1;0.012;NA
+CGFS;2021;1;Z0435;24;2021_1_Z0435_24;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;1;10;NA
+CGFS;2021;1;Z0438;27;2021_1_Z0438_27;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;2;0.004;NA
+CGFS;2021;1;Z0439;28;2021_1_Z0439_28;34 - Metal / Autres / B8;X: UNK - categorisation non realisee;1;6.36;DOUILLE D'OBUS
+CGFS;2021;1;Z0441;30;2021_1_Z0441_30;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;1;0.003;NA
+CGFS;2021;1;Z0446;35;2021_1_Z0446_35;02 - Plastique / Morceaux / A2;X: UNK - categorisation non realisee;1;0.001;NA
+CGFS;2021;1;Z0447;36;2021_1_Z0447_36;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;1;0.001;NA
+CGFS;2021;1;Z0449;38;2021_1_Z0449_38;13 - Plastique / Emballages alimentaires / L1c;X: UNK - categorisation non realisee;1;0.063;NA
+CGFS;2021;1;Z0454;43;2021_1_Z0454_43;13 - Plastique / Emballages alimentaires / L1c;X: UNK - categorisation non realisee;1;0.001;NA
+CGFS;2021;1;Z0456;45;2021_1_Z0456_45;13 - Plastique / Emballages alimentaires / L1c;X: UNK - categorisation non realisee;1;0.001;NA
+CGFS;2021;1;Z0456;45;2021_1_Z0456_45;05 - Plastique / Lignes de peche (monofilament) / A5;X: UNK - categorisation non realisee;1;0.001;NA
+CGFS;2021;1;Z0457;46;2021_1_Z0457_46;13 - Plastique / Emballages alimentaires / L1c;X: UNK - categorisation non realisee;1;0.001;NA
+CGFS;2021;1;Z0460;49;2021_1_Z0460_49;02 - Plastique / Morceaux / A2;X: UNK - categorisation non realisee;4;0.006;NA
+CGFS;2021;1;Z0460;49;2021_1_Z0460_49;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;1;0.001;NA
+CGFS;2021;1;Z0461;50;2021_1_Z0461_50;02 - Plastique / Morceaux / A2;X: UNK - categorisation non realisee;1;0.028;NA
+CGFS;2021;1;Z0462;51;2021_1_Z0462_51;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;1;0.004;NA
+CGFS;2021;1;Z0464;53;2021_1_Z0464_53;13 - Plastique / Emballages alimentaires / L1c;X: UNK - categorisation non realisee;1;0.001;NA
+CGFS;2021;1;Z0465;54;2021_1_Z0465_54;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;1;0.022;NA
+CGFS;2021;1;Z0465;54;2021_1_Z0465_54;12 - Plastique / Autres / A14_L1j;X: UNK - categorisation non realisee;1;0.01;NA
+CGFS;2021;1;Z0466;55;2021_1_Z0466_55;16 - Plastique / Autres objets de peche (pots_ flotteurs_ etc.) / L1h - Plots_ flotteurs_ etc.;X: UNK - categorisation non realisee;1;0.74;GOULOTTE DE CASIER
+CGFS;2021;1;Z0466;55;2021_1_Z0466_55;02 - Plastique / Morceaux / A2;X: UNK - categorisation non realisee;1;0.012;NA
+CGFS;2021;1;Z0466;55;2021_1_Z0466_55;12 - Plastique / Autres / A14_L1j;X: UNK - categorisation non realisee;1;0.054;manche de rouleau de peinture
+CGFS;2021;1;Z0466;55;2021_1_Z0466_55;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;1;0.005;NA
+CGFS;2021;1;Z0468;57;2021_1_Z0468_57;05 - Plastique / Lignes de peche (monofilament) / A5;X: UNK - categorisation non realisee;1;0.002;NA
+CGFS;2021;1;Z0468;57;2021_1_Z0468_57;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;3;0.016;NA
+CGFS;2021;1;Z0468;57;2021_1_Z0468_57;02 - Plastique / Morceaux / A2;X: UNK - categorisation non realisee;1;0.001;NA
+CGFS;2021;1;Z0469;58;2021_1_Z0469_58;06 - Plastique / Lignes de peche (emmele) / A6 _ L1g;X: UNK - categorisation non realisee;1;0.09;NA
+CGFS;2021;1;Z0471;59;2021_1_Z0471_59;05 - Plastique / Lignes de peche (monofilament) / A5;X: UNK - categorisation non realisee;2;0.002;NA
+CGFS;2021;1;Z0471;59;2021_1_Z0471_59;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;2;0.002;NA
+CGFS;2021;1;Z0472;60;2021_1_Z0472_60;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;1;0.009;NA
+CGFS;2021;1;Z0473;61;2021_1_Z0473_61;02 - Plastique / Morceaux / A2;X: UNK - categorisation non realisee;3;0.003;NA
+CGFS;2021;1;Z0473;61;2021_1_Z0473_61;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;1;0.002;NA
+CGFS;2021;1;Z0474;62;2021_1_Z0474_62;12 - Plastique / Autres / A14_L1j;X: UNK - categorisation non realisee;1;0.154;GOULOTTE DE CASIER " morceau"
+CGFS;2021;1;Z0474;62;2021_1_Z0474_62;05 - Plastique / Lignes de peche (monofilament) / A5;X: UNK - categorisation non realisee;3;0.002;NA
+CGFS;2021;1;Z0474;62;2021_1_Z0474_62;00 - Plastique / A _ L1;X: UNK - categorisation non realisee;1;0.001;NA
+CGFS;2021;1;Z0476;63;2021_1_Z0476_63;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;2;0.01;NA
+CGFS;2021;1;Z0476;63;2021_1_Z0476_63;06 - Plastique / Lignes de peche (emmele) / A6 _ L1g;X: UNK - categorisation non realisee;1;0.002;NA
+CGFS;2021;1;Z0476;63;2021_1_Z0476_63;28 - Metal / Cannettes / B2 _ L3a;X: UNK - categorisation non realisee;1;0.007;NA
+CGFS;2021;1;Z0477;64;2021_1_Z0477_64;43 - Caoutchouc / Autres / C6;X: UNK - categorisation non realisee;1;0.009;NA
+CGFS;2021;1;Z0477;64;2021_1_Z0477_64;28 - Metal / Cannettes / B2 _ L3a;X: UNK - categorisation non realisee;1;0.02;NA
+CGFS;2021;1;Z0478;65;2021_1_Z0478_65;02 - Plastique / Morceaux / A2;X: UNK - categorisation non realisee;1;0.001;NA
+CGFS;2021;1;Z0478;65;2021_1_Z0478_65;05 - Plastique / Lignes de peche (monofilament) / A5;X: UNK - categorisation non realisee;1;0.001;NA
+CGFS;2021;1;Z0478;65;2021_1_Z0478_65;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;1;0.007;NA
+CGFS;2021;1;Z0479;66;2021_1_Z0479_66;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;1;0.001;NA
+CGFS;2021;1;Z0479;66;2021_1_Z0479_66;05 - Plastique / Lignes de peche (monofilament) / A5;X: UNK - categorisation non realisee;2;0.001;NA
+CGFS;2021;1;Z0480;67;2021_1_Z0480_67;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;5;0.007;NA
+CGFS;2021;1;Z0480;67;2021_1_Z0480_67;02 - Plastique / Morceaux / A2;X: UNK - categorisation non realisee;2;0.004;NA
+CGFS;2021;1;Z0481;68;2021_1_Z0481_68;01 - Plastique / Bouteille / A1 _ L1b;X: UNK - categorisation non realisee;2;0.024;NA
+CGFS;2021;1;Z0481;68;2021_1_Z0481_68;13 - Plastique / Emballages alimentaires / L1c;X: UNK - categorisation non realisee;4;0.002;NA
+CGFS;2021;1;Z0481;68;2021_1_Z0481_68;05 - Plastique / Lignes de peche (monofilament) / A5;X: UNK - categorisation non realisee;19;0.002;NA
+CGFS;2021;1;Z0482;69;2021_1_Z0482_69;05 - Plastique / Lignes de peche (monofilament) / A5;X: UNK - categorisation non realisee;3;0.001;NA
+CGFS;2021;1;Z0482;69;2021_1_Z0482_69;02 - Plastique / Morceaux / A2;X: UNK - categorisation non realisee;1;0.003;NA
+CGFS;2021;1;Z0483;70;2021_1_Z0483_70;05 - Plastique / Lignes de peche (monofilament) / A5;X: UNK - categorisation non realisee;1;0.001;NA
+CGFS;2021;1;Z0483;70;2021_1_Z0483_70;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;1;0.001;NA
+CGFS;2021;1;Z0484;71;2021_1_Z0484_71;03 - Plastique / Sacs / A3 _ L1a;X: UNK - categorisation non realisee;2;0.04;NA
+CGFS;2021;1;Z0484;71;2021_1_Z0484_71;05 - Plastique / Lignes de peche (monofilament) / A5;X: UNK - categorisation non realisee;4;0.001;NA
+CGFS;2021;1;Z0484;71;2021_1_Z0484_71;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;2;0.01;NA
+CGFS;2021;1;Z0484;71;2021_1_Z0484_71;01 - Plastique / Bouteille / A1 _ L1b;X: UNK - categorisation non realisee;1;0.002;NA
+CGFS;2021;1;Z0484;71;2021_1_Z0484_71;13 - Plastique / Emballages alimentaires / L1c;X: UNK - categorisation non realisee;1;0.001;NA
+CGFS;2021;1;Z0484;71;2021_1_Z0484_71;02 - Plastique / Morceaux / A2;X: UNK - categorisation non realisee;1;0.01;NA
+CGFS;2021;1;Z0485;72;2021_1_Z0485_72;02 - Plastique / Morceaux / A2;X: UNK - categorisation non realisee;8;0.011;NA
+CGFS;2021;1;Z0485;72;2021_1_Z0485_72;03 - Plastique / Sacs / A3 _ L1a;X: UNK - categorisation non realisee;1;0.044;NA
+CGFS;2021;1;Z0485;72;2021_1_Z0485_72;13 - Plastique / Emballages alimentaires / L1c;X: UNK - categorisation non realisee;1;0.002;NA
+CGFS;2021;1;Z0485;72;2021_1_Z0485_72;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;1;0.003;NA
+CGFS;2021;1;Z0485;72;2021_1_Z0485_72;06 - Plastique / Lignes de peche (emmele) / A6 _ L1g;X: UNK - categorisation non realisee;1;0.011;NA
+CGFS;2021;1;Z0485;72;2021_1_Z0485_72;10 - Plastique / Bande de cerclage / A10;X: UNK - categorisation non realisee;1;0.006;NA
+CGFS;2021;1;Z0485;72;2021_1_Z0485_72;14 - Plastique / Feuilles (nappes_ etc...) / L1d - Nappes etc.;X: UNK - categorisation non realisee;1;0.023;NA
+CGFS;2020;1;Y0227;30;2020_1_Y0227_30;71 - Filets et autres engins de peche;X: UNK - categorisation non realisee;5;50;NA
+CGFS;2020;1;Y0227;30;2020_1_Y0227_30;21 - Dechets sanitaires / Megots de cigarette / B3;X: UNK - categorisation non realisee;1;0.001;NA
+CGFS;2020;1;Y0228;31;2020_1_Y0228_31;02 - Plastique / Morceaux / A2;A: <5*5 cm= 25 cm2;1;0.001;NA
+CGFS;2020;1;Y0228;31;2020_1_Y0228_31;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;5;0.009;NA
+CGFS;2020;1;Y0228;31;2020_1_Y0228_31;43 - Caoutchouc / Autres / C6;X: UNK - categorisation non realisee;2;0.036;NA
+CGFS;2020;1;Y0229;32;2020_1_Y0229_32;05 - Plastique / Lignes de peche (monofilament) / A5;A: <5*5 cm= 25 cm2;1;0.001;NA
+CGFS;2020;1;Y0229;32;2020_1_Y0229_32;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;4;0.011;NA
+CGFS;2020;1;Y0229;32;2020_1_Y0229_32;13 - Plastique / Emballages alimentaires / L1c;A: <5*5 cm= 25 cm2;8;0.001;NA
+CGFS;2020;1;Y0231;33;2020_1_Y0231_33;05 - Plastique / Lignes de peche (monofilament) / A5;A: <5*5 cm= 25 cm2;3;0.001;NA
+CGFS;2020;1;Y0231;33;2020_1_Y0231_33;00 - Plastique / A _ L1;A: <5*5 cm= 25 cm2;1;0.001;NA
+CGFS;2020;1;Y0232;34;2020_1_Y0232_34;71 - Filets et autres engins de peche;X: UNK - categorisation non realisee;1;3.44;NA
+CGFS;2020;1;Y0232;34;2020_1_Y0232_34;02 - Plastique / Morceaux / A2;X: UNK - categorisation non realisee;1;0.001;NA
+CGFS;2020;1;Y0232;34;2020_1_Y0232_34;05 - Plastique / Lignes de peche (monofilament) / A5;X: UNK - categorisation non realisee;1;0.002;NA
+CGFS;2020;1;Y0233;35;2020_1_Y0233_35;60 - Divers / Vetements_ Chiffons / F1;D: <50*50 cm= 2500 cm2;1;0.018;NA
+CGFS;2020;1;Y0233;35;2020_1_Y0233_35;03 - Plastique / Sacs / A3 _ L1a;D: <50*50 cm= 2500 cm2;1;0.02;NA
+CGFS;2020;1;Y0233;35;2020_1_Y0233_35;02 - Plastique / Morceaux / A2;X: UNK - categorisation non realisee;1;0.087;NA
+CGFS;2020;1;Y0234;36;2020_1_Y0234_36;02 - Plastique / Morceaux / A2;X: UNK - categorisation non realisee;1;0.002;NA
+CGFS;2020;1;Y0235;37;2020_1_Y0235_37;42 - Caoutchouc / Gants / C5;X: UNK - categorisation non realisee;1;0.295;NA
+CGFS;2020;1;Y0235;37;2020_1_Y0235_37;02 - Plastique / Morceaux / A2;X: UNK - categorisation non realisee;2;0.004;NA
+CGFS;2020;1;Y0235;37;2020_1_Y0235_37;55 - Produits naturels / Corde / E2 _ L5c;X: UNK - categorisation non realisee;1;0.001;NA
+CGFS;2020;1;Y0235;37;2020_1_Y0235_37;05 - Plastique / Lignes de peche (monofilament) / A5;X: UNK - categorisation non realisee;3;0.004;NA
+CGFS;2020;1;Y0235;37;2020_1_Y0235_37;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;1;0.015;NA
+CGFS;2020;1;Y0237;39;2020_1_Y0237_39;08 - Plastique / Filets de peche / A8 _ L1f;A: <5*5 cm= 25 cm2;1;0.001;NA
+CGFS;2020;1;Y0238;40;2020_1_Y0238_40;01 - Plastique / Bouteille / A1 _ L1b;C: <20*20 cm= 400 cm2;1;0.022;NA
+CGFS;2020;1;Y0238;40;2020_1_Y0238_40;00 - Plastique / A _ L1;B: <10*10 cm= 100 cm2;1;0.002;NA
+CGFS;2020;1;Y0239;41;2020_1_Y0239_41;01 - Plastique / Bouteille / A1 _ L1b;X: UNK - categorisation non realisee;33;0.44;NA
+CGFS;2020;1;Y0239;41;2020_1_Y0239_41;64 - Habits (textiles)_fibres naturelles / Vetements (habits_ chaussures_...) / L5a - Habits_ chaussures_ etc.;X: UNK - categorisation non realisee;1;0.495;NA
+CGFS;2020;1;Y0239;41;2020_1_Y0239_41;43 - Caoutchouc / Autres / C6;C: <20*20 cm= 400 cm2;2;0.157;NA
+CGFS;2020;1;Y0239;41;2020_1_Y0239_41;13 - Plastique / Emballages alimentaires / L1c;X: UNK - categorisation non realisee;11;0.049;NA
+CGFS;2020;1;Y0239;41;2020_1_Y0239_41;15 - Plastique / Objets en plastique dur (caisses_recipients_tubes_cendriers_couvercles...) / L1e - Caisse_ recipients_ tubes_ cendrier_ couvercles_ etc.;X: UNK - categorisation non realisee;1;0.035;NA
+CGFS;2020;1;Y0239;41;2020_1_Y0239_41;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;1;0.122;NA
+CGFS;2020;1;Y0239;41;2020_1_Y0239_41;44 - Caoutchouc / Autres (gants_ flotteurs_ bottes/chaussures_ cires_ sanitaire) / L2b - Gants_ Flotteurs_ Bottes/Chaussures_ cires_ sanitaire_ etc.;C: <20*20 cm= 400 cm2;1;0.168;NA
+CGFS;2020;1;Y0236;42;2020_1_Y0236_42;02 - Plastique / Morceaux / A2;X: UNK - categorisation non realisee;5;0.006;NA
+CGFS;2020;1;Y0236;42;2020_1_Y0236_42;44 - Caoutchouc / Autres (gants_ flotteurs_ bottes/chaussures_ cires_ sanitaire) / L2b - Gants_ Flotteurs_ Bottes/Chaussures_ cires_ sanitaire_ etc.;D: <50*50 cm= 2500 cm2;1;0.145;NA
+CGFS;2020;1;Y0236;42;2020_1_Y0236_42;40 - Caoutchouc / Bobines (peche) / C3;X: UNK - categorisation non realisee;1;0.85;NA
+CGFS;2020;1;Y0241;44;2020_1_Y0241_44;01 - Plastique / Bouteille / A1 _ L1b;C: <20*20 cm= 400 cm2;1;0.043;NA
+CGFS;2020;1;Y0241;44;2020_1_Y0241_44;02 - Plastique / Morceaux / A2;B: <10*10 cm= 100 cm2;8;0.021;NA
+CGFS;2020;1;Y0242;45;2020_1_Y0242_45;43 - Caoutchouc / Autres / C6;X: UNK - categorisation non realisee;1;0.038;NA
+CGFS;2020;1;Y0244;46;2020_1_Y0244_46;08 - Plastique / Filets de peche / A8 _ L1f;C: <20*20 cm= 400 cm2;1;0.006;NA
+CGFS;2020;1;Y0244;46;2020_1_Y0244_46;63 - Habits (textiles)_fibres naturelles / L5;B: <10*10 cm= 100 cm2;1;0.02;NA
+CGFS;2020;1;Y0244;46;2020_1_Y0244_46;08 - Plastique / Filets de peche / A8 _ L1f;A: <5*5 cm= 25 cm2;2;0.001;NA
+CGFS;2020;1;Y0247;50;2020_1_Y0247_50;48 - Verre_ceramique / Morceau / D3;X: UNK - categorisation non realisee;1;0.07;NA
+CGFS;2020;1;Y0247;50;2020_1_Y0247_50;12 - Plastique / Autres / A14_L1j;X: UNK - categorisation non realisee;1;1;Morceau de tuyau
+CGFS;2020;1;Y0248;51;2020_1_Y0248_51;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;1;0.2;NA
+CGFS;2020;1;Y0249;52;2020_1_Y0249_52;02 - Plastique / Morceaux / A2;X: UNK - categorisation non realisee;2;0.024;NA
+CGFS;2020;1;Y0251;54;2020_1_Y0251_54;03 - Plastique / Sacs / A3 _ L1a;D: <50*50 cm= 2500 cm2;1;0.018;NA
+CGFS;2020;1;Y0252;55;2020_1_Y0252_55;53 - Produits naturels / F;C: <20*20 cm= 400 cm2;1;11.33;NA
+CGFS;2020;1;Y0252;55;2020_1_Y0252_55;13 - Plastique / Emballages alimentaires / L1c;C: <20*20 cm= 400 cm2;1;0.01;NA
+CGFS;2020;1;Y0252;55;2020_1_Y0252_55;17 - Plastique / Cordes synthetiques_ bandes de cerclage / L1i;B: <10*10 cm= 100 cm2;2;0.112;NA
+CGFS;2020;1;Y0253;56;2020_1_Y0253_56;08 - Plastique / Filets de peche / A8 _ L1f;X: UNK - categorisation non realisee;1;60;Maillette de senneur diam:40 @@Environ 15 m@@
+CGFS;2020;1;Y0253;56;2020_1_Y0253_56;71 - Filets et autres engins de peche;X: UNK - categorisation non realisee;1;18.52;Casier à bulot@@
+CGFS;2020;1;Y0254;57;2020_1_Y0254_57;71 - Filets et autres engins de peche;X: UNK - categorisation non realisee;1;0.02;Casier à bulot@@
+CGFS;2020;1;Y0254;57;2020_1_Y0254_57;02 - Plastique / Morceaux / A2;C: <20*20 cm= 400 cm2;1;0.055;NA
+CGFS;2020;1;Y0255;58;2020_1_Y0255_58;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;1;0.002;NA
+CGFS;2020;1;Y0258;61;2020_1_Y0258_61;43 - Caoutchouc / Autres / C6;X: UNK - categorisation non realisee;2;0.013;NA
+CGFS;2020;1;Y0258;61;2020_1_Y0258_61;02 - Plastique / Morceaux / A2;A: <5*5 cm= 25 cm2;2;0.003;NA
+CGFS;2020;1;Y0258;61;2020_1_Y0258_61;05 - Plastique / Lignes de peche (monofilament) / A5;A: <5*5 cm= 25 cm2;1;0.001;NA
+CGFS;2020;1;Y0259;62;2020_1_Y0259_62;07 - Plastique / Cordage synthetique / A7;B: <10*10 cm= 100 cm2;1;0.003;NA
+CGFS;2020;1;Y0260;63;2020_1_Y0260_63;02 - Plastique / Morceaux / A2;A: <5*5 cm= 25 cm2;1;0.002;NA
+CGFS;2020;1;Y0260;63;2020_1_Y0260_63;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;1;0.015;NA
+CGFS;2020;1;Y0261;64;2020_1_Y0261_64;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;1;0.004;NA
+CGFS;2020;1;Y0263;66;2020_1_Y0263_66;03 - Plastique / Sacs / A3 _ L1a;C: <20*20 cm= 400 cm2;1;0.001;NA
+CGFS;2020;1;Y0263;66;2020_1_Y0263_66;05 - Plastique / Lignes de peche (monofilament) / A5;A: <5*5 cm= 25 cm2;1;0.001;NA
+CGFS;2020;1;Y0264;67;2020_1_Y0264_67;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;1;0.002;NA
+CGFS;2020;1;Y0265;68;2020_1_Y0265_68;03 - Plastique / Sacs / A3 _ L1a;D: <50*50 cm= 2500 cm2;1;0.368;NA
+CGFS;2020;1;Y0266;69;2020_1_Y0266_69;40 - Caoutchouc / Bobines (peche) / C3;C: <20*20 cm= 400 cm2;1;0.425;NA
+CGFS;2020;1;Y0266;69;2020_1_Y0266_69;28 - Metal / Cannettes / B2 _ L3a;B: <10*10 cm= 100 cm2;1;0.002;NA
+CGFS;2020;1;Y0267;70;2020_1_Y0267_70;03 - Plastique / Sacs / A3 _ L1a;D: <50*50 cm= 2500 cm2;3;0.104;NA
+CGFS;2020;1;Y0267;70;2020_1_Y0267_70;07 - Plastique / Cordage synthetique / A7;B: <10*10 cm= 100 cm2;2;0.005;NA
+CGFS;2020;1;Y0267;70;2020_1_Y0267_70;05 - Plastique / Lignes de peche (monofilament) / A5;A: <5*5 cm= 25 cm2;1;0.001;NA
+CGFS;2020;1;Y0268;71;2020_1_Y0268_71;06 - Plastique / Lignes de peche (emmele) / A6 _ L1g;X: UNK - categorisation non realisee;1;0.018;NA
+CGFS;2020;1;Y0268;71;2020_1_Y0268_71;12 - Plastique / Autres / A14_L1j;X: UNK - categorisation non realisee;1;0.015;NA
+CGFS;2020;1;Y0268;71;2020_1_Y0268_71;02 - Plastique / Morceaux / A2;X: UNK - categorisation non realisee;2;0.003;NA
+CGFS;2020;1;Y0269;72;2020_1_Y0269_72;02 - Plastique / Morceaux / A2;E: <100*100 cm= 10000 cm2= 1 m2;1;0.65;NA
+CGFS;2020;1;Y0270;73;2020_1_Y0270_73;03 - Plastique / Sacs / A3 _ L1a;B: <10*10 cm= 100 cm2;1;0.002;NA
+CGFS;2020;1;Y0270;73;2020_1_Y0270_73;07 - Plastique / Cordage synthetique / A7;B: <10*10 cm= 100 cm2;1;0.002;NA
+CGFS;2020;1;Y0271;74;2020_1_Y0271_74;03 - Plastique / Sacs / A3 _ L1a;D: <50*50 cm= 2500 cm2;2;0.045;NA
+CGFS;2020;1;Y0272;75;2020_1_Y0272_75;05 - Plastique / Lignes de peche (monofilament) / A5;A: <5*5 cm= 25 cm2;1;0.002;NA
+CGFS;2020;1;Y0273;76;2020_1_Y0273_76;07 - Plastique / Cordage synthetique / A7;C: <20*20 cm= 400 cm2;9;0.058;NA
+CGFS;2020;1;Y0274;77;2020_1_Y0274_77;01 - Plastique / Bouteille / A1 _ L1b;C: <20*20 cm= 400 cm2;1;0.038;NA
+CGFS;2020;1;Y0275;78;2020_1_Y0275_78;06 - Plastique / Lignes de peche (emmele) / A6 _ L1g;X: UNK - categorisation non realisee;5;0.005;NA
+CGFS;2020;1;Y0275;78;2020_1_Y0275_78;02 - Plastique / Morceaux / A2;X: UNK - categorisation non realisee;2;0.002;NA
+CGFS;2020;1;Y0275;78;2020_1_Y0275_78;55 - Produits naturels / Corde / E2 _ L5c;X: UNK - categorisation non realisee;2;0.012;NA
+CGFS;2020;1;Y0276;79;2020_1_Y0276_79;28 - Metal / Cannettes / B2 _ L3a;X: UNK - categorisation non realisee;1;0.014;NA
+CGFS;2020;1;Y0276;79;2020_1_Y0276_79;05 - Plastique / Lignes de peche (monofilament) / A5;X: UNK - categorisation non realisee;1;0.001;NA
+CGFS;2020;1;Y0276;79;2020_1_Y0276_79;02 - Plastique / Morceaux / A2;X: UNK - categorisation non realisee;4;0.002;NA
+CGFS;2020;1;Y0277;80;2020_1_Y0277_80;03 - Plastique / Sacs / A3 _ L1a;X: UNK - categorisation non realisee;14;0.042;NA
+CGFS;2020;1;Y0277;80;2020_1_Y0277_80;64 - Habits (textiles)_fibres naturelles / Vetements (habits_ chaussures_...) / L5a - Habits_ chaussures_ etc.;X: UNK - categorisation non realisee;1;0.221;NA
+CGFS;2020;1;Y0277;80;2020_1_Y0277_80;12 - Plastique / Autres / A14_L1j;X: UNK - categorisation non realisee;1;0.339;NA
+CGFS;2020;1;Y0278;81;2020_1_Y0278_81;02 - Plastique / Morceaux / A2;C: <20*20 cm= 400 cm2;3;0.025;NA
+CGFS;2020;1;Y0278;81;2020_1_Y0278_81;05 - Plastique / Lignes de peche (monofilament) / A5;B: <10*10 cm= 100 cm2;5;0.011;NA
+CGFS;2020;1;Y0278;81;2020_1_Y0278_81;07 - Plastique / Cordage synthetique / A7;C: <20*20 cm= 400 cm2;1;0.109;NA
+CGFS;2020;1;Y0279;82;2020_1_Y0279_82;06 - Plastique / Lignes de peche (emmele) / A6 _ L1g;X: UNK - categorisation non realisee;3;0.09;NA
+CGFS;2020;1;Y0279;82;2020_1_Y0279_82;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;2;0.001;NA
+CGFS;2020;1;Y0279;82;2020_1_Y0279_82;05 - Plastique / Lignes de peche (monofilament) / A5;X: UNK - categorisation non realisee;4;0.001;NA
+CGFS;2020;1;Y0279;82;2020_1_Y0279_82;02 - Plastique / Morceaux / A2;X: UNK - categorisation non realisee;9;0.02;NA
+CGFS;2020;1;Y0279;82;2020_1_Y0279_82;40 - Caoutchouc / Bobines (peche) / C3;X: UNK - categorisation non realisee;1;0.22;NA
+CGFS;2020;1;Y0280;83;2020_1_Y0280_83;01 - Plastique / Bouteille / A1 _ L1b;X: UNK - categorisation non realisee;1;0.027;NA
+CGFS;2020;1;Y0280;83;2020_1_Y0280_83;40 - Caoutchouc / Bobines (peche) / C3;X: UNK - categorisation non realisee;1;0.06;NA
+CGFS;2020;1;Y0280;83;2020_1_Y0280_83;05 - Plastique / Lignes de peche (monofilament) / A5;X: UNK - categorisation non realisee;3;0.001;NA
+CGFS;2020;1;Y0280;83;2020_1_Y0280_83;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;1;0.001;NA
+CGFS;2020;1;Y0281;84;2020_1_Y0281_84;02 - Plastique / Morceaux / A2;D: <50*50 cm= 2500 cm2;11;0.16;NA
+CGFS;2020;1;Y0281;84;2020_1_Y0281_84;05 - Plastique / Lignes de peche (monofilament) / A5;A: <5*5 cm= 25 cm2;6;0.001;NA
+CGFS;2020;1;Y0281;84;2020_1_Y0281_84;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;3;0.027;NA
+CGFS;2020;1;Y0281;84;2020_1_Y0281_84;37 - Caoutchouc / D _ L2;A: <5*5 cm= 25 cm2;1;0.028;NA
+CGFS;2020;1;Y0281;84;2020_1_Y0281_84;13 - Plastique / Emballages alimentaires / L1c;B: <10*10 cm= 100 cm2;1;0.009;NA
+CGFS;2020;1;Y0282;85;2020_1_Y0282_85;02 - Plastique / Morceaux / A2;A: <5*5 cm= 25 cm2;4;0.01;NA
+CGFS;2020;1;Y0282;85;2020_1_Y0282_85;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;2;0.006;NA
+CGFS;2020;1;Y0282;85;2020_1_Y0282_85;05 - Plastique / Lignes de peche (monofilament) / A5;A: <5*5 cm= 25 cm2;2;0.001;NA
+CGFS;2020;1;Y0282;85;2020_1_Y0282_85;28 - Metal / Cannettes / B2 _ L3a;A: <5*5 cm= 25 cm2;1;0.004;NA
+CGFS;2020;1;Y0282;85;2020_1_Y0282_85;42 - Caoutchouc / Gants / C5;B: <10*10 cm= 100 cm2;1;0.108;NA
+CGFS;2020;1;Y0283;86;2020_1_Y0283_86;02 - Plastique / Morceaux / A2;X: UNK - categorisation non realisee;10;0.03;NA
+CGFS;2020;1;Y0283;86;2020_1_Y0283_86;06 - Plastique / Lignes de peche (emmele) / A6 _ L1g;X: UNK - categorisation non realisee;3;0.018;NA
+CGFS;2020;1;Y0283;86;2020_1_Y0283_86;05 - Plastique / Lignes de peche (monofilament) / A5;X: UNK - categorisation non realisee;10;0.002;NA
+CGFS;2020;1;Y0283;86;2020_1_Y0283_86;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;6;0.009;NA
+CGFS;2020;1;Y0284;87;2020_1_Y0284_87;02 - Plastique / Morceaux / A2;X: UNK - categorisation non realisee;4;0.029;NA
+CGFS;2020;1;Y0284;87;2020_1_Y0284_87;06 - Plastique / Lignes de peche (emmele) / A6 _ L1g;X: UNK - categorisation non realisee;9;1.835;NA
+CGFS;2020;1;Y0286;88;2020_1_Y0286_88;06 - Plastique / Lignes de peche (emmele) / A6 _ L1g;X: UNK - categorisation non realisee;15;0.001;NA
+CGFS;2020;1;Y0286;88;2020_1_Y0286_88;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;1;0.033;NA
+CGFS;2020;1;Y0286;88;2020_1_Y0286_88;17 - Plastique / Cordes synthetiques_ bandes de cerclage / L1i;X: UNK - categorisation non realisee;3;0.029;NA
+CGFS;2020;1;Y0286;88;2020_1_Y0286_88;05 - Plastique / Lignes de peche (monofilament) / A5;X: UNK - categorisation non realisee;1;0.001;NA
+CGFS;2020;1;Y0286;88;2020_1_Y0286_88;64 - Habits (textiles)_fibres naturelles / Vetements (habits_ chaussures_...) / L5a - Habits_ chaussures_ etc.;X: UNK - categorisation non realisee;2;0.055;NA
+CGFS;2020;1;Y0288;89;2020_1_Y0288_89;02 - Plastique / Morceaux / A2;B: <10*10 cm= 100 cm2;4;0.008;NA
+CGFS;2020;1;Y0288;89;2020_1_Y0288_89;15 - Plastique / Objets en plastique dur (caisses_recipients_tubes_cendriers_couvercles...) / L1e - Caisse_ recipients_ tubes_ cendrier_ couvercles_ etc.;X: UNK - categorisation non realisee;2;0.013;NA
+CGFS;2020;1;Y0288;89;2020_1_Y0288_89;06 - Plastique / Lignes de peche (emmele) / A6 _ L1g;X: UNK - categorisation non realisee;3;0.011;NA
+CGFS;2019;1;X0359;48;2019_1_X0359_48;28 - Metal / Cannettes / B2 _ L3a;B: <10*10 cm= 100 cm2;1;0.013;NA
+CGFS;2019;1;X0359;48;2019_1_X0359_48;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;1;0.001;NA
+CGFS;2019;1;X0360;49;2019_1_X0360_49;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;2;0.005;NA
+CGFS;2019;1;X0361;50;2019_1_X0361_50;07 - Plastique / Cordage synthetique / A7;C: <20*20 cm= 400 cm2;1;0.025;NA
+CGFS;2019;1;X0364;53;2019_1_X0364_53;07 - Plastique / Cordage synthetique / A7;B: <10*10 cm= 100 cm2;3;0.002;NA
+CGFS;2019;1;X0365;54;2019_1_X0365_54;07 - Plastique / Cordage synthetique / A7;B: <10*10 cm= 100 cm2;17;0.03;NA
+CGFS;2019;1;X0366;55;2019_1_X0366_55;02 - Plastique / Morceaux / A2;B: <10*10 cm= 100 cm2;1;0.002;NA
+CGFS;2019;1;X0366;55;2019_1_X0366_55;07 - Plastique / Cordage synthetique / A7;B: <10*10 cm= 100 cm2;2;0.003;NA
+CGFS;2019;1;X0367;56;2019_1_X0367_56;47 - Verre_ceramique / Bouteille / D2 _ L4a;C: <20*20 cm= 400 cm2;1;3.982;NA
+CGFS;2019;1;X0368;57;2019_1_X0368_57;02 - Plastique / Morceaux / A2;B: <10*10 cm= 100 cm2;1;0.001;NA
+CGFS;2019;1;X0369;58;2019_1_X0369_58;02 - Plastique / Morceaux / A2;A: <5*5 cm= 25 cm2;1;0.002;NA
+CGFS;2019;1;X0369;58;2019_1_X0369_58;07 - Plastique / Cordage synthetique / A7;B: <10*10 cm= 100 cm2;2;0.002;NA
+CGFS;2019;1;X0370;59;2019_1_X0370_59;02 - Plastique / Morceaux / A2;A: <5*5 cm= 25 cm2;1;0.002;NA
+CGFS;2019;1;X0371;60;2019_1_X0371_60;07 - Plastique / Cordage synthetique / A7;C: <20*20 cm= 400 cm2;2;0.005;NA
+CGFS;2019;1;X0371;60;2019_1_X0371_60;02 - Plastique / Morceaux / A2;B: <10*10 cm= 100 cm2;1;0.006;NA
+CGFS;2019;1;X0372;61;2019_1_X0372_61;42 - Caoutchouc / Gants / C5;C: <20*20 cm= 400 cm2;1;0.105;NA
+CGFS;2019;1;X0372;61;2019_1_X0372_61;02 - Plastique / Morceaux / A2;A: <5*5 cm= 25 cm2;1;0.001;NA
+CGFS;2019;1;X0373;62;2019_1_X0373_62;07 - Plastique / Cordage synthetique / A7;C: <20*20 cm= 400 cm2;1;0.01;NA
+CGFS;2019;1;X0374;63;2019_1_X0374_63;07 - Plastique / Cordage synthetique / A7;B: <10*10 cm= 100 cm2;3;0.013;NA
+CGFS;2019;1;X0377;65;2019_1_X0377_65;07 - Plastique / Cordage synthetique / A7;C: <20*20 cm= 400 cm2;1;0.018;NA
+CGFS;2019;1;X0378;66;2019_1_X0378_66;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;3;0.005;NA
+CGFS;2019;1;X0379;67;2019_1_X0379_67;27 - Metal / Boites de conserve / B1 _ L3b;B: <10*10 cm= 100 cm2;1;0.014;NA
+CGFS;2019;1;X0379;67;2019_1_X0379_67;02 - Plastique / Morceaux / A2;C: <20*20 cm= 400 cm2;1;0.003;NA
+CGFS;2019;1;X0381;69;2019_1_X0381_69;07 - Plastique / Cordage synthetique / A7;C: <20*20 cm= 400 cm2;1;0.01;NA
+CGFS;2019;1;X0381;69;2019_1_X0381_69;02 - Plastique / Morceaux / A2;B: <10*10 cm= 100 cm2;1;0.002;NA
+CGFS;2019;1;X0381;69;2019_1_X0381_69;05 - Plastique / Lignes de peche (monofilament) / A5;C: <20*20 cm= 400 cm2;1;0.002;NA
+CGFS;2019;1;X0382;70;2019_1_X0382_70;07 - Plastique / Cordage synthetique / A7;B: <10*10 cm= 100 cm2;2;0.005;NA
+CGFS;2019;1;X0383;71;2019_1_X0383_71;07 - Plastique / Cordage synthetique / A7;B: <10*10 cm= 100 cm2;2;0.018;NA
+CGFS;2019;1;X0384;72;2019_1_X0384_72;27 - Metal / Boites de conserve / B1 _ L3b;C: <20*20 cm= 400 cm2;1;0.059;NA
+CGFS;2019;1;X0384;72;2019_1_X0384_72;42 - Caoutchouc / Gants / C5;B: <10*10 cm= 100 cm2;1;0.015;NA
+CGFS;2019;1;X0384;72;2019_1_X0384_72;02 - Plastique / Morceaux / A2;A: <5*5 cm= 25 cm2;2;0.003;NA
+CGFS;2019;1;X0387;74;2019_1_X0387_74;07 - Plastique / Cordage synthetique / A7;B: <10*10 cm= 100 cm2;12;0.031;NA
+CGFS;2019;1;X0387;74;2019_1_X0387_74;02 - Plastique / Morceaux / A2;B: <10*10 cm= 100 cm2;2;0.005;NA
+CGFS;2019;1;X0388;75;2019_1_X0388_75;12 - Plastique / Autres / A14_L1j;E: <100*100 cm= 10000 cm2= 1 m2;1;0.66;Poche ostréicole
+CGFS;2019;1;X0388;75;2019_1_X0388_75;07 - Plastique / Cordage synthetique / A7;B: <10*10 cm= 100 cm2;3;0.012;NA
+CGFS;2019;1;X0388;75;2019_1_X0388_75;05 - Plastique / Lignes de peche (monofilament) / A5;D: <50*50 cm= 2500 cm2;1;0.004;NA
+CGFS;2019;1;X0388;75;2019_1_X0388_75;02 - Plastique / Morceaux / A2;D: <50*50 cm= 2500 cm2;1;0.028;NA
+CGFS;2019;1;X0388;75;2019_1_X0388_75;07 - Plastique / Cordage synthetique / A7;C: <20*20 cm= 400 cm2;1;0.084;NA
+CGFS;2019;1;X0390;76;2019_1_X0390_76;07 - Plastique / Cordage synthetique / A7;C: <20*20 cm= 400 cm2;1;0.055;NA
+CGFS;2019;1;X0390;76;2019_1_X0390_76;02 - Plastique / Morceaux / A2;X: UNK - categorisation non realisee;3;0.025;NA
+CGFS;2019;1;X0390;76;2019_1_X0390_76;01 - Plastique / Bouteille / A1 _ L1b;B: <10*10 cm= 100 cm2;1;0.01;NA
+CGFS;2019;1;X0392;77;2019_1_X0392_77;34 - Metal / Autres / B8;C: <20*20 cm= 400 cm2;1;1.245;Filtre à huile
+CGFS;2019;1;X0392;77;2019_1_X0392_77;42 - Caoutchouc / Gants / C5;C: <20*20 cm= 400 cm2;2;0.375;NA
+CGFS;2019;1;X0392;77;2019_1_X0392_77;43 - Caoutchouc / Autres / C6;C: <20*20 cm= 400 cm2;2;0.935;Rondelle de bourleet de fond
+CGFS;2019;1;X0392;77;2019_1_X0392_77;44 - Caoutchouc / Autres (gants_ flotteurs_ bottes/chaussures_ cires_ sanitaire) / L2b - Gants_ Flotteurs_ Bottes/Chaussures_ cires_ sanitaire_ etc.;C: <20*20 cm= 400 cm2;25;0.639;NA
+CGFS;2019;1;X0392;77;2019_1_X0392_77;02 - Plastique / Morceaux / A2;C: <20*20 cm= 400 cm2;500;2.59;NA
+CGFS;2019;1;X0392;77;2019_1_X0392_77;60 - Divers / Vetements_ Chiffons / F1;C: <20*20 cm= 400 cm2;3;0.256;NA
+CGFS;2019;1;X0394;78;2019_1_X0394_78;02 - Plastique / Morceaux / A2;B: <10*10 cm= 100 cm2;20;0.063;NA
+CGFS;2019;1;X0394;78;2019_1_X0394_78;28 - Metal / Cannettes / B2 _ L3a;A: <5*5 cm= 25 cm2;1;0.003;NA
+CGFS;2019;1;X0394;78;2019_1_X0394_78;07 - Plastique / Cordage synthetique / A7;C: <20*20 cm= 400 cm2;6;0.135;NA
+CGFS;2019;1;X0394;78;2019_1_X0394_78;60 - Divers / Vetements_ Chiffons / F1;B: <10*10 cm= 100 cm2;1;0.012;NA
+CGFS;2019;1;X0397;80;2019_1_X0397_80;07 - Plastique / Cordage synthetique / A7;B: <10*10 cm= 100 cm2;14;0.04;NA
+CGFS;2019;1;X0398;81;2019_1_X0398_81;05 - Plastique / Lignes de peche (monofilament) / A5;A: <5*5 cm= 25 cm2;1;0.001;NA
+CGFS;2019;1;X0398;81;2019_1_X0398_81;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;5;0.01;NA
+CGFS;2019;1;X0399;82;2019_1_X0399_82;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;3;0.005;NA
+CGFS;2019;1;X0400;83;2019_1_X0400_83;07 - Plastique / Cordage synthetique / A7;B: <10*10 cm= 100 cm2;1;0.003;NA
+CGFS;2019;1;X0400;83;2019_1_X0400_83;02 - Plastique / Morceaux / A2;B: <10*10 cm= 100 cm2;1;0.002;NA
+CGFS;2019;1;X0400;83;2019_1_X0400_83;05 - Plastique / Lignes de peche (monofilament) / A5;B: <10*10 cm= 100 cm2;1;0.014;NA
+CGFS;2019;1;X0401;84;2019_1_X0401_84;02 - Plastique / Morceaux / A2;B: <10*10 cm= 100 cm2;2;0.006;NA
+CGFS;2019;1;X0401;84;2019_1_X0401_84;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;1;0.003;NA
+CGFS;2019;1;X0402;85;2019_1_X0402_85;02 - Plastique / Morceaux / A2;A: <5*5 cm= 25 cm2;1;0.002;NA
+CGFS;2019;1;X0402;85;2019_1_X0402_85;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;1;0.002;NA
+CGFS;2019;1;X0403;86;2019_1_X0403_86;62 - Divers / Autres / F3_L9 - (null);D: <50*50 cm= 2500 cm2;1;10;CASIER BULOT
+CGFS;2019;1;X0403;86;2019_1_X0403_86;43 - Caoutchouc / Autres / C6;C: <20*20 cm= 400 cm2;1;6.55;RONDELLE PLOMBEE DE CASIER BULOT
+CGFS;2019;1;X0403;86;2019_1_X0403_86;07 - Plastique / Cordage synthetique / A7;E: <100*100 cm= 10000 cm2= 1 m2;2;0.14;NA
+CGFS;2019;1;X0404;87;2019_1_X0404_87;43 - Caoutchouc / Autres / C6;C: <20*20 cm= 400 cm2;1;0.062;NA
+CGFS;2019;1;X0404;87;2019_1_X0404_87;07 - Plastique / Cordage synthetique / A7;B: <10*10 cm= 100 cm2;3;0.007;NA
+CGFS;2019;1;X0408;90;2019_1_X0408_90;40 - Caoutchouc / Bobines (peche) / C3;C: <20*20 cm= 400 cm2;1;1.197;NA
+CGFS;2019;1;X0408;90;2019_1_X0408_90;02 - Plastique / Morceaux / A2;B: <10*10 cm= 100 cm2;1;0.005;NA
+CGFS;2019;1;X0408;90;2019_1_X0408_90;07 - Plastique / Cordage synthetique / A7;C: <20*20 cm= 400 cm2;3;0.021;NA
+CGFS;2019;1;X0409;91;2019_1_X0409_91;02 - Plastique / Morceaux / A2;A: <5*5 cm= 25 cm2;1;0.002;NA
+CGFS;2019;1;X0409;91;2019_1_X0409_91;07 - Plastique / Cordage synthetique / A7;B: <10*10 cm= 100 cm2;1;0.003;NA
+CGFS;2019;1;X0409;91;2019_1_X0409_91;57 - Produits naturels / Bois recycle_ palettes / E4_L6 - Palettes_ caisses_ etc.;B: <10*10 cm= 100 cm2;1;0.168;NA
+CGFS;2019;1;X0410;92;2019_1_X0410_92;43 - Caoutchouc / Autres / C6;D: <50*50 cm= 2500 cm2;1;0.827;NA
+CGFS;2019;1;X0410;92;2019_1_X0410_92;03 - Plastique / Sacs / A3 _ L1a;D: <50*50 cm= 2500 cm2;3;0.18;NA
+CGFS;2019;1;X0410;92;2019_1_X0410_92;03 - Plastique / Sacs / A3 _ L1a;B: <10*10 cm= 100 cm2;2;0.017;NA
+CGFS;2019;1;X0410;92;2019_1_X0410_92;07 - Plastique / Cordage synthetique / A7;B: <10*10 cm= 100 cm2;3;0.008;NA
+CGFS;2019;1;X0410;92;2019_1_X0410_92;57 - Produits naturels / Bois recycle_ palettes / E4_L6 - Palettes_ caisses_ etc.;C: <20*20 cm= 400 cm2;1;0.238;NA
+CGFS;2019;1;X0412;93;2019_1_X0412_93;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;1;0.004;NA
+CGFS;2019;1;X0412;93;2019_1_X0412_93;05 - Plastique / Lignes de peche (monofilament) / A5;A: <5*5 cm= 25 cm2;1;0.001;NA
+CGFS;2019;1;X0413;94;2019_1_X0413_94;07 - Plastique / Cordage synthetique / A7;C: <20*20 cm= 400 cm2;1;0.015;NA
+CGFS;2019;1;X0414;95;2019_1_X0414_95;07 - Plastique / Cordage synthetique / A7;C: <20*20 cm= 400 cm2;1;0.003;NA
+CGFS;2019;1;X0415;96;2019_1_X0415_96;07 - Plastique / Cordage synthetique / A7;C: <20*20 cm= 400 cm2;3;0.069;NA
+CGFS;2019;1;X0416;97;2019_1_X0416_97;57 - Produits naturels / Bois recycle_ palettes / E4_L6 - Palettes_ caisses_ etc.;B: <10*10 cm= 100 cm2;1;0.187;NA
+CGFS;2019;1;X0416;97;2019_1_X0416_97;60 - Divers / Vetements_ Chiffons / F1;C: <20*20 cm= 400 cm2;1;0.162;NA
+CGFS;2019;1;X0416;97;2019_1_X0416_97;43 - Caoutchouc / Autres / C6;C: <20*20 cm= 400 cm2;1;0.157;NA
+CGFS;2019;1;X0416;97;2019_1_X0416_97;03 - Plastique / Sacs / A3 _ L1a;B: <10*10 cm= 100 cm2;1;0.01;NA
+CGFS;2019;1;X0417;98;2019_1_X0417_98;02 - Plastique / Morceaux / A2;B: <10*10 cm= 100 cm2;1;0.002;NA
+CGFS;2019;1;X0418;99;2019_1_X0418_99;60 - Divers / Vetements_ Chiffons / F1;C: <20*20 cm= 400 cm2;1;0.068;NA
+CGFS;2019;1;X0418;99;2019_1_X0418_99;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;1;0.001;NA
+CGFS;2019;1;X0419;100;2019_1_X0419_100;02 - Plastique / Morceaux / A2;B: <10*10 cm= 100 cm2;1;0.005;NA
+CGFS;2019;1;X0419;100;2019_1_X0419_100;40 - Caoutchouc / Bobines (peche) / C3;D: <50*50 cm= 2500 cm2;1;0.012;CASIER A BULOT
+CGFS;2019;1;X0421;101;2019_1_X0421_101;60 - Divers / Vetements_ Chiffons / F1;C: <20*20 cm= 400 cm2;1;0.295;NA
+CGFS;2019;1;X0421;101;2019_1_X0421_101;02 - Plastique / Morceaux / A2;C: <20*20 cm= 400 cm2;3;0.017;NA
+CGFS;2019;1;X0421;101;2019_1_X0421_101;07 - Plastique / Cordage synthetique / A7;B: <10*10 cm= 100 cm2;1;0.017;NA
+CGFS;2019;1;X0421;101;2019_1_X0421_101;43 - Caoutchouc / Autres / C6;B: <10*10 cm= 100 cm2;2;0.059;NA
+CGFS;2019;1;X0422;102;2019_1_X0422_102;62 - Divers / Autres / F3_L9 - (null);D: <50*50 cm= 2500 cm2;2;7;NA
+CGFS;2019;1;X0424;104;2019_1_X0424_104;02 - Plastique / Morceaux / A2;B: <10*10 cm= 100 cm2;1;0.002;NA
+CGFS;2019;1;X0424;104;2019_1_X0424_104;40 - Caoutchouc / Bobines (peche) / C3;B: <10*10 cm= 100 cm2;1;0.085;NA
+CGFS;2019;1;X0425;105;2019_1_X0425_105;02 - Plastique / Morceaux / A2;C: <20*20 cm= 400 cm2;4;0.14;NA
+CGFS;2019;1;X0425;105;2019_1_X0425_105;07 - Plastique / Cordage synthetique / A7;C: <20*20 cm= 400 cm2;2;0.009;NA
+CGFS;2019;1;X0426;106;2019_1_X0426_106;02 - Plastique / Morceaux / A2;C: <20*20 cm= 400 cm2;1;0.02;NA
+CGFS;2019;1;X0426;106;2019_1_X0426_106;07 - Plastique / Cordage synthetique / A7;B: <10*10 cm= 100 cm2;1;0.046;NA
+CGFS;2019;1;X0427;107;2019_1_X0427_107;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;1;0.002;NA
+CGFS;2019;1;X0427;107;2019_1_X0427_107;61 - Divers / Chaussures / F2;C: <20*20 cm= 400 cm2;1;1.07;NA
+CGFS;2019;1;X0429;109;2019_1_X0429_109;03 - Plastique / Sacs / A3 _ L1a;C: <20*20 cm= 400 cm2;4;0.064;NA
+CGFS;2019;1;X0429;109;2019_1_X0429_109;07 - Plastique / Cordage synthetique / A7;B: <10*10 cm= 100 cm2;2;0.002;NA
+CGFS;2019;1;X0431;111;2019_1_X0431_111;07 - Plastique / Cordage synthetique / A7;B: <10*10 cm= 100 cm2;1;0.001;NA
+CGFS;2019;1;X0432;112;2019_1_X0432_112;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;1;0.001;NA
+CGFS;2019;1;X0433;113;2019_1_X0433_113;02 - Plastique / Morceaux / A2;A: <5*5 cm= 25 cm2;3;0.001;NA
+CGFS;2019;1;X0433;113;2019_1_X0433_113;07 - Plastique / Cordage synthetique / A7;B: <10*10 cm= 100 cm2;6;0.012;NA
+CGFS;2019;1;X0433;113;2019_1_X0433_113;43 - Caoutchouc / Autres / C6;B: <10*10 cm= 100 cm2;1;0.024;NA
+CGFS;2019;1;X0435;115;2019_1_X0435_115;54 - Produits naturels / Bois (travaille) / E1;C: <20*20 cm= 400 cm2;1;3.15;NA
+CGFS;2019;1;X0435;115;2019_1_X0435_115;02 - Plastique / Morceaux / A2;C: <20*20 cm= 400 cm2;2;0.107;NA
+CGFS;2019;1;X0435;115;2019_1_X0435_115;04 - Plastique / Bouchons_ couvercles / A4;C: <20*20 cm= 400 cm2;1;0.066;NA
+CGFS;2019;1;X0436;116;2019_1_X0436_116;02 - Plastique / Morceaux / A2;B: <10*10 cm= 100 cm2;4;0.035;NA
+CGFS;2019;1;X0437;117;2019_1_X0437_117;01 - Plastique / Bouteille / A1 _ L1b;C: <20*20 cm= 400 cm2;2;0.056;NA
+CGFS;2019;1;X0437;117;2019_1_X0437_117;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;7;0.006;NA
+CGFS;2019;1;X0437;117;2019_1_X0437_117;02 - Plastique / Morceaux / A2;A: <5*5 cm= 25 cm2;3;0.001;NA
+CGFS;2019;1;X0437;117;2019_1_X0437_117;43 - Caoutchouc / Autres / C6;B: <10*10 cm= 100 cm2;2;0.089;NA
+CGFS;2019;1;X0439;118;2019_1_X0439_118;02 - Plastique / Morceaux / A2;B: <10*10 cm= 100 cm2;1;0.002;NA
+CGFS;2019;1;X0439;118;2019_1_X0439_118;07 - Plastique / Cordage synthetique / A7;B: <10*10 cm= 100 cm2;6;0.01;NA
+CGFS;2018;1;W0451;1;2018_1_W0451_1;02 - Plastique / Morceaux / A2;D: <50*50 cm= 2500 cm2;2;0.023;NA
+CGFS;2018;1;W0451;1;2018_1_W0451_1;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;3;0.002;NA
+CGFS;2018;1;W0452;2;2018_1_W0452_2;07 - Plastique / Cordage synthetique / A7;B: <10*10 cm= 100 cm2;2;0.008;NA
+CGFS;2018;1;W0452;2;2018_1_W0452_2;08 - Plastique / Filets de peche / A8 _ L1f;A: <5*5 cm= 25 cm2;2;0.001;NA
+CGFS;2018;1;W0453;3;2018_1_W0453_3;33 - Metal / Cables / B7 _ L3e;C: <20*20 cm= 400 cm2;1;0.595;NA
+CGFS;2018;1;W0454;4;2018_1_W0454_4;36 - Metal / Objets metalliques de grande taille (barils_  appareils electriques) / L3d - Barils_ pieces de machinerie_ appareils electriques_ etc.;X: UNK - categorisation non realisee;1;70;OBUS
+CGFS;2018;1;W0455;5;2018_1_W0455_5;02 - Plastique / Morceaux / A2;A: <5*5 cm= 25 cm2;1;0.001;NA
+CGFS;2018;1;W0457;7;2018_1_W0457_7;02 - Plastique / Morceaux / A2;A: <5*5 cm= 25 cm2;1;0.001;NA
+CGFS;2018;1;W0458;8;2018_1_W0458_8;34 - Metal / Autres / B8;E: <100*100 cm= 10000 cm2= 1 m2;1;30;CANALISATION
+CGFS;2018;1;W0458;8;2018_1_W0458_8;07 - Plastique / Cordage synthetique / A7;C: <20*20 cm= 400 cm2;1;0.011;NA
+CGFS;2018;1;W0459;9;2018_1_W0459_9;07 - Plastique / Cordage synthetique / A7;B: <10*10 cm= 100 cm2;8;0.011;NA
+CGFS;2018;1;W0459;9;2018_1_W0459_9;02 - Plastique / Morceaux / A2;B: <10*10 cm= 100 cm2;2;0.009;NA
+CGFS;2018;1;W0461;11;2018_1_W0461_11;08 - Plastique / Filets de peche / A8 _ L1f;A: <5*5 cm= 25 cm2;1;0.001;NA
+CGFS;2018;1;W0463;13;2018_1_W0463_13;02 - Plastique / Morceaux / A2;C: <20*20 cm= 400 cm2;1;0.006;NA
+CGFS;2018;1;W0464;14;2018_1_W0464_14;02 - Plastique / Morceaux / A2;B: <10*10 cm= 100 cm2;3;0.002;NA
+CGFS;2018;1;W0465;15;2018_1_W0465_15;28 - Metal / Cannettes / B2 _ L3a;B: <10*10 cm= 100 cm2;1;0.012;NA
+CGFS;2018;1;W0466;16;2018_1_W0466_16;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;1;0.001;NA
+CGFS;2018;1;W0467;17;2018_1_W0467_17;02 - Plastique / Morceaux / A2;A: <5*5 cm= 25 cm2;1;0.005;NA
+CGFS;2018;1;W0468;18;2018_1_W0468_18;06 - Plastique / Lignes de peche (emmele) / A6 _ L1g;A: <5*5 cm= 25 cm2;1;0.008;NA
+CGFS;2018;1;W0470;20;2018_1_W0470_20;62 - Divers / Autres / F3_L9 - (null);E: <100*100 cm= 10000 cm2= 1 m2;3;5;CASIERS A BULOT SANS SEMELLE
+CGFS;2018;1;W0470;20;2018_1_W0470_20;02 - Plastique / Morceaux / A2;B: <10*10 cm= 100 cm2;3;0.007;NA
+CGFS;2018;1;W0471;21;2018_1_W0471_21;05 - Plastique / Lignes de peche (monofilament) / A5;A: <5*5 cm= 25 cm2;1;0.001;NA
+CGFS;2018;1;W0471;21;2018_1_W0471_21;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;2;0.005;NA
+CGFS;2018;1;W0471;21;2018_1_W0471_21;02 - Plastique / Morceaux / A2;A: <5*5 cm= 25 cm2;1;0.002;NA
+CGFS;2018;1;W0473;23;2018_1_W0473_23;02 - Plastique / Morceaux / A2;B: <10*10 cm= 100 cm2;1;0.002;NA
+CGFS;2018;1;W0474;24;2018_1_W0474_24;05 - Plastique / Lignes de peche (monofilament) / A5;A: <5*5 cm= 25 cm2;1;1;NA
+CGFS;2018;1;W0474;24;2018_1_W0474_24;62 - Divers / Autres / F3_L9 - (null);D: <50*50 cm= 2500 cm2;1;5;NA
+CGFS;2018;1;W0477;27;2018_1_W0477_27;05 - Plastique / Lignes de peche (monofilament) / A5;A: <5*5 cm= 25 cm2;1;0.001;NA
+CGFS;2018;1;W0478;28;2018_1_W0478_28;28 - Metal / Cannettes / B2 _ L3a;C: <20*20 cm= 400 cm2;1;0.021;NA
+CGFS;2018;1;W0481;31;2018_1_W0481_31;05 - Plastique / Lignes de peche (monofilament) / A5;A: <5*5 cm= 25 cm2;1;0.001;NA
+CGFS;2018;1;W0481;31;2018_1_W0481_31;40 - Caoutchouc / Bobines (peche) / C3;C: <20*20 cm= 400 cm2;1;0.339;NA
+CGFS;2018;1;W0482;32;2018_1_W0482_32;02 - Plastique / Morceaux / A2;B: <10*10 cm= 100 cm2;1;0.002;NA
+CGFS;2018;1;W0482;32;2018_1_W0482_32;05 - Plastique / Lignes de peche (monofilament) / A5;A: <5*5 cm= 25 cm2;1;0.001;NA
+CGFS;2018;1;W0483;33;2018_1_W0483_33;02 - Plastique / Morceaux / A2;D: <50*50 cm= 2500 cm2;10;0.04;NA
+CGFS;2018;1;W0483;33;2018_1_W0483_33;34 - Metal / Autres / B8;B: <10*10 cm= 100 cm2;1;0.001;NA
+CGFS;2018;1;W0484;34;2018_1_W0484_34;02 - Plastique / Morceaux / A2;D: <50*50 cm= 2500 cm2;3;0.014;NA
+CGFS;2018;1;W0486;35;2018_1_W0486_35;02 - Plastique / Morceaux / A2;D: <50*50 cm= 2500 cm2;6;0.077;NA
+CGFS;2018;1;W0486;35;2018_1_W0486_35;34 - Metal / Autres / B8;A: <5*5 cm= 25 cm2;1;0.004;NA
+CGFS;2018;1;W0487;36;2018_1_W0487_36;02 - Plastique / Morceaux / A2;D: <50*50 cm= 2500 cm2;2;0.035;NA
+CGFS;2018;1;W0487;36;2018_1_W0487_36;13 - Plastique / Emballages alimentaires / L1c;C: <20*20 cm= 400 cm2;1;0.024;NA
+CGFS;2018;1;W0487;36;2018_1_W0487_36;34 - Metal / Autres / B8;D: <50*50 cm= 2500 cm2;1;0.517;NA
+CGFS;2018;1;W0488;37;2018_1_W0488_37;05 - Plastique / Lignes de peche (monofilament) / A5;A: <5*5 cm= 25 cm2;2;1;NA
+CGFS;2018;1;W0488;37;2018_1_W0488_37;03 - Plastique / Sacs / A3 _ L1a;E: <100*100 cm= 10000 cm2= 1 m2;2;89;NA
+CGFS;2018;1;W0489;38;2018_1_W0489_38;02 - Plastique / Morceaux / A2;B: <10*10 cm= 100 cm2;2;0.002;NA
+CGFS;2018;1;W0489;38;2018_1_W0489_38;05 - Plastique / Lignes de peche (monofilament) / A5;A: <5*5 cm= 25 cm2;1;0.001;NA
+CGFS;2018;1;W0490;39;2018_1_W0490_39;02 - Plastique / Morceaux / A2;B: <10*10 cm= 100 cm2;1;0.006;NA
+CGFS;2018;1;W0491;40;2018_1_W0491_40;62 - Divers / Autres / F3_L9 - (null);B: <10*10 cm= 100 cm2;1;0.018;NA
+CGFS;2018;1;W0493;42;2018_1_W0493_42;02 - Plastique / Morceaux / A2;C: <20*20 cm= 400 cm2;2;0.017;NA
+CGFS;2018;1;W0494;43;2018_1_W0494_43;06 - Plastique / Lignes de peche (emmele) / A6 _ L1g;X: UNK - categorisation non realisee;3;0.006;NA
+CGFS;2018;1;W0494;43;2018_1_W0494_43;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;2;4;NA
+CGFS;2018;1;W0496;45;2018_1_W0496_45;05 - Plastique / Lignes de peche (monofilament) / A5;A: <5*5 cm= 25 cm2;1;0.001;NA
+CGFS;2018;1;W0497;46;2018_1_W0497_46;05 - Plastique / Lignes de peche (monofilament) / A5;A: <5*5 cm= 25 cm2;1;0.001;NA
+CGFS;2018;1;W0498;47;2018_1_W0498_47;06 - Plastique / Lignes de peche (emmele) / A6 _ L1g;B: <10*10 cm= 100 cm2;3;1e-04;NA
+CGFS;2018;1;W0498;47;2018_1_W0498_47;02 - Plastique / Morceaux / A2;A: <5*5 cm= 25 cm2;1;0.002;NA
+CGFS;2018;1;W0498;47;2018_1_W0498_47;40 - Caoutchouc / Bobines (peche) / C3;C: <20*20 cm= 400 cm2;1;0.189;NA
+CGFS;2018;1;W0500;49;2018_1_W0500_49;02 - Plastique / Morceaux / A2;B: <10*10 cm= 100 cm2;2;0.004;NA
+CGFS;2018;1;W0500;49;2018_1_W0500_49;62 - Divers / Autres / F3_L9 - (null);C: <20*20 cm= 400 cm2;1;15;casier à bulot avec semelle
+CGFS;2018;1;W0501;50;2018_1_W0501_50;02 - Plastique / Morceaux / A2;D: <50*50 cm= 2500 cm2;1;10;NA
+CGFS;2018;1;W0503;52;2018_1_W0503_52;02 - Plastique / Morceaux / A2;C: <20*20 cm= 400 cm2;1;0.003;NA
+CGFS;2018;1;W0503;52;2018_1_W0503_52;05 - Plastique / Lignes de peche (monofilament) / A5;A: <5*5 cm= 25 cm2;8;0.001;NA
+CGFS;2018;1;W0503;52;2018_1_W0503_52;60 - Divers / Vetements_ Chiffons / F1;A: <5*5 cm= 25 cm2;1;0.012;NA
+CGFS;2018;1;W0505;54;2018_1_W0505_54;02 - Plastique / Morceaux / A2;A: <5*5 cm= 25 cm2;2;0.002;NA
+CGFS;2018;1;W0506;55;2018_1_W0506_55;05 - Plastique / Lignes de peche (monofilament) / A5;A: <5*5 cm= 25 cm2;1;0.001;NA
+CGFS;2018;1;W0506;55;2018_1_W0506_55;02 - Plastique / Morceaux / A2;B: <10*10 cm= 100 cm2;1;0.002;NA
+CGFS;2018;1;W0507;56;2018_1_W0507_56;67 - Autres / Specifie / L8;E: <100*100 cm= 10000 cm2= 1 m2;1;2;MARQUE FILET
+CGFS;2018;1;W0509;58;2018_1_W0509_58;07 - Plastique / Cordage synthetique / A7;X: UNK - categorisation non realisee;1;0.018;NA
+CGFS;2018;1;W0509;58;2018_1_W0509_58;02 - Plastique / Morceaux / A2;X: UNK - categorisation non realisee;1;0.001;NA
+CGFS;2018;1;W0510;59;2018_1_W0510_59;05 - Plastique / Lignes de peche (monofilament) / A5;A: <5*5 cm= 25 cm2;1;0.001;NA
+CGFS;2018;1;W0510;59;2018_1_W0510_59;02 - Plastique / Morceaux / A2;D: <50*50 cm= 2500 cm2;3;0.04;NA
+CGFS;2018;1;W0511;60;2018_1_W0511_60;16 - Plastique / Autres objets de peche (pots_ flotteurs_ etc.) / L1h - Plots_ flotteurs_ etc.;D: <50*50 cm= 2500 cm2;1;15;sac de moules!!! pleins...de moules!!
+CGFS;2018;1;W0511;60;2018_1_W0511_60;15 - Plastique / Objets en plastique dur (caisses_recipients_tubes_cendriers_couvercles...) / L1e - Caisse_ recipients_ tubes_ cendrier_ couvercles_ etc.;C: <20*20 cm= 400 cm2;1;0.318;NA
+CGFS;2018;1;W0511;60;2018_1_W0511_60;05 - Plastique / Lignes de peche (monofilament) / A5;A: <5*5 cm= 25 cm2;1;0.001;NA
+CGFS;2018;1;W0511;60;2018_1_W0511_60;02 - Plastique / Morceaux / A2;A: <5*5 cm= 25 cm2;1;0.005;NA
+CGFS;2018;1;W0512;61;2018_1_W0512_61;05 - Plastique / Lignes de peche (monofilament) / A5;A: <5*5 cm= 25 cm2;16;0.003;NA
+CGFS;2018;1;W0512;61;2018_1_W0512_61;07 - Plastique / Cordage synthetique / A7;C: <20*20 cm= 400 cm2;4;0.032;NA
+CGFS;2018;1;W0512;61;2018_1_W0512_61;02 - Plastique / Morceaux / A2;D: <50*50 cm= 2500 cm2;8;0.012;NA
+CGFS;2018;1;W0512;61;2018_1_W0512_61;13 - Plastique / Emballages alimentaires / L1c;A: <5*5 cm= 25 cm2;1;0.001;MORCEAU DE GOBELET
+CGFS;2018;1;W0512;61;2018_1_W0512_61;12 - Plastique / Autres / A14_L1j;B: <10*10 cm= 100 cm2;1;0.005;Scotch résistant
+CGFS;2018;1;W0513;62;2018_1_W0513_62;05 - Plastique / Lignes de peche (monofilament) / A5;A: <5*5 cm= 25 cm2;1;0.001;NA
+CGFS;2018;1;W0513;62;2018_1_W0513_62;03 - Plastique / Sacs / A3 _ L1a;C: <20*20 cm= 400 cm2;2;0.021;NA
+CGFS;2018;1;W0513;62;2018_1_W0513_62;35 - Metal / Recipients de taille moyenne (de peinture_ huile_ produits chimiques) / L3c - Pots de peinture_ pots d huile_ recipients de produits chimiques_ etc.;E: <100*100 cm= 10000 cm2= 1 m2;1;6.38;filtre à gazoil
+CGFS;2018;1;W0513;62;2018_1_W0513_62;08 - Plastique / Filets de peche / A8 _ L1f;F: >100*100 cm = 10000 cm2= 1 m2;1;3.37;NA
+CGFS;2018;1;W0514;63;2018_1_W0514_63;40 - Caoutchouc / Bobines (peche) / C3;B: <10*10 cm= 100 cm2;1;0.156;NA
+CGFS;2018;1;W0514;63;2018_1_W0514_63;02 - Plastique / Morceaux / A2;B: <10*10 cm= 100 cm2;4;0.019;NA
+CGFS;2018;1;W0514;63;2018_1_W0514_63;05 - Plastique / Lignes de peche (monofilament) / A5;A: <5*5 cm= 25 cm2;1;0.001;NA
+CGFS;2018;1;W0516;65;2018_1_W0516_65;02 - Plastique / Morceaux / A2;C: <20*20 cm= 400 cm2;2;0.016;NA
+CGFS;2018;1;W0517;66;2018_1_W0517_66;02 - Plastique / Morceaux / A2;C: <20*20 cm= 400 cm2;2;0.012;NA
+CGFS;2018;1;W0517;66;2018_1_W0517_66;12 - Plastique / Autres / A14_L1j;D: <50*50 cm= 2500 cm2;1;0.536;BOTTE
+CGFS;2018;1;W0518;67;2018_1_W0518_67;05 - Plastique / Lignes de peche (monofilament) / A5;A: <5*5 cm= 25 cm2;1;0.001;NA
+CGFS;2018;1;W0518;67;2018_1_W0518_67;02 - Plastique / Morceaux / A2;B: <10*10 cm= 100 cm2;1;0.001;NA
+CGFS;2018;1;W0518;67;2018_1_W0518_67;13 - Plastique / Emballages alimentaires / L1c;D: <50*50 cm= 2500 cm2;1;0.034;BOUTEILLE PLASTIQUE
+CGFS;2018;1;W0519;68;2018_1_W0519_68;34 - Metal / Autres / B8;A: <5*5 cm= 25 cm2;1;0.005;NA
+CGFS;2018;1;W0521;70;2018_1_W0521_70;05 - Plastique / Lignes de peche (monofilament) / A5;A: <5*5 cm= 25 cm2;1;0.001;NA
+CGFS;2018;1;W0521;70;2018_1_W0521_70;02 - Plastique / Morceaux / A2;C: <20*20 cm= 400 cm2;3;0.026;NA
+CGFS;2018;1;W0522;71;2018_1_W0522_71;05 - Plastique / Lignes de peche (monofilament) / A5;A: <5*5 cm= 25 cm2;1;0.001;NA
+CGFS;2018;1;W0522;71;2018_1_W0522_71;02 - Plastique / Morceaux / A2;A: <5*5 cm= 25 cm2;1;0.002;NA
+CGFS;2018;1;W0523;72;2018_1_W0523_72;05 - Plastique / Lignes de peche (monofilament) / A5;A: <5*5 cm= 25 cm2;5;0.002;NA
+CGFS;2018;1;W0523;72;2018_1_W0523_72;02 - Plastique / Morceaux / A2;C: <20*20 cm= 400 cm2;11;0.025;NA
+CGFS;2018;1;W0524;73;2018_1_W0524_73;05 - Plastique / Lignes de peche (monofilament) / A5;A: <5*5 cm= 25 cm2;2;0.001;NA
+CGFS;2018;1;W0524;73;2018_1_W0524_73;13 - Plastique / Emballages alimentaires / L1c;C: <20*20 cm= 400 cm2;3;0.087;une bouteille plastique
+CGFS;2018;1;W0524;73;2018_1_W0524_73;11 - Plastique / Caisses et conteneurs / A11;E: <100*100 cm= 10000 cm2= 1 m2;1;0.514;caisse en plastique
+CGFS;2018;1;W0524;73;2018_1_W0524_73;29 - Metal / Objets lies a  la peche / B3 _ L3f - Hamecons_ etc.;F: >100*100 cm = 10000 cm2= 1 m2;1;12;1 casier à seiche armature metallique mais cordage synthetique
+CGFS;2018;1;W0525;74;2018_1_W0525_74;05 - Plastique / Lignes de peche (monofilament) / A5;A: <5*5 cm= 25 cm2;1;0.001;NA
+CGFS;2018;1;W0525;74;2018_1_W0525_74;02 - Plastique / Morceaux / A2;A: <5*5 cm= 25 cm2;1;0.001;NA
+CGFS;2017;1;V0391;1;2017_1_V0391_1;02 - Plastique / Morceaux / A2;B: <10*10 cm= 100 cm2;1;0.015;NA
+CGFS;2017;1;V0391;1;2017_1_V0391_1;03 - Plastique / Sacs / A3 _ L1a;B: <10*10 cm= 100 cm2;5;0.003;NA
+CGFS;2017;1;V0391;1;2017_1_V0391_1;06 - Plastique / Lignes de peche (emmele) / A6 _ L1g;D: <50*50 cm= 2500 cm2;4;0.225;NA
+CGFS;2017;1;V0391;1;2017_1_V0391_1;07 - Plastique / Cordage synthetique / A7;C: <20*20 cm= 400 cm2;8;0.052;NA
+CGFS;2017;1;V0391;1;2017_1_V0391_1;12 - Plastique / Autres / A14_L1j;D: <50*50 cm= 2500 cm2;1;0.188;Filet de bouchot pour les moules
+CGFS;2017;1;V0391;1;2017_1_V0391_1;19 - Dechets sanitaires / Couches / B1;B: <10*10 cm= 100 cm2;1;0.002;étiquette élingue
+CGFS;2017;1;V0391;1;2017_1_V0391_1;21 - Dechets sanitaires / Megots de cigarette / B3;A: <5*5 cm= 25 cm2;1;0.002;NA
+CGFS;2017;1;V0392;2;2017_1_V0392_2;02 - Plastique / Morceaux / A2;B: <10*10 cm= 100 cm2;1;0.149;NA
+CGFS;2017;1;V0392;2;2017_1_V0392_2;03 - Plastique / Sacs / A3 _ L1a;A: <5*5 cm= 25 cm2;73;0.034;NA
+CGFS;2017;1;V0392;2;2017_1_V0392_2;07 - Plastique / Cordage synthetique / A7;B: <10*10 cm= 100 cm2;15;0.013;NA
+CGFS;2017;1;V0392;2;2017_1_V0392_2;08 - Plastique / Filets de peche / A8 _ L1f;E: <100*100 cm= 10000 cm2= 1 m2;1;0.1034;NA
+CGFS;2017;1;V0392;2;2017_1_V0392_2;21 - Dechets sanitaires / Megots de cigarette / B3;A: <5*5 cm= 25 cm2;1;0.002;NA
+CGFS;2017;1;V0393;3;2017_1_V0393_3;01 - Plastique / Bouteille / A1 _ L1b;C: <20*20 cm= 400 cm2;1;0.043;Organismes oui : Bryozoa
+CGFS;2017;1;V0393;3;2017_1_V0393_3;02 - Plastique / Morceaux / A2;C: <20*20 cm= 400 cm2;7;0.131;Organismes oui : Algua
+CGFS;2017;1;V0393;3;2017_1_V0393_3;06 - Plastique / Lignes de peche (emmele) / A6 _ L1g;B: <10*10 cm= 100 cm2;1;0.022;NA
+CGFS;2017;1;V0393;3;2017_1_V0393_3;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;1;0.002;NA
+CGFS;2017;1;V0393;3;2017_1_V0393_3;21 - Dechets sanitaires / Megots de cigarette / B3;A: <5*5 cm= 25 cm2;1;0.002;NA
+CGFS;2017;1;V0393;3;2017_1_V0393_3;34 - Metal / Autres / B8;A: <5*5 cm= 25 cm2;1;0.012;Nous ne savons pas ce que c'est!
+CGFS;2017;1;V0396;4;2017_1_V0396_4;02 - Plastique / Morceaux / A2;B: <10*10 cm= 100 cm2;3;0.007;NA
+CGFS;2017;1;V0396;4;2017_1_V0396_4;06 - Plastique / Lignes de peche (emmele) / A6 _ L1g;C: <20*20 cm= 400 cm2;1;0.014;NA
+CGFS;2017;1;V0396;4;2017_1_V0396_4;07 - Plastique / Cordage synthetique / A7;B: <10*10 cm= 100 cm2;5;0.011;NA
+CGFS;2017;1;V0396;4;2017_1_V0396_4;60 - Divers / Vetements_ Chiffons / F1;B: <10*10 cm= 100 cm2;1;0.013;NA
+CGFS;2017;1;V0397;5;2017_1_V0397_5;02 - Plastique / Morceaux / A2;B: <10*10 cm= 100 cm2;2;0.01;NA
+CGFS;2017;1;V0397;5;2017_1_V0397_5;07 - Plastique / Cordage synthetique / A7;C: <20*20 cm= 400 cm2;1;0.002;NA
+CGFS;2017;1;V0397;5;2017_1_V0397_5;54 - Produits naturels / Bois (travaille) / E1;B: <10*10 cm= 100 cm2;1;0.04;NA
+CGFS;2017;1;V0398;6;2017_1_V0398_6;06 - Plastique / Lignes de peche (emmele) / A6 _ L1g;B: <10*10 cm= 100 cm2;1;0.003;NA
+CGFS;2017;1;V0398;6;2017_1_V0398_6;28 - Metal / Cannettes / B2 _ L3a;C: <20*20 cm= 400 cm2;1;0.015;NA
+CGFS;2017;1;V0399;7;2017_1_V0399_7;02 - Plastique / Morceaux / A2;C: <20*20 cm= 400 cm2;16;0.137;NA
+CGFS;2017;1;V0399;7;2017_1_V0399_7;06 - Plastique / Lignes de peche (emmele) / A6 _ L1g;B: <10*10 cm= 100 cm2;1;0.015;NA
+CGFS;2017;1;V0399;7;2017_1_V0399_7;12 - Plastique / Autres / A14_L1j;D: <50*50 cm= 2500 cm2;1;0.225;NA
+CGFS;2017;1;V0399;7;2017_1_V0399_7;28 - Metal / Cannettes / B2 _ L3a;C: <20*20 cm= 400 cm2;1;0.013;NA
+CGFS;2017;1;V0399;7;2017_1_V0399_7;55 - Produits naturels / Corde / E2 _ L5c;C: <20*20 cm= 400 cm2;1;0.365;NA
+CGFS;2017;1;V0399;7;2017_1_V0399_7;60 - Divers / Vetements_ Chiffons / F1;B: <10*10 cm= 100 cm2;1;0.069;NA
+CGFS;2017;1;V0400;8;2017_1_V0400_8;02 - Plastique / Morceaux / A2;B: <10*10 cm= 100 cm2;7;0.03;NA
+CGFS;2017;1;V0400;8;2017_1_V0400_8;06 - Plastique / Lignes de peche (emmele) / A6 _ L1g;B: <10*10 cm= 100 cm2;2;0.023;NA
+CGFS;2017;1;V0400;8;2017_1_V0400_8;21 - Dechets sanitaires / Megots de cigarette / B3;A: <5*5 cm= 25 cm2;1;0.002;NA
+CGFS;2017;1;V0400;8;2017_1_V0400_8;28 - Metal / Cannettes / B2 _ L3a;B: <10*10 cm= 100 cm2;1;0.012;NA
+CGFS;2017;1;V0400;8;2017_1_V0400_8;07 - Plastique / Cordage synthetique / A7;B: <10*10 cm= 100 cm2;9;0.013;NA
+CGFS;2017;1;V0401;9;2017_1_V0401_9;02 - Plastique / Morceaux / A2;B: <10*10 cm= 100 cm2;12;0.055;NA
+CGFS;2017;1;V0401;9;2017_1_V0401_9;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;7;0.006;NA
+CGFS;2017;1;V0401;9;2017_1_V0401_9;48 - Verre_ceramique / Morceau / D3;A: <5*5 cm= 25 cm2;1;0.009;NA
+CGFS;2017;1;V0402;10;2017_1_V0402_10;02 - Plastique / Morceaux / A2;B: <10*10 cm= 100 cm2;3;0.005;NA
+CGFS;2017;1;V0402;10;2017_1_V0402_10;06 - Plastique / Lignes de peche (emmele) / A6 _ L1g;B: <10*10 cm= 100 cm2;1;0.041;Organismes fixés oui : Bryozoa
+CGFS;2017;1;V0402;10;2017_1_V0402_10;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;7;0.005;NA
+CGFS;2017;1;V0403;11;2017_1_V0403_11;02 - Plastique / Morceaux / A2;C: <20*20 cm= 400 cm2;11;0.154;ORGANISME OUI : ALGUA
+CGFS;2017;1;V0403;11;2017_1_V0403_11;07 - Plastique / Cordage synthetique / A7;B: <10*10 cm= 100 cm2;57;0.058;NA
+CGFS;2017;1;V0403;11;2017_1_V0403_11;09 - Plastique / Attaches de cable / A9;B: <10*10 cm= 100 cm2;1;0.002;NA
+CGFS;2017;1;V0405;12;2017_1_V0405_12;02 - Plastique / Morceaux / A2;B: <10*10 cm= 100 cm2;1;0.003;NA
+CGFS;2017;1;V0405;12;2017_1_V0405_12;03 - Plastique / Sacs / A3 _ L1a;C: <20*20 cm= 400 cm2;1;0.056;NA
+CGFS;2017;1;V0405;12;2017_1_V0405_12;07 - Plastique / Cordage synthetique / A7;B: <10*10 cm= 100 cm2;7;0.038;NA
+CGFS;2017;1;V0409;14;2017_1_V0409_14;02 - Plastique / Morceaux / A2;B: <10*10 cm= 100 cm2;1;0.002;NA
+CGFS;2017;1;V0409;14;2017_1_V0409_14;07 - Plastique / Cordage synthetique / A7;C: <20*20 cm= 400 cm2;6;0.008;NA
+CGFS;2017;1;V0409;14;2017_1_V0409_14;54 - Produits naturels / Bois (travaille) / E1;C: <20*20 cm= 400 cm2;1;0.064;Organismes oui Balanus
+CGFS;2017;1;V0410;15;2017_1_V0410_15;04 - Plastique / Bouchons_ couvercles / A4;C: <20*20 cm= 400 cm2;1;0.025;NA
+CGFS;2017;1;V0410;15;2017_1_V0410_15;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;3;0.005;NA
+CGFS;2017;1;V0410;15;2017_1_V0410_15;55 - Produits naturels / Corde / E2 _ L5c;B: <10*10 cm= 100 cm2;2;0.131;NA
+CGFS;2017;1;V0411;16;2017_1_V0411_16;02 - Plastique / Morceaux / A2;B: <10*10 cm= 100 cm2;1;0.013;NA
+CGFS;2017;1;V0411;16;2017_1_V0411_16;07 - Plastique / Cordage synthetique / A7;B: <10*10 cm= 100 cm2;5;0.015;NA
+CGFS;2017;1;V0412;17;2017_1_V0412_17;07 - Plastique / Cordage synthetique / A7;B: <10*10 cm= 100 cm2;6;0.006;NA
+CGFS;2017;1;V0413;18;2017_1_V0413_18;02 - Plastique / Morceaux / A2;B: <10*10 cm= 100 cm2;1;0.003;NA
+CGFS;2017;1;V0413;18;2017_1_V0413_18;06 - Plastique / Lignes de peche (emmele) / A6 _ L1g;B: <10*10 cm= 100 cm2;1;0.048;NA
+CGFS;2017;1;V0413;18;2017_1_V0413_18;07 - Plastique / Cordage synthetique / A7;B: <10*10 cm= 100 cm2;4;0.016;NA
+CGFS;2017;1;V0413;18;2017_1_V0413_18;12 - Plastique / Autres / A14_L1j;A: <5*5 cm= 25 cm2;1;0.003;NA
+CGFS;2017;1;V0414;19;2017_1_V0414_19;03 - Plastique / Sacs / A3 _ L1a;D: <50*50 cm= 2500 cm2;1;0.196;NA
+CGFS;2017;1;V0414;19;2017_1_V0414_19;07 - Plastique / Cordage synthetique / A7;C: <20*20 cm= 400 cm2;1;0.064;NA
+CGFS;2017;1;V0416;20;2017_1_V0416_20;02 - Plastique / Morceaux / A2;B: <10*10 cm= 100 cm2;4;0.003;NA
+CGFS;2017;1;V0416;20;2017_1_V0416_20;07 - Plastique / Cordage synthetique / A7;B: <10*10 cm= 100 cm2;12;0.009;NA
+CGFS;2017;1;V0417;21;2017_1_V0417_21;02 - Plastique / Morceaux / A2;C: <20*20 cm= 400 cm2;2;0.148;NA
+CGFS;2017;1;V0418;22;2017_1_V0418_22;02 - Plastique / Morceaux / A2;C: <20*20 cm= 400 cm2;3;0.421;ORGANISMES OUI ALGUA
+CGFS;2017;1;V0418;22;2017_1_V0418_22;07 - Plastique / Cordage synthetique / A7;C: <20*20 cm= 400 cm2;17;0.039;NA
+CGFS;2017;1;V0419;23;2017_1_V0419_23;01 - Plastique / Bouteille / A1 _ L1b;B: <10*10 cm= 100 cm2;1;0.004;POT DE YAYOUT!!!
+CGFS;2017;1;V0419;23;2017_1_V0419_23;02 - Plastique / Morceaux / A2;C: <20*20 cm= 400 cm2;2;0.014;NA
+CGFS;2017;1;V0419;23;2017_1_V0419_23;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;1;0.002;NA
+CGFS;2017;1;V0420;24;2017_1_V0420_24;02 - Plastique / Morceaux / A2;B: <10*10 cm= 100 cm2;1;0.002;NA
+CGFS;2017;1;V0420;24;2017_1_V0420_24;07 - Plastique / Cordage synthetique / A7;C: <20*20 cm= 400 cm2;7;0.025;NA
+CGFS;2017;1;V0421;25;2017_1_V0421_25;07 - Plastique / Cordage synthetique / A7;C: <20*20 cm= 400 cm2;1;0.057;NA
+CGFS;2017;1;V0423;27;2017_1_V0423_27;02 - Plastique / Morceaux / A2;B: <10*10 cm= 100 cm2;7;0.005;NA
+CGFS;2017;1;V0423;27;2017_1_V0423_27;07 - Plastique / Cordage synthetique / A7;C: <20*20 cm= 400 cm2;39;0.12;NA
+CGFS;2017;1;V0424;28;2017_1_V0424_28;02 - Plastique / Morceaux / A2;B: <10*10 cm= 100 cm2;1;0.002;NA
+CGFS;2017;1;V0425;29;2017_1_V0425_29;03 - Plastique / Sacs / A3 _ L1a;C: <20*20 cm= 400 cm2;1;0.072;NA
+CGFS;2017;1;V0425;29;2017_1_V0425_29;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;2;0.005;NA
+CGFS;2017;1;V0427;30;2017_1_V0427_30;07 - Plastique / Cordage synthetique / A7;C: <20*20 cm= 400 cm2;3;0.01;NA
+CGFS;2017;1;V0428;31;2017_1_V0428_31;07 - Plastique / Cordage synthetique / A7;B: <10*10 cm= 100 cm2;1;0.005;NA
+CGFS;2017;1;V0429;32;2017_1_V0429_32;07 - Plastique / Cordage synthetique / A7;B: <10*10 cm= 100 cm2;7;0.003;NA
+CGFS;2017;1;V0429;32;2017_1_V0429_32;60 - Divers / Vetements_ Chiffons / F1;C: <20*20 cm= 400 cm2;1;0.037;NA
+CGFS;2017;1;V0431;34;2017_1_V0431_34;07 - Plastique / Cordage synthetique / A7;C: <20*20 cm= 400 cm2;9;0.029;NA
+CGFS;2017;1;V0434;35;2017_1_V0434_35;02 - Plastique / Morceaux / A2;C: <20*20 cm= 400 cm2;1;0.012;NA
+CGFS;2017;1;V0435;36;2017_1_V0435_36;01 - Plastique / Bouteille / A1 _ L1b;C: <20*20 cm= 400 cm2;2;0.154;ORGANISMES OUI Crépidula fornicata + Hydrozoa + Algua
+CGFS;2017;1;V0435;36;2017_1_V0435_36;02 - Plastique / Morceaux / A2;B: <10*10 cm= 100 cm2;12;0.058;ORGANISMES OUI Crépidula fornicata + Hydrozoa + Algua
+CGFS;2017;1;V0435;36;2017_1_V0435_36;43 - Caoutchouc / Autres / C6;C: <20*20 cm= 400 cm2;1;0.223;Bande @@ORGANISMES OUI Crépidula fornicata + Hydrozoa + Algua + Sperpulidae
+CGFS;2017;1;V0435;36;2017_1_V0435_36;60 - Divers / Vetements_ Chiffons / F1;B: <10*10 cm= 100 cm2;1;0.003;NA
+CGFS;2017;1;V0436;37;2017_1_V0436_37;41 - Caoutchouc / Pneu / C4 _ L2a;D: <50*50 cm= 2500 cm2;1;15.74;Organismes oui : Balanus
+CGFS;2017;1;V0437;38;2017_1_V0437_38;34 - Metal / Autres / B8;C: <20*20 cm= 400 cm2;1;0.052;NA
+CGFS;2017;1;V0437;38;2017_1_V0437_38;42 - Caoutchouc / Gants / C5;C: <20*20 cm= 400 cm2;1;0.155;Organismes oui : Serpulidae + Ascidia
+CGFS;2017;1;V0441;40;2017_1_V0441_40;02 - Plastique / Morceaux / A2;C: <20*20 cm= 400 cm2;1;0.025;NA
+CGFS;2017;1;V0441;40;2017_1_V0441_40;08 - Plastique / Filets de peche / A8 _ L1f;B: <10*10 cm= 100 cm2;1;0.002;NA
+CGFS;2017;1;V0441;40;2017_1_V0441_40;60 - Divers / Vetements_ Chiffons / F1;A: <5*5 cm= 25 cm2;1;0.003;NA
+CGFS;2017;1;V0443;42;2017_1_V0443_42;07 - Plastique / Cordage synthetique / A7;B: <10*10 cm= 100 cm2;12;0.028;NA
+CGFS;2017;1;V0444;43;2017_1_V0444_43;02 - Plastique / Morceaux / A2;C: <20*20 cm= 400 cm2;1;0.025;Organismes oui : Aequopecten opercularis
+CGFS;2017;1;V0444;43;2017_1_V0444_43;07 - Plastique / Cordage synthetique / A7;C: <20*20 cm= 400 cm2;4;0.023;NA
+CGFS;2017;1;V0444;43;2017_1_V0444_43;29 - Metal / Objets lies a  la peche / B3 _ L3f - Hamecons_ etc.;C: <20*20 cm= 400 cm2;1;3;NA
+CGFS;2017;1;V0446;44;2017_1_V0446_44;02 - Plastique / Morceaux / A2;A: <5*5 cm= 25 cm2;1;0.002;NA
+CGFS;2017;1;V0446;44;2017_1_V0446_44;07 - Plastique / Cordage synthetique / A7;B: <10*10 cm= 100 cm2;55;0.07;NA
+CGFS;2017;1;V0447;45;2017_1_V0447_45;02 - Plastique / Morceaux / A2;B: <10*10 cm= 100 cm2;1;0.003;NA
+CGFS;2017;1;V0447;45;2017_1_V0447_45;07 - Plastique / Cordage synthetique / A7;B: <10*10 cm= 100 cm2;2;0.007;NA
+CGFS;2017;1;V0450;48;2017_1_V0450_48;07 - Plastique / Cordage synthetique / A7;B: <10*10 cm= 100 cm2;1;0.005;NA
+CGFS;2017;1;V0452;49;2017_1_V0452_49;43 - Caoutchouc / Autres / C6;B: <10*10 cm= 100 cm2;1;0.021;RONDELLE DE CHALUT
+CGFS;2017;1;V0453;50;2017_1_V0453_50;02 - Plastique / Morceaux / A2;C: <20*20 cm= 400 cm2;2;0.01;NA
+CGFS;2017;1;V0453;50;2017_1_V0453_50;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;2;0.002;NA
+CGFS;2017;1;V0456;53;2017_1_V0456_53;02 - Plastique / Morceaux / A2;C: <20*20 cm= 400 cm2;1;0.007;Organismes oui : Algua
+CGFS;2017;1;V0459;54;2017_1_V0459_54;02 - Plastique / Morceaux / A2;B: <10*10 cm= 100 cm2;2;0.004;NA
+CGFS;2017;1;V0459;54;2017_1_V0459_54;07 - Plastique / Cordage synthetique / A7;B: <10*10 cm= 100 cm2;2;0.005;NA
+CGFS;2017;1;V0461;56;2017_1_V0461_56;02 - Plastique / Morceaux / A2;A: <5*5 cm= 25 cm2;2;0.004;NA
+CGFS;2017;1;V0461;56;2017_1_V0461_56;07 - Plastique / Cordage synthetique / A7;B: <10*10 cm= 100 cm2;2;0.007;NA
+CGFS;2017;1;V0461;56;2017_1_V0461_56;43 - Caoutchouc / Autres / C6;C: <20*20 cm= 400 cm2;1;0.046;BANDE DE CHAMBRE A AIR
+CGFS;2017;1;V0462;57;2017_1_V0462_57;07 - Plastique / Cordage synthetique / A7;D: <50*50 cm= 2500 cm2;1;0.378;organismes oui : Balanus + ascidia
+CGFS;2017;1;V0462;57;2017_1_V0462_57;48 - Verre_ceramique / Morceau / D3;B: <10*10 cm= 100 cm2;2;0.06;NA
+CGFS;2017;1;V0464;59;2017_1_V0464_59;07 - Plastique / Cordage synthetique / A7;B: <10*10 cm= 100 cm2;2;0.004;NA
+CGFS;2017;1;V0465;60;2017_1_V0465_60;03 - Plastique / Sacs / A3 _ L1a;C: <20*20 cm= 400 cm2;1;0.005;NA
+CGFS;2017;1;V0468;63;2017_1_V0468_63;48 - Verre_ceramique / Morceau / D3;B: <10*10 cm= 100 cm2;1;0.129;NA
+CGFS;2017;1;V0468;63;2017_1_V0468_63;10 - Plastique / Bande de cerclage / A10;C: <20*20 cm= 400 cm2;1;0.02;NA
+CGFS;2017;1;V0471;64;2017_1_V0471_64;57 - Produits naturels / Bois recycle_ palettes / E4_L6 - Palettes_ caisses_ etc.;C: <20*20 cm= 400 cm2;1;1.001;NA
+CGFS;2017;1;V0473;66;2017_1_V0473_66;07 - Plastique / Cordage synthetique / A7;D: <50*50 cm= 2500 cm2;1;1.096;ORGANISMES OUI : BALANUS + BRYOZOA
+CGFS;2017;1;V0474;67;2017_1_V0474_67;02 - Plastique / Morceaux / A2;C: <20*20 cm= 400 cm2;1;0.003;NA
+CGFS;2017;1;V0474;67;2017_1_V0474_67;07 - Plastique / Cordage synthetique / A7;B: <10*10 cm= 100 cm2;3;0.007;NA
+CGFS;2017;1;V0475;68;2017_1_V0475_68;06 - Plastique / Lignes de peche (emmele) / A6 _ L1g;C: <20*20 cm= 400 cm2;1;0.017;NA
+CGFS;2017;1;V0479;71;2017_1_V0479_71;07 - Plastique / Cordage synthetique / A7;B: <10*10 cm= 100 cm2;1;0.009;NA
+CGFS;2017;1;V0479;71;2017_1_V0479_71;21 - Dechets sanitaires / Megots de cigarette / B3;A: <5*5 cm= 25 cm2;1;0.002;NA
+CGFS;2016;1;U0390;1;2016_1_U0390_1;02 - Plastique / Morceaux / A2;A: <5*5 cm= 25 cm2;2;0.005;0
+CGFS;2016;1;U0390;1;2016_1_U0390_1;07 - Plastique / Cordage synthetique / A7;B: <10*10 cm= 100 cm2;147;0.085;0
+CGFS;2016;1;U0390;1;2016_1_U0390_1;12 - Plastique / Autres / A14_L1j;A: <5*5 cm= 25 cm2;2;0.002;0
+CGFS;2016;1;U0390;1;2016_1_U0390_1;34 - Metal / Autres / B8;C: <20*20 cm= 400 cm2;1;30;0
+CGFS;2016;1;U0390;1;2016_1_U0390_1;41 - Caoutchouc / Pneu / C4 _ L2a;D: <50*50 cm= 2500 cm2;1;3;0
+CGFS;2016;1;U0391;2;2016_1_U0391_2;03 - Plastique / Sacs / A3 _ L1a;B: <10*10 cm= 100 cm2;3;0.008;0
+CGFS;2016;1;U0391;2;2016_1_U0391_2;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;8;0.011;0
+CGFS;2016;1;U0392;3;2016_1_U0392_3;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;1;0.002;0
+CGFS;2016;1;U0392;3;2016_1_U0392_3;60 - Divers / Vetements_ Chiffons / F1;B: <10*10 cm= 100 cm2;1;0.042;0
+CGFS;2016;1;U0395;4;2016_1_U0395_4;02 - Plastique / Morceaux / A2;A: <5*5 cm= 25 cm2;1;0.001;0
+CGFS;2016;1;U0395;4;2016_1_U0395_4;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;2;0.002;0
+CGFS;2016;1;U0395;4;2016_1_U0395_4;21 - Dechets sanitaires / Megots de cigarette / B3;A: <5*5 cm= 25 cm2;1;0.002;0
+CGFS;2016;1;U0397;6;2016_1_U0397_6;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;1;0.002;0
+CGFS;2016;1;U0397;6;2016_1_U0397_6;28 - Metal / Cannettes / B2 _ L3a;A: <5*5 cm= 25 cm2;1;0.005;0
+CGFS;2016;1;U0398;7;2016_1_U0398_7;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;1;0.005;0
+CGFS;2016;1;U0398;7;2016_1_U0398_7;02 - Plastique / Morceaux / A2;C: <20*20 cm= 400 cm2;1;0.06;0
+CGFS;2016;1;U0399;8;2016_1_U0399_8;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;2;0.017;0
+CGFS;2016;1;U0400;9;2016_1_U0400_9;03 - Plastique / Sacs / A3 _ L1a;D: <50*50 cm= 2500 cm2;1;0.05;0
+CGFS;2016;1;U0400;9;2016_1_U0400_9;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;3;0.007;0
+CGFS;2016;1;U0400;9;2016_1_U0400_9;21 - Dechets sanitaires / Megots de cigarette / B3;A: <5*5 cm= 25 cm2;1;0.002;0
+CGFS;2016;1;U0402;11;2016_1_U0402_11;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;1;0.007;0
+CGFS;2016;1;U0403;12;2016_1_U0403_12;02 - Plastique / Morceaux / A2;A: <5*5 cm= 25 cm2;2;0.002;0
+CGFS;2016;1;U0403;12;2016_1_U0403_12;07 - Plastique / Cordage synthetique / A7;B: <10*10 cm= 100 cm2;14;0.0019;0
+CGFS;2016;1;U0403;12;2016_1_U0403_12;34 - Metal / Autres / B8;B: <10*10 cm= 100 cm2;1;0.036;0
+CGFS;2016;1;U0403;12;2016_1_U0403_12;60 - Divers / Vetements_ Chiffons / F1;B: <10*10 cm= 100 cm2;7;0.035;0
+CGFS;2016;1;U0405;14;2016_1_U0405_14;02 - Plastique / Morceaux / A2;A: <5*5 cm= 25 cm2;1;0.002;0
+CGFS;2016;1;U0405;14;2016_1_U0405_14;07 - Plastique / Cordage synthetique / A7;B: <10*10 cm= 100 cm2;15;0.026;0
+CGFS;2016;1;U0405;14;2016_1_U0405_14;12 - Plastique / Autres / A14_L1j;A: <5*5 cm= 25 cm2;1;0.002;0
+CGFS;2016;1;U0406;15;2016_1_U0406_15;02 - Plastique / Morceaux / A2;A: <5*5 cm= 25 cm2;1;0.002;0
+CGFS;2016;1;U0406;15;2016_1_U0406_15;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;2;0.017;0
+CGFS;2016;1;U0407;16;2016_1_U0407_16;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;1;0.005;0
+CGFS;2016;1;U0408;17;2016_1_U0408_17;02 - Plastique / Morceaux / A2;B: <10*10 cm= 100 cm2;2;0.007;0
+CGFS;2016;1;U0408;17;2016_1_U0408_17;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;2;0.004;0
+CGFS;2016;1;U0409;18;2016_1_U0409_18;02 - Plastique / Morceaux / A2;A: <5*5 cm= 25 cm2;1;3;0
+CGFS;2016;1;U0409;18;2016_1_U0409_18;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;2;5;0
+CGFS;2016;1;U0410;19;2016_1_U0410_19;02 - Plastique / Morceaux / A2;A: <5*5 cm= 25 cm2;1;0.002;0
+CGFS;2016;1;U0410;19;2016_1_U0410_19;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;1;0.002;0
+CGFS;2016;1;U0411;20;2016_1_U0411_20;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;9;0.026;0
+CGFS;2016;1;U0411;20;2016_1_U0411_20;60 - Divers / Vetements_ Chiffons / F1;B: <10*10 cm= 100 cm2;1;0.03;0
+CGFS;2016;1;U0414;21;2016_1_U0414_21;02 - Plastique / Morceaux / A2;A: <5*5 cm= 25 cm2;1;0.002;0
+CGFS;2016;1;U0414;21;2016_1_U0414_21;03 - Plastique / Sacs / A3 _ L1a;C: <20*20 cm= 400 cm2;1;0.028;0
+CGFS;2016;1;U0414;21;2016_1_U0414_21;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;1;0.003;0
+CGFS;2016;1;U0414;21;2016_1_U0414_21;21 - Dechets sanitaires / Megots de cigarette / B3;A: <5*5 cm= 25 cm2;2;0.004;0
+CGFS;2016;1;U0415;22;2016_1_U0415_22;02 - Plastique / Morceaux / A2;B: <10*10 cm= 100 cm2;3;0.01;0
+CGFS;2016;1;U0416;23;2016_1_U0416_23;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;3;10;0
+CGFS;2016;1;U0417;24;2016_1_U0417_24;02 - Plastique / Morceaux / A2;A: <5*5 cm= 25 cm2;1;0.006;0
+CGFS;2016;1;U0417;24;2016_1_U0417_24;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;1;0.005;0
+CGFS;2016;1;U0417;24;2016_1_U0417_24;34 - Metal / Autres / B8;B: <10*10 cm= 100 cm2;1;0.03;0
+CGFS;2016;1;U0418;25;2016_1_U0418_25;02 - Plastique / Morceaux / A2;A: <5*5 cm= 25 cm2;2;0.005;0
+CGFS;2016;1;U0418;25;2016_1_U0418_25;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;3;0.007;0
+CGFS;2016;1;U0419;26;2016_1_U0419_26;02 - Plastique / Morceaux / A2;C: <20*20 cm= 400 cm2;1;0.025;0
+CGFS;2016;1;U0419;26;2016_1_U0419_26;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;1;0.002;0
+CGFS;2016;1;U0420;27;2016_1_U0420_27;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;2;0.005;0
+CGFS;2016;1;U0421;28;2016_1_U0421_28;07 - Plastique / Cordage synthetique / A7;B: <10*10 cm= 100 cm2;5;0.006;0
+CGFS;2016;1;U0422;29;2016_1_U0422_29;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;2;2;0
+CGFS;2016;1;U0423;30;2016_1_U0423_30;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;1;2;0
+CGFS;2016;1;U0424;31;2016_1_U0424_31;03 - Plastique / Sacs / A3 _ L1a;B: <10*10 cm= 100 cm2;1;0.01;0
+CGFS;2016;1;U0424;31;2016_1_U0424_31;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;1;0.01;0
+CGFS;2016;1;U0426;33;2016_1_U0426_33;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;1;0.001;0
+CGFS;2016;1;U0427;34;2016_1_U0427_34;07 - Plastique / Cordage synthetique / A7;B: <10*10 cm= 100 cm2;17;0.042;0
+CGFS;2016;1;U0428;35;2016_1_U0428_35;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;2;0.006;0
+CGFS;2016;1;U0428;35;2016_1_U0428_35;40 - Caoutchouc / Bobines (peche) / C3;B: <10*10 cm= 100 cm2;1;0.012;0
+CGFS;2016;1;U0430;37;2016_1_U0430_37;01 - Plastique / Bouteille / A1 _ L1b;B: <10*10 cm= 100 cm2;1;0.004;0
+CGFS;2016;1;U0430;37;2016_1_U0430_37;07 - Plastique / Cordage synthetique / A7;B: <10*10 cm= 100 cm2;3;0.015;0
+CGFS;2016;1;U0431;38;2016_1_U0431_38;02 - Plastique / Morceaux / A2;B: <10*10 cm= 100 cm2;1;0.002;0
+CGFS;2016;1;U0431;38;2016_1_U0431_38;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;2;0.005;0
+CGFS;2016;1;U0432;39;2016_1_U0432_39;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;1;0.002;0
+CGFS;2016;1;U0433;40;2016_1_U0433_40;07 - Plastique / Cordage synthetique / A7;B: <10*10 cm= 100 cm2;1;0.01;0
+CGFS;2016;1;U0435;42;2016_1_U0435_42;02 - Plastique / Morceaux / A2;B: <10*10 cm= 100 cm2;2;0.003;0
+CGFS;2016;1;U0435;42;2016_1_U0435_42;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;1;0.002;0
+CGFS;2016;1;U0435;42;2016_1_U0435_42;12 - Plastique / Autres / A14_L1j;D: <50*50 cm= 2500 cm2;1;0.56;0
+CGFS;2016;1;U0436;43;2016_1_U0436_43;02 - Plastique / Morceaux / A2;B: <10*10 cm= 100 cm2;1;0.002;0
+CGFS;2016;1;U0436;43;2016_1_U0436_43;56 - Produits naturels / papier_ carton / E3 _ L7;C: <20*20 cm= 400 cm2;1;1330;0
+CGFS;2016;1;U0437;44;2016_1_U0437_44;03 - Plastique / Sacs / A3 _ L1a;D: <50*50 cm= 2500 cm2;1;0.028;0
+CGFS;2016;1;U0438;45;2016_1_U0438_45;02 - Plastique / Morceaux / A2;C: <20*20 cm= 400 cm2;6;0.12;0
+CGFS;2016;1;U0438;45;2016_1_U0438_45;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;1;0.001;0
+CGFS;2016;1;U0439;46;2016_1_U0439_46;02 - Plastique / Morceaux / A2;B: <10*10 cm= 100 cm2;2;0.002;0
+CGFS;2016;1;U0440;47;2016_1_U0440_47;02 - Plastique / Morceaux / A2;A: <5*5 cm= 25 cm2;1;0.002;0
+CGFS;2016;1;U0440;47;2016_1_U0440_47;07 - Plastique / Cordage synthetique / A7;B: <10*10 cm= 100 cm2;1;0.007;0
+CGFS;2016;1;U0445;49;2016_1_U0445_49;02 - Plastique / Morceaux / A2;A: <5*5 cm= 25 cm2;1;0.001;0
+CGFS;2016;1;U0445;49;2016_1_U0445_49;07 - Plastique / Cordage synthetique / A7;C: <20*20 cm= 400 cm2;5;0.109;0
+CGFS;2016;1;U0447;51;2016_1_U0447_51;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;1;0.001;0
+CGFS;2016;1;U0451;53;2016_1_U0451_53;02 - Plastique / Morceaux / A2;A: <5*5 cm= 25 cm2;2;0.007;0
+CGFS;2016;1;U0451;53;2016_1_U0451_53;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;2;0.002;0
+CGFS;2016;1;U0452;54;2016_1_U0452_54;02 - Plastique / Morceaux / A2;A: <5*5 cm= 25 cm2;1;0.001;0
+CGFS;2016;1;U0452;54;2016_1_U0452_54;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;1;0.001;0
+CGFS;2016;1;U0454;56;2016_1_U0454_56;07 - Plastique / Cordage synthetique / A7;B: <10*10 cm= 100 cm2;1;0.009;0
+CGFS;2016;1;U0458;58;2016_1_U0458_58;02 - Plastique / Morceaux / A2;B: <10*10 cm= 100 cm2;3;0.01;0
+CGFS;2016;1;U0458;58;2016_1_U0458_58;07 - Plastique / Cordage synthetique / A7;C: <20*20 cm= 400 cm2;48;0.03;0
+CGFS;2016;1;U0458;58;2016_1_U0458_58;10 - Plastique / Bande de cerclage / A10;A: <5*5 cm= 25 cm2;1;0.003;0
+CGFS;2016;1;U0458;58;2016_1_U0458_58;21 - Dechets sanitaires / Megots de cigarette / B3;A: <5*5 cm= 25 cm2;2;0.004;0
+CGFS;2016;1;U0459;59;2016_1_U0459_59;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;2;0.005;0
+CGFS;2016;1;U0461;61;2016_1_U0461_61;02 - Plastique / Morceaux / A2;B: <10*10 cm= 100 cm2;1;0.002;0
+CGFS;2016;1;U0461;61;2016_1_U0461_61;07 - Plastique / Cordage synthetique / A7;B: <10*10 cm= 100 cm2;17;0.021;0
+CGFS;2016;1;U0461;61;2016_1_U0461_61;21 - Dechets sanitaires / Megots de cigarette / B3;A: <5*5 cm= 25 cm2;1;0.002;0
+CGFS;2016;1;U0462;62;2016_1_U0462_62;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;3;0.007;0
+CGFS;2016;1;U0463;63;2016_1_U0463_63;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;1;0.002;0
+CGFS;2016;1;U0464;64;2016_1_U0464_64;40 - Caoutchouc / Bobines (peche) / C3;C: <20*20 cm= 400 cm2;1;0.151;0
+CGFS;2016;1;U0465;65;2016_1_U0465_65;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;3;0.005;0
+CGFS;2016;1;U0466;66;2016_1_U0466_66;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;2;0.005;0
+CGFS;2016;1;U0467;67;2016_1_U0467_67;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;4;0.008;0
+CGFS;2016;1;U0467;67;2016_1_U0467_67;54 - Produits naturels / Bois (travaille) / E1;C: <20*20 cm= 400 cm2;1;0.673;0
+CGFS;2016;1;U0468;68;2016_1_U0468_68;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;1;0.002;0
+CGFS;2016;1;U0474;74;2016_1_U0474_74;02 - Plastique / Morceaux / A2;C: <20*20 cm= 400 cm2;1;0.007;0
+CGFS;2016;1;U0475;75;2016_1_U0475_75;02 - Plastique / Morceaux / A2;A: <5*5 cm= 25 cm2;1;0.002;0
+CGFS;2016;1;U0475;75;2016_1_U0475_75;03 - Plastique / Sacs / A3 _ L1a;D: <50*50 cm= 2500 cm2;1;0.045;0
+CGFS;2016;1;U0475;75;2016_1_U0475_75;07 - Plastique / Cordage synthetique / A7;A: <5*5 cm= 25 cm2;2;0.005;0
+CGFS;2014;1;49;49;2014_1_49_7O2_49;41 - Caoutchouc / Pneu / C4 _ L2a;E: <100*100 cm= 10000 cm2= 1 m2;1;200;PNEU DE SEMI REMORQUE@@
+CGFS;2014;1;49;49;2014_1_49_7O2_49;26 - Metal / B _ L3;E: <100*100 cm= 10000 cm2= 1 m2;1;20;ANCRE
+CGFS;2014;1;68;68;2014_1_68_3L1_68;00 - Plastique / A _ L1;A: <5*5 cm= 25 cm2;1;0.03;NA
+CGFS;2014;1;77;77;2014_1_77_5C1_77;13 - Plastique / Emballages alimentaires / L1c;B: <10*10 cm= 100 cm2;1;0.02;NA
+CGFS;2014;1;80;80;2014_1_80_6G1_80;00 - Plastique / A _ L1;A: <5*5 cm= 25 cm2;1;0.02;NA
+CGFS;2014;1;81;81;2014_1_81_6H1_81;00 - Plastique / A _ L1;A: <5*5 cm= 25 cm2;1;0.06;NA
+CGFS;2014;1;88;88;2014_1_88_2I1_88;01 - Plastique / Bouteille / A1 _ L1b;B: <10*10 cm= 100 cm2;1;0.1;NA
+CGFS;2014;1;91;91;2014_1_91_1I2_91;01 - Plastique / Bouteille / A1 _ L1b;B: <10*10 cm= 100 cm2;1;0.04;NA
+CGFS;2014;1;91;91;2014_1_91_1I2_91;37 - Caoutchouc / D _ L2;B: <10*10 cm= 100 cm2;1;0.12;NA
+CGFS;2014;1;95;95;2014_1_95_3C1_95;08 - Plastique / Filets de peche / A8 _ L1f;A: <5*5 cm= 25 cm2;1;5;NA
