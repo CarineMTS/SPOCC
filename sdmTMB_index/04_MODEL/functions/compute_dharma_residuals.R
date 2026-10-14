@@ -14,10 +14,7 @@
 
 # Generate DHARMa residual objects from simulated responses and fitted values.
 # Returns a named list of DHARMa objects, one per converged model.
-dharma_from_sim <- function(converged_models,
-                            region_name = "region",
-                            nsim = 1000,
-                            seed = 1) {
+dharma_from_sim <- function(converged_models, region_name) {
   
   # Select data according to region 
   if (region_name == "west") {
@@ -57,7 +54,7 @@ dharma_from_sim <- function(converged_models,
         set.seed(123)
         
         # Simulate responses using the MLE-MVN approximation
-        sim_matrix <- simulate(fitted_model, nsim = nsim, type = "mle-mvn")
+        sim_matrix <- simulate(fitted_model, nsim = 1000, type = "mle-mvn")
         
         # Extract fitted predictions on the response scale
         fitted_pred <- predict(fitted_model, type = "response")$est
