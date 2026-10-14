@@ -98,7 +98,7 @@ if (isTRUE(West_English_Channel)) {
 
 # Compute Moran's I for the Eastern English Channel
 if (isTRUE(East_English_Channel)) {
-  moran_by_region$west <- compute_plot_Moran(region_name = "east")
+  moran_by_region$east <- compute_plot_Moran(region_name = "east")
 }
 
 

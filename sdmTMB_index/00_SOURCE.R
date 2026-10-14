@@ -173,6 +173,6 @@ source(here::here("sdmTMB_index/04_MODEL/functions/plot_simulated_coefficient_va
 # Render the HTML report containing model results and diagnostics
 rmarkdown::render(input = here::here("sdmTMB_index/04_MODEL/report/sdm_report.Rmd"),
                   output_dir = new_repertory_model,
-                  output_file = paste0(sp_name_safe, "sdm_report", ".html"))
+                  output_file = paste0(sp_name_safe, "_sdm_report", ".html"))
 
 
