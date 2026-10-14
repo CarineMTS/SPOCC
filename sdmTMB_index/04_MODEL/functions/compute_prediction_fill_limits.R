@@ -66,7 +66,7 @@ if (!is.null(grid_by_region$west$grid_pred)) {
 
 # Calculate prediction ranges across all meshes and model families,
 # separately for each region and response variable.
-fill_limits_by_region <- lapply(converged_models_predictions, function(region_data) {
+fill_limits_by_region <- lapply(model_predictions_by_region, function(region_data) {
   
   response_names <- unique(unlist(
     lapply(region_data, function(mesh_data) names(mesh_data))
@@ -139,17 +139,17 @@ plot_pred_map <- function(data,land_obj,
 prediction_maps <- list()
 
 # Loop over regions
-for(region in names(converged_models_predictions)){
+for(region in names(model_predictions_by_region)){
   
   prediction_maps[[region]] <- list()
   land_obj <- land_by_region[[region]]
   
   # Loop over mesh configurations
-  for (mesh_name in names(converged_models_predictions[[region]])) {
+  for (mesh_name in names(model_predictions_by_region[[region]])) {
     prediction_maps[[region]][[mesh_name]] <- list()
     
     # Loop over response variables  
-    for(response in names(converged_models_predictions[[region]][[mesh_name]])){
+    for(response in names(model_predictions_by_region[[region]][[mesh_name]])){
       
       prediction_maps[[region]][[mesh_name]][[response]] <- list()
       
@@ -157,13 +157,19 @@ for(region in names(converged_models_predictions)){
       fill_limits <- fill_limits_by_region[[region]][[response]]
       
       # Loop over fitted model families
-      for(model_name in names(converged_models_predictions[[region]][[mesh_name]][[response]])){
+      for(model_name in names(model_predictions_by_region[[region]][[mesh_name]][[response]])){
         
         # Extract model predictions
         predictions <- as.data.frame(
-          converged_models_predictions[[region]][[mesh_name]][[response]][[model_name]]$predictions)
+          model_predictions_by_region[[region]][[mesh_name]][[response]][[model_name]]$predictions)
         
-        # Attach regular-grid coordinates using cell and year identifiers
+        # Retrieve the prediction grid corresponding to the current region
+        map_coords <- grid_by_region[[region]]$grid_pred %>%
+          sf::st_drop_geometry() %>%
+          dplyr::select(cell_id, year, X_map_m, Y_map_m) %>%
+          dplyr::distinct()
+        
+        # Attach regular-grid coordinates to model predictions
         predictions <- predictions %>%
           dplyr::left_join(map_coords, by = c("cell_id", "year"))
         

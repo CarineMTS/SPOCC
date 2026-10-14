@@ -31,7 +31,9 @@ source(here::here("sdmTMB_index/04_MODEL/packages/packages.R"))
 sp_scientific <- "Spondyliosoma cantharus"
 
 # Select the study regions (and/or)
+# ICES division 7e
 West_English_Channel <- FALSE
+# ICES division 7d
 East_English_Channel <- TRUE
 
 # Create the species-specific output directory

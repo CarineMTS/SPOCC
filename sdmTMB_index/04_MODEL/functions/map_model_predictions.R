@@ -103,20 +103,20 @@ plot_pred_map <- function(data, land_obj, response,subtitle){
 # mesh resolution and converged model family.
 prediction_maps <- list()
 
-for(region in names(converged_models_predictions)){
+for(region in names(model_predictions_by_region)){
   prediction_maps[[region]] <- list()
   land_obj <- land_by_region[[region]]
   
   # Retrieve regular grid coordinates for the current region
   map_coords <- map_coords_by_region[[region]]
   
-  for (mesh_name in names(converged_models_predictions[[region]])) {
+  for (mesh_name in names(model_predictions_by_region[[region]])) {
     prediction_maps[[region]][[mesh_name]] <- list()
     
-    for(model_name in names(converged_models_predictions[[region]][[mesh_name]][["totalWeightKg"]])){
+    for(model_name in names(model_predictions_by_region[[region]][[mesh_name]][["totalWeightKg"]])){
       # Extract model predictions
       predictions <- as.data.frame(
-        converged_models_predictions[[region]][[mesh_name]][["totalWeightKg"]][[model_name]]$predictions)
+        model_predictions_by_region[[region]][[mesh_name]][["totalWeightKg"]][[model_name]]$predictions)
       
       # Restore regular UTM grid coordinates using cell_id and year
       # Remove existing columns first to avoid duplicate column names
