@@ -121,4 +121,4 @@ if (isTRUE(East_English_Channel)) {
 # Save spatial predictions and bias-corrected abundance indices by region
 saveRDS(model_predictions_by_region,
         file.path(new_repertory_model,
-                  paste0(sp_name_safe, "_model_predictions_by_region.rds")))
+                  paste0(sp_name_safe, "_model_predictions.rds")))

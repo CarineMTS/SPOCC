@@ -108,5 +108,5 @@ if (isTRUE(East_English_Channel)) {
 
 saveRDS(moran_by_region,
         file.path(new_repertory_model, 
-                  paste0(sp_name_safe, "_moran_by_region.rds")))
+                  paste0(sp_name_safe, "_moran_I_autocorrelation.rds")))
 

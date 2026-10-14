@@ -102,4 +102,4 @@ if (isTRUE(East_English_Channel)) {
 # Save annual residual maps from non-spatial baseline models
 saveRDS(plot_resids_withoutRF,
         file.path(new_repertory_model, 
-                  paste0(sp_name_safe, "_plot_resids_withoutRF.rds")))
+                  paste0(sp_name_safe, "_residuals_without_random_fields.rds")))

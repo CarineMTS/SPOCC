@@ -102,7 +102,7 @@ if (isTRUE(East_English_Channel)) {
 # Save simulation-based DHARMa residual objects by region
 saveRDS(dharma_by_region, 
         file.path(new_repertory_model, 
-                  paste0(sp_name_safe, "_", "dharma_by_region.rds")))
+                  paste0(sp_name_safe, "_", "dharma_residuals.rds")))
 
 
 

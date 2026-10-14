@@ -181,4 +181,4 @@ if (isTRUE(East_English_Channel)) {
 # Save all fitted candidate models 
 saveRDS(fitted_models_by_region,
         file.path(new_repertory_model,
-                  paste0(sp_name_safe, "_fitted_models_by_region.rds")))
+                  paste0(sp_name_safe, "_fitted_candidate_models.rds")))

@@ -157,5 +157,5 @@ if ("east" %in% names(converged_models)) {
 # including uncertainty intervals, for all converged models.
 saveRDS(params_by_region,
         file.path(new_repertory_model,
-                  paste0(sp_name_safe, "_parameter_estimates_by_region.rds")))
+                  paste0(sp_name_safe, "_model_parameters.rds")))
 

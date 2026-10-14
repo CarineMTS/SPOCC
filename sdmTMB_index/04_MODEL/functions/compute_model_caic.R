@@ -98,6 +98,6 @@ if (isTRUE(East_English_Channel)) {
 # Save conditional AIC values and differences by region
 saveRDS(cAIC_by_region,
         file.path(new_repertory_model, 
-                  paste0(sp_name_safe, "_cAIC_by_region.rds")))
+                  paste0(sp_name_safe, "_conditionnal_AIC.rds")))
 
 
