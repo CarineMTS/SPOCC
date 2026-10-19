@@ -23,7 +23,7 @@ These datasets contain scientific bottom-trawl survey observations used for spec
 
 ### 3. Land boundaries (`ne_10m_land.rds`)
 
-Land polygon data from `rnaturalearth` R package, at 1:10 million scale, stored locally as an RDS file.
+Land polygon data from `rnaturalearth` R package, stored locally as an RDS file.
 
 ## Data availability
 
