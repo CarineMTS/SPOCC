@@ -19,7 +19,7 @@ Data files are stored locally and excluded from version control via `.gitignore`
 - ECGFS: Eastern Channel Groundfish Survey
 - WCGFS: Western Channel Groundfish Survey
 
-These datasets contain scientific bottom-trawl survey observations used for species distribution modelling and abundance index estimation.
+These datasets contain scientific bottom-trawl survey observations used for species distribution modelling and biomass index estimation.
 
 ### 3. Land boundaries (`ne_10m_land.rds`)
 
