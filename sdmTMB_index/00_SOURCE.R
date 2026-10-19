@@ -71,9 +71,9 @@ west_params <- list(cutoff_values = c(3, 5, 7, 10, 15),
                     max_edge_out = rep(100, 5))
 
 # Define mesh parameters for the Eastern English Channel
-east_params <- list(cutoff_values = c(3, 5, 7, 10, 15),
-                    max_edge_in = c(15, 25, 35, 50, 75),
-                    max_edge_out = rep(100, 5))
+east_params <- list(cutoff_values = c(5, 7, 10, 15),
+                    max_edge_in = c(125, 35, 50, 75),
+                    max_edge_out = rep(100, 4))
 
 # Generate all mesh configurations for the selected regions
 source(here::here("sdmTMB_index/04_MODEL/functions/create_meshes.R"))

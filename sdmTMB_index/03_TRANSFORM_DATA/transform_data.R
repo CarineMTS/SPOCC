@@ -24,7 +24,7 @@ west7e <- terra::vect(here("sdmTMB_index/01_DATA/shapefiles/west7e/west7e.shp"))
 east7d <- terra::vect(here("sdmTMB_index/01_DATA/shapefiles/east7d/east7d.shp"))
 
 # Load locally saved Natural Earth land polygons
-land_ne <- readRDS(here("01_DATA/ne_10m_land.rds"))
+land_ne <- readRDS(here("sdmTMB_index/01_DATA/ne_10m_land.rds"))
 
 
 

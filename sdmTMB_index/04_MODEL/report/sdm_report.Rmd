@@ -15,6 +15,7 @@ editor_options:
 knitr::opts_knit$set(root.dir = getwd())                                
 knitr::opts_knit$set(envir = globalenv())                             
 knitr::opts_chunk$set(echo = FALSE, message=FALSE, warning=FALSE)
+knitr::opts_chunk$set(dev = "ragg_png")
 ```
 
 ```{r include=FALSE}
@@ -44,7 +45,7 @@ if (isTRUE(West_English_Channel)) {
 
   plot_west <- NULL
   
-  EC_sf <- vect(here("01_DATA", "shapefiles", "west7e", "west7e.shp"))%>%
+  EC_sf <- vect(here("sdmTMB_index/01_DATA/shapefiles/west7e/west7e.shp"))%>%
     sf::st_as_sf() %>%
     sf::st_transform(4326)
 
@@ -78,7 +79,7 @@ if (isTRUE(East_English_Channel)) {
 
   plot_east <- NULL
   
-  EC_sf <- vect(here("01_DATA", "shapefiles", "east7d", "east7d.shp")) %>%
+  EC_sf <- vect(here("sdmTMB_index/01_DATA/shapefiles/east7d/east7d.shp")) %>%
     sf::st_as_sf() %>%
     sf::st_transform(4326)
     
@@ -120,7 +121,7 @@ if (isTRUE(West_English_Channel)) {
 
   plot_west <- NULL
 
-  EC_sf <- vect(here("01_DATA", "shapefiles", "west7e", "west7e.shp")) %>%
+  EC_sf <- vect(here("sdmTMB_index/01_DATA/shapefiles/west7e/west7e.shp"))%>%
   sf::st_as_sf() %>%
   sf::st_transform(4326)
 
@@ -155,7 +156,7 @@ if (isTRUE(East_English_Channel)) {
 
   plot_east <- NULL
 
-  EC_sf <- vect(here("01_DATA", "shapefiles", "east7d", "east7d.shp")) %>%
+  EC_sf <- vect(here("sdmTMB_index/01_DATA/shapefiles/east7d/east7d.shp")) %>%
     sf::st_as_sf() %>%
     sf::st_transform(4326)
   
